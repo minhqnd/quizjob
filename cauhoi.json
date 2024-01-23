@@ -1,0 +1,194 @@
+{
+    "cauhoi": [
+        {
+            "noidung": "Điều lệ Đảng cộng sản Việt Nam được Đại hội đại biểu toàn quốc lần thứ XI của Đảng thông qua ngày, tháng năm nào?",
+            "dapan": {
+                "a": "ngày 19 tháng 01 năm 2011",
+                "b": "ngày 03 tháng 02 năm 2011",
+                "c": "ngày 19 tháng 5 năm 2011"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Chọn đáp án đúng",
+            "dapan": {
+                "a": "Công dân Việt Nam từ đủ mười tám tuổi trở lên; thừa nhận và tự nguyện : thực hiện Cương lĩnh chính trị, Điều lệ Đảng, tiêu chuẩn và nhiệm vụ đảng viên, hoạt động trong một tổ chức cơ sở đảng; qua thực tiễn chứng tỏ là người ưu tú, được nhân dân tín nhiệm, đều có thể được xét để kết nạp vào Đảng.",
+                "b": "Công dân Việt Nam đủ mười tám tuổi trở lên; thừa nhận và tự nguyện : thực hiện Cương lĩnh chính trị, Điều lệ Đảng, tiêu chuẩn và nhiệm vụ đảng viên, hoạt động trong một tổ chức cơ sở đảng; qua thực tiễn chứng tỏ là người ưu tú, được nhân dân tín nhiệm, đều có thể được xét để kết nạp vào Đảng.",
+                "c": "Công dân Việt Nam từ mười tám tuổi trở lên; thừa nhận và tự nguyện : thực hiện Cương lĩnh chính trị, Điều lệ Đảng, tiêu chuẩn và nhiệm vụ đảng viên, hoạt động trong một tổ chức cơ sở đảng; qua thực tiễn chứng tỏ là người ưu tú, được nhân dân tín nhiệm, đều có thể được xét để kết nạp vào Đảng."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Đảng viên dự bị không có quyền nào dưới đây?",
+            "dapan": {
+                "a": "Không có quyền biểu quyết, ứng cử và bầu cử cơ quan lãnh đạo của Đảng",
+                "b": "Không có quyền biểu quyết, đề cử, ứng cử, đề cử và bầu cử cơ quan lãnh đạo của Đảng",
+                "c": "Không có quyền biểu quyết, ứng cử và bầu cử cơ quan lãnh đạo của Đảng, Nhà nước."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Người vào đảng phải được bao nhiêu đảng viên chính thức giới thiệu",
+            "dapan": {
+                "a": "1",
+                "b": "2",
+                "c": "3"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Chi bộ xét và đề nghị kết nạp đảng viên khi được ít nhất bao nhiêu số đảng viên chính thức trong chi bộ tán thành",
+            "dapan": {
+                "a": "một phần ba",
+                "b": "một phần hai",
+                "c": "hai phần ba"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Người được kết nạp vào Đảng phải trải qua thời kỳ dự bị bao nhiêu tháng, tính từ ngày chi bộ tổ chức lễ kết nạp",
+            "dapan": {
+                "a": "mười hai tháng",
+                "b": "sáu tháng",
+                "c": "mười tám tháng"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Nghị quyết của các cơ quan lãnh đạo của Đảng chỉ có giá trị thi hành khi nào",
+            "dapan": {
+                "a": "có hơn một phần ba số thành viên trong cơ quan đó tán thành",
+                "b": "có một nửa số thành viên trong cơ quan đó tán thành",
+                "c": "có hơn một nửa số thành viên trong cơ quan đó tán thành"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Đại hội chỉ hợp lệ khi",
+            "dapan": {
+                "a": "có ít nhất hai phần ba số đại biểu hoặc đảng viên được triệu tập tham dự và có ít nhất hai phần ba số tổ chức đảng trực thuộc có đại biểu tham dự",
+                "b": "có ít nhất một phần hai số đại biểu hoặc đảng viên được triệu tập tham dự và có ít nhất hai phần ba số tổ chức đảng trực thuộc có đại biểu tham dự",
+                "c": "có hai phần ba số đại biểu hoặc đảng viên được triệu tập tham dự và có ít nhất hai phần ba số tổ chức đảng trực thuộc có đại biểu tham dự"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Tổ chức cơ sở đảng (chi bộ cơ sở, đảng bộ cơ sở) là",
+            "dapan": {
+                "a": "nền tảng của Đảng, là hạt nhân chính trị quan trọng ở cơ sở.",
+                "b": "nền tảng của Đảng, là hạt nhân chính trị ở cơ sở.",
+                "c": "nền tảng của Đảng, là hạt nhân chính trị."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Tổ chức cơ sở đảng dưới bao nhiêu đảng viên, lập chi bộ cơ sở, có các tổ đảng trực thuộc.",
+            "dapan": {
+                "a": "30",
+                "b": "40",
+                "c": "50"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Tổ chức cơ sở đảng có từ bao nhiêu đảng viên trở lên, lập đảng bộ cơ sở, có các chi bộ trực thuộc đảng uỷ.",
+            "dapan": {
+                "a": "30",
+                "b": "40",
+                "c": "50"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Chi bộ có bao nhiêu đảng viên chính thức, bầu bí thư chi bộ; nếu cần, bầu phó bí thư.",
+            "dapan": {
+                "a": "Dưới 8",
+                "b": "Dưới 9",
+                "c": "Dưới 10"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Đảng lãnh đạo Quân đội nhân dân Việt Nam và Công an nhân dân Việt Nam như thế nào?",
+            "dapan": {
+                "a": "Tuyệt đối, trực tiếp về mọi mặt",
+                "b": "Tuyệt đối, trực tiếp.",
+                "c": "Tuyệt đối, trực tiếp về một số mặt quan trọng."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Bí thư Quân uỷ Trung ương là",
+            "dapan": {
+                "a": "Bộ trưởng Bộ Quốc phòng",
+                "b": "Tổng Bí thư",
+                "c": "Thủ tướng Chính phủ"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Hình thức kỷ luật Đối với tổ chức đảng gồm",
+            "dapan": {
+                "a": "Khiển trách, cảnh cáo, giải tán",
+                "b": "Khiển trách, cảnh cáo, cách chức, giải tán;",
+                "c": "Khiển trách, cảnh cáo;"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Hình thức kỷ luật Đối với đảng viên chính thức",
+            "dapan": {
+                "a": "Khiển trách, cảnh cáo, cách chức",
+                "b": "Khiển trách, cảnh cáo, cách chức, khai trừ;",
+                "c": "Khiển trách, cảnh cáo, khai trừ;"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Hình thức kỷ luật Đối với đảng viên dự khuyết",
+            "dapan": {
+                "a": "Khiển trách, cảnh cáo, cách chức",
+                "b": "Khiển trách, cảnh cáo, cách chức, khai trừ;",
+                "c": "Khiển trách, cảnh cáo;"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Thẩm quyền thi hành kỷ luật đảng viên vi phạm của Chi bộ",
+            "dapan": {
+                "a": "Quyết định khiển trách, cảnh cáo đảng viên trong chi bộ (kể cả cấp uỷ viên các cấp, đảng viên thuộc diện cấp uỷ cấp trên quản lý) vi phạm phẩm chất chính trị, tư tưởng, đạo đức, lối sống, sinh hoạt đảng, thực hiện nhiệm vụ đảng viên (trừ nhiệm vụ do cấp trên giao).",
+                "b": "Quyết định khiển trách, cảnh cáo, cách chức đảng viên trong chi bộ (kể cả cấp uỷ viên các cấp, đảng viên thuộc diện cấp uỷ cấp trên quản lý) vi phạm phẩm chất chính trị, tư tưởng, đạo đức, lối sống, sinh hoạt đảng, thực hiện nhiệm vụ đảng viên (trừ nhiệm vụ do cấp trên giao).",
+                "c": "Quyết định khiển trách, cảnh cáo, khai trừ đảng viên trong chi bộ (kể cả cấp uỷ viên các cấp, đảng viên thuộc diện cấp uỷ cấp trên quản lý) vi phạm phẩm chất chính trị, tư tưởng, đạo đức, lối sống, sinh hoạt đảng, thực hiện nhiệm vụ đảng viên (trừ nhiệm vụ do cấp trên giao)."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thẩm quyền thi hành kỷ luật đảng viên vi phạm của Đảng uỷ cơ sở",
+            "dapan": {
+                "a": "quyết định khiển trách, cảnh cáo, cách chức đảng viên trong đảng bộ, cách chức cấp uỷ viên cấp dưới.",
+                "b": "quyết định khiển trách, cảnh cáo, khai trừ đảng viên trong đảng bộ, cách chức cấp uỷ viên cấp dưới.",
+                "c": "quyết định khiển trách, cảnh cáo đảng viên trong đảng bộ, cách chức cấp uỷ viên cấp dưới."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Chọn đáp án đúng",
+            "dapan": {
+                "a": "Ban Chấp hành Trung ương quyết định các hình thức kỷ luật đảng viên, trừ Uỷ viên Ban Chấp hành Trung ương, Uỷ viên Ban Bí thư, Uỷ viên Bộ Chính trị.",
+                "b": "Ban Chấp hành Trung ương quyết định các hình thức kỷ luật đảng viên, kể cả Uỷ viên Ban Chấp hành Trung ương, Uỷ viên Ban Bí thư, Uỷ viên Bộ Chính trị.",
+                "c": "Ban Chấp hành Trung ương quyết định các hình thức kỷ luật đảng viên, kể cả Uỷ viên Ban Chấp hành Trung ương, Uỷ viên Ban Bí thư."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Chọn đáp án đúng",
+            "dapan": {
+                "a": "Uỷ ban kiểm tra từ cấp huyện, quận và tương đương trở lên quyết định các hình thức kỷ luật đảng viên, nhưng không phải là cấp uỷ viên cùng cấp; quyết định khiển trách, cảnh cáo, khai trừ đảng viên là cán bộ thuộc diện cấp uỷ cùng cấp quản lý và cấp uỷ viên cấp dưới trực tiếp",
+                "b": "Uỷ ban kiểm tra từ cấp huyện, quận và tương đương trở lên quyết định các hình thức kỷ luật đảng viên, kể cả là cấp uỷ viên cùng cấp; quyết định khiển trách, cảnh cáo đảng viên là cán bộ thuộc diện cấp uỷ cùng cấp quản lý và cấp uỷ viên cấp dưới trực tiếp",
+                "c": "Uỷ ban kiểm tra từ cấp huyện, quận và tương đương trở lên quyết định các hình thức kỷ luật đảng viên, nhưng không phải là cấp uỷ viên cùng cấp; quyết định khiển trách, cảnh cáo đảng viên là cán bộ thuộc diện cấp uỷ cùng cấp quản lý và cấp uỷ viên cấp dưới trực tiếp"
+            },
+            "dapandung": "B"
+        }
+                        
+    ]
+}
