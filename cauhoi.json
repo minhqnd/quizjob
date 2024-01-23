@@ -188,7 +188,84 @@
                 "c": "Uỷ ban kiểm tra từ cấp huyện, quận và tương đương trở lên quyết định các hình thức kỷ luật đảng viên, nhưng không phải là cấp uỷ viên cùng cấp; quyết định khiển trách, cảnh cáo đảng viên là cán bộ thuộc diện cấp uỷ cùng cấp quản lý và cấp uỷ viên cấp dưới trực tiếp"
             },
             "dapandung": "B"
+        },
+        {
+            "noidung": "Chỉ giải tán một tổ chức đảng khi tổ chức đó phạm một trong các trường hợp:",
+            "dapan": {
+                "a": "có hành động chống đường lối, chính sách của Đảng; vi phạm đặc biệt nghiêm trọng nguyên tắc tổ chức và sinh hoạt đảng hoặc pháp luật của Nhà nước.",
+                "b": "có hành động chống đường lối, chính sách của Đảng; vi phạm nghiêm trọng nguyên tắc tổ chức và sinh hoạt đảng hoặc pháp luật của Nhà nước.",
+                "c": "có hành động chống đường lối, chính sách của Đảng; vi phạm rất nghiêm trọng nguyên tắc tổ chức và sinh hoạt đảng hoặc pháp luật của Nhà nước."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Kỷ luật giải tán một tổ chức đảng và khai trừ đảng viên phải được ít nhất bao nhiêu số thành viên của tổ chức đảng cấp dưới đề nghị và do tổ chức đảng có thẩm quyền quyết định.",
+            "dapan": {
+                "a": "ít nhất một phần ba",
+                "b": "ít nhất hai phần ba",
+                "c": "ít nhất một phần hai"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Đảng viên bị hình phạt nào dưới đây bị khai trừ khỏi Đảng",
+            "dapan": {
+                "a": "Đảng viên bị hình phạt từ cải tạo không giam giữ trở lên phải khai trừ ra khỏi Đảng.",
+                "b": "Đảng viên bị hình phạt từ phạt tiền trở lên phải khai trừ ra khỏi Đảng.",
+                "c": "Đảng viên bị hình phạt từ án treo trở lên phải khai trừ ra khỏi Đảng."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Chọn đáp án đúng",
+            "dapan": {
+                "a": "Đảng viên bị kỷ luật cách chức, trong vòng sáu tháng, kể từ ngày có quyết định, không được bầu vào cấp uỷ, không được bổ nhiệm vào các chức vụ tương đương và cao hơn.",
+                "b": "Đảng viên bị kỷ luật cách chức, trong vòng một năm, kể từ ngày có quyết định, không được bầu vào cấp uỷ, không được bổ nhiệm vào các chức vụ tương đương và cao hơn.",
+                "c": "Đảng viên bị kỷ luật cách chức, trong vòng một năm, kể từ ngày có quyết định, không được bầu vào cấp uỷ, không được bổ nhiệm vào các chức vụ cao hơn."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Đảng lãnh đạo Nhà nước, Mặt trận Tổ quốc và đoàn thể chính trị - xã hội bằng",
+            "dapan": {
+                "a": "Cương lĩnh chính trị, chiến lược, chính sách, chủ trương; bằng công tác tư tưởng, tổ chức, cán bộ và kiểm tra, giám sát việc thực hiện.",
+                "b": "Cương lĩnh chính trị, chiến lược, chính sách, chủ trương; bằng công tác tư tưởng, tổ chức, cán bộ và kiểm tra  việc thực hiện.",
+                "c": "Cương lĩnh chính trị, chiến lược, chính sách, chủ trương; bằng công tác tư tưởng, cán bộ và kiểm tra, giám sát việc thực hiện."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thẩm quyền quyền sửa đổi Điều lệ Đảng.",
+            "dapan": {
+                "a": "Đại hội đại biểu toàn quốc",
+                "b": "Bộ chính trị",
+                "c": "Ban Bí thư"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Điều lệ Đảng quy định",
+            "dapan": {
+                "a": "Hệ thống tổ chức của Đảng được lập tương ứng với hệ thống hành chính của Nhà nước",
+                "b": "Hệ thống tổ chức của Đảng được lập tương ứng với cấp hành chính của Nhà nước",
+                "c": "Hệ thống tổ chức của Đảng được lập tương ứng với hệ thống  cơ quan hành chính của Nhà nước"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Theo Điều lệ Đảng thì cơ quan lãnh đạo ở mỗi cấp là",
+            "dapan": {
+                "a": "Đại hội đại biểu",
+                "b": "Đại hội đảng viên",
+                "c": "Đại hội đại biểu hoặc đại hội đảng viên",
+                "d": "Đại hội đại biểu và đại hội đảng viên"
+            },
+            "dapandung": "C"
         }
+                                
+        
+        
+                
                         
     ]
 }
