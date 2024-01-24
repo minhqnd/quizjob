@@ -1,0 +1,505 @@
+{
+    "cauhoi": [
+        {
+            "noidung": "Nghị định 115/2020/NĐ-CP về tuyển dụng, sử dụng và quản lý đối với viên chức không áp dụng với đối tượng nào dưới đây?",
+            "dapan": {
+                "a": "đơn vị sự nghiệp công lập do cơ quan có thẩm quyền của Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội ở Trung ương, cấp tỉnh, cấp huyện thành lập theo quy định của pháp luật.",
+                "b": "tổ chức cơ yếu",
+                "c": "đơn vị sự nghiệp công lập do cơ quan có thẩm quyền của Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội ở   cấp huyện thành lập theo quy định của pháp luật."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Theo chức trách, nhiệm vụ, viên chức được phân loại như thế nào?",
+            "dapan": {
+                "a": "Viên chức lãnh đạo quản lý, viên chức",
+                "b": "Viên chức lãnh đạo quản lý, viên chức không giữ chức vụ lãnh đạo quản lý",
+                "c": "Viên chức quản lý, viên chức không giữ chức vụ quản lý"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Theo trình độ đào tạo, viên chức được phân loại như thế nào?",
+            "dapan": {
+                "a": "Viên chức giữ chức danh nghề nghiệp có yêu cầu trình độ đào tạo giáo sự;  tiến sĩ; thạc sĩ, đại học, cao đẳng, trung cấp",
+                "b": "Viên chức giữ chức danh nghề nghiệp có yêu cầu trình độ đào tạo tiến sĩ; thạc sĩ, đại học, cao đẳng, trung cấp",
+                "c": "Viên chức giữ chức danh nghề nghiệp có yêu cầu trình độ đào tạo tiến sĩ; thạc sĩ, đại học, cao đẳng"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Việc tuyển dụng viên chức phải căn cứ vào đâu?",
+            "dapan": {
+                "a": "nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập.",
+                "b": "vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập.",
+                "c": "nhu cầu công việc,  tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Người đăng ký dự tuyển vào vị trí việc làm trong các đơn vị sự nghiệp công lập thuộc lĩnh vực văn hóa, nghệ thuật, thể dục, thể thao có thể thấp hơn bao nhiêu tuổi?",
+            "dapan": {
+                "a": "có thể thấp hơn 18 tuổi nhưng phải từ đủ 15 tuổi trở lên và được sự đồng ý bằng văn bản của người đại diện theo pháp luật.",
+                "b": "có thể thấp hơn 18 tuổi nhưng phải từ đủ 14 tuổi trở lên và được sự đồng ý bằng văn bản của người đại diện theo pháp luật.",
+                "c": "có thể thấp hơn 18 tuổi nhưng phải từ đủ 13 tuổi trở lên và được sự đồng ý bằng văn bản của người đại diện theo pháp luật."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thẩm quyền tuyển dụng Đối với đơn vị sự nghiệp công lập bảo đảm chi thường xuyên và chi đầu tư và đơn vị sự nghiệp công lập bảo đảm chi thường xuyên như thế nào?",
+            "dapan": {
+                "a": "người đứng đầu đơn vị sự nghiệp công lập thực hiện việc tuyển dụng viên chức",
+                "b": "cơ quan có thẩm quyền quản lý đơn vị sự nghiệp công lập thực hiện việc tuyển dụng viên chức",
+                "c": "cơ quan có thẩm quyền quản lý đơn vị sự nghiệp công lập thực hiện việc tuyển dụng viên chức hoặc phân cấp cho người đứng đầu đơn vị sự nghiệp công lập thực hiện."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": ". Thẩm quyền tuyển dụng  Đối với đơn vị sự nghiệp công lập tự bảo đảm một phần chi thường xuyên và đơn vị sự nghiệp công lập do Nhà nước bảo đảm chi thường xuyên như thế nào?",
+            "dapan": {
+                "a": "người đứng đầu đơn vị sự nghiệp công lập thực hiện việc tuyển dụng viên chức",
+                "b": "cơ quan có thẩm quyền quản lý đơn vị sự nghiệp công lập thực hiện việc tuyển dụng viên chức",
+                "c": "cơ quan có thẩm quyền quản lý đơn vị sự nghiệp công lập thực hiện việc tuyển dụng viên chức hoặc phân cấp cho người đứng đầu đơn vị sự nghiệp công lập thực hiện."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Thời gian tập sự đối với viên chức thuộc trường hợp tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo đại học là bao lâu?",
+            "dapan": {
+                "a": "6 tháng",
+                "b": "9 tháng",
+                "c": "12 tháng",
+                "d": "18 tháng"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Thời gian tập sự đối với viên chức thuộc trường hợp tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo đại học đối với chức danh nghề nghiệp bác sĩ  là bao lâu?",
+            "dapan": {
+                "a": "6 tháng",
+                "b": "9 tháng",
+                "c": "12 tháng",
+                "d": "18 tháng"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Thời gian tập sự đối với viên chức thuộc  trường hợp tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo cao đẳng là bao lâu?",
+            "dapan": {
+                "a": "6 tháng",
+                "b": "9 tháng",
+                "c": "12 tháng",
+                "d": "18 tháng"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Thời gian tập sự đối với viên chức    đối với trường hợp tuyển dụng vào chức danh nghề nghiệp có yêu cầu tiêu chuẩn trình độ đào tạo trung cấp là bao lâu?",
+            "dapan": {
+                "a": "6 tháng",
+                "b": "9 tháng",
+                "c": "12 tháng",
+                "d": "18 tháng"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thời gian nghỉ sinh con theo chế độ bảo hiểm xã hội, thời gian nghỉ ốm đau từ 14 ngày trở lên, thời gian nghỉ không hưởng lương, thời gian bị tạm giam, tạm giữ, tạm đình chỉ công tác theo quy định của pháp luật thì?",
+            "dapan": {
+                "a": "không được tính vào thời gian tập sự.",
+                "b": "được tính vào thời gian tập sự.",
+                "c": "được tính vào thời gian tập sự được người đứng đầu đơn vị sự nghiệp công lập nơi người được tuyển dụng vào viên chức đang thực hiện chế độ tập sự đồng ý"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trường hợp người tập sự nghỉ ốm đau hoặc có lý do chính đáng dưới 14 ngày mà được người đứng đầu đơn vị sự nghiệp công lập nơi người được tuyển dụng vào viên chức đang thực hiện chế độ tập sự đồng ý thì?",
+            "dapan": {
+                "a": "thời gian này được tính vào thời gian tập sự.",
+                "b": "không được tính vào thời gian tập sự.",
+                "c": "đáp án khác"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trong thời gian tập sự, người tập sự được hưởng bao nhiêu phần trăm mức lương bậc 1 của chức danh nghề nghiệp tuyển dụng?",
+            "dapan": {
+                "a": "80%",
+                "b": "85%",
+                "c": "90%",
+                "d": "95%"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Trong thời gian tập sự,   Trường hợp người tập sự có trình độ thạc sĩ phù hợp với yêu cầu của vị trí việc làm tuyển dụng thì người tập sự được hưởng bao nhiêu phần tră mức lương bậc 2 chức danh nghề nghiệp tuyển dụng?",
+            "dapan": {
+                "a": "80%",
+                "b": "85%",
+                "c": "90%",
+                "d": "95%"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Trong thời gian tập sự , trường hợp người tập sự có trình độ tiến sĩ phù hợp với yêu cầu của vị trí việc làm tuyển dụng thì người tập sự được hưởng 85% mức lương bậc mấy của chức danh nghề nghiệp tuyển dụng",
+            "dapan": {
+                "a": "bậc 1",
+                "b": "bậc 2",
+                "c": "bậc 3",
+                "d": "bậc 4"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Người tập sự được hưởng 100% mức lương và phụ cấp của chức danh nghề nghiệp tương ứng với trình độ đào tạo   trong các trường hợp nào dưới đây?",
+            "dapan": {
+                "a": "Làm việc vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn;",
+                "b": "Làm việc trong các ngành, nghề độc hại, nguy hiểm;",
+                "c": "Hoàn thành nghĩa vụ quân sự; nghĩa vụ tham gia công an nhân dân;",
+                "d": "Tất cả trường hợp trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Người tập sự là sĩ quan quân đội, sĩ quan công an, quân nhân chuyên nghiệp phục viên, người làm công tác cơ yếu chuyển ngành, học viên tốt nghiệp đào tạo sĩ quan dự bị, tốt nghiệp đào tạo chỉ huy trưởng Ban chỉ huy quân sự cấp xã ngành quân sự cơ sở được phong quân hàm sĩ quan dự bị đã đăng ký ngạch sĩ quan dự bị, đội viên thanh niên xung phong, đội viên trí thức trẻ tình nguyện tham gia phát triển nông thôn, miền núi từ đủ 24 tháng trở lên đã hoàn thành nhiệm vụ được hưởng lương và phụ cấp như thế nào?",
+            "dapan": {
+                "a": "85%",
+                "b": "90%",
+                "c": "95%",
+                "d": "100%"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Người hướng dẫn tập sự được hưởng hệ số phụ cấp trách nhiệm bằng bao nhiêu  mức lương cơ sở trong thời gian hướng dẫn tập sự?",
+            "dapan": {
+                "a": "0,1",
+                "b": "0,2",
+                "c": "0,3",
+                "d": "0,4"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Người tập sự bị chấm dứt hợp đồng làm việc và hủy bỏ quyết định tuyển dụng khi nào?",
+            "dapan": {
+                "a": "Khi không đạt yêu cầu sau thời gian tập sự hoặc có hành vi vi phạm đến mức phải xem xét xử lý kỷ luật theo quy định của pháp luật",
+                "b": "Khi không đạt yêu cầu sau thời gian tập sự và có hành vi vi phạm đến mức phải xem xét xử lý kỷ luật theo quy định của pháp luật",
+                "c": "Khi không đạt yêu cầu sau thời gian tập sự hoặc có hành vi vi phạm đến mức phải xem xét xử lý kỷ luật ở hình thức cảnh cáo theo quy định của pháp luật"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Người tập sự bị chấm dứt hợp đồng làm việc được đơn vị sự nghiệp công lập trợ cấp mấy tháng lương, phụ cấp hiện hưởng và tiền tàu xe về nơi cư trú?",
+            "dapan": {
+                "a": "01 tháng",
+                "b": "02 tháng",
+                "c": "03 tháng",
+                "d": "05 tháng"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Việc biệt phái viên chức được thực hiện trong các trường hợp nào?",
+            "dapan": {
+                "a": "Theo nhiệm vụ đột xuất, cấp bách;",
+                "b": "Để thực hiện công việc cần giải quyết trong một thời gian nhất định.",
+                "c": "Tất cả trường hợp trên"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Thời hạn biệt phái viên chức không quá mấy  năm?",
+            "dapan": {
+                "a": "01 năm",
+                "b": "02 năm",
+                "c": "03 năm",
+                "d": "05 năm"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Căn cứ vào mức độ phức tạp công việc của chức danh nghề nghiệp, các chức danh nghề nghiệp viên chức trong cùng một lĩnh vực sự nghiệp được xếp mấy hạng?",
+            "dapan": {
+                "a": "03 hạng",
+                "b": "04 hạng",
+                "c": "05 hạng",
+                "d": "06 hạng"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Việc xét chuyển chức danh nghề nghiệp được thực hiện khi nào?",
+            "dapan": {
+                "a": "khi viên chức thay đổi vị trí việc làm mà chức danh nghề nghiệp đang giữ không phù hợp với yêu cầu của vị trí việc làm mới",
+                "b": "khi viên chức thay đổi vị trí việc làm mà chức danh nghề nghiệp đang giữ không phù hợp với yêu cầu của vị trí việc làm cũ",
+                "c": "khi viên chức thay đổi vị trí việc làm mà chức danh nghề nghiệp đang giữ cao hơn với yêu cầu của vị trí việc làm mới"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thời hạn giữ chức vụ quản lý cho mỗi lần bổ nhiệm là mấy năm, tính từ thời điểm quyết định bổ nhiệm có hiệu lực?",
+            "dapan": {
+                "a": "03 năm",
+                "b": "05 năm",
+                "c": "06 năm"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Viên chức chưa được giải quyết thôi việc nếu thuộc một trong các trường nào dưới đây?",
+            "dapan": {
+                "a": "Đang trong thời hạn xử lý kỷ luật, đang bị điều tra, truy tố, xét xử;",
+                "b": "Chưa làm việc đủ thời gian cam kết với đơn vị sự nghiệp công lập khi được cử đi đào tạo;",
+                "c": "Chưa hoàn thành việc thanh toán các khoản tiền, tài sản thuộc trách nhiệm của viên chức đối với đơn vị sự nghiệp công lập;  Do yêu cầu công tác và chưa bố trí được người thay thế.",
+                "d": "Tất cả trường hợp trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Không thực hiện chế độ thôi việc đối với viên chức thuộc các trường hợp nào dưới đây?",
+            "dapan": {
+                "a": "Viên chức được cơ quan, đơn vị có thẩm quyền đồng ý chuyển đến làm việc tại cơ quan, tổ chức, đơn vị khác trong hệ thống chính trị;",
+                "b": "Viên chức đã có thông báo nghỉ hưu hoặc thuộc đối tượng tinh giản biên chế theo quy định của pháp luật;",
+                "c": "Viên chức thuộc trường hợp không được hưởng trợ cấp thôi việc theo quy định tại khoản 2 Điều 29 Luật Viên chức.",
+                "d": "Tất cả trường hợp trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Viên chức đã có thông báo nghỉ hưu hoặc thuộc đối tượng tinh giản biên chế theo quy định của pháp luật thì được giải quyết như thế nào?",
+            "dapan": {
+                "a": "Chưa được giải quyết tôi việc",
+                "b": "Không thực hiện chế độ thôi việc",
+                "c": "giải quyết chế độ thôi việc"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Viên chức chưa làm việc đủ thời gian cam kết với đơn vị sự nghiệp công lập khi được cử đi đào tạo thì được giải quyết như thế nào?",
+            "dapan": {
+                "a": "Chưa được giải quyết thôi việc",
+                "b": "Không thực hiện chế độ thôi việc",
+                "c": "giải quyết chế độ thôi việc"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trường hợp Đơn vị sự nghiệp công lập không ký tiếp hợp đồng làm việc với viên chức khi kết thúc hợp đồng làm việc xác định thời hạn thì được giải quyết như thế nào?",
+            "dapan": {
+                "a": "Chưa được giải quyết tôi việc",
+                "b": "Không thực hiện chế độ thôi việc",
+                "c": "giải quyết chế độ thôi việc"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Thời điểm nghỉ hưu là ngày mấy của tháng liền kề sau tháng viên chức đủ tuổi nghỉ hưu theo quy định?",
+            "dapan": {
+                "a": "ngày 01",
+                "b": "ngày 30",
+                "c": "ngày 15"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thời điểm nghỉ hưu trùng với ngày nghỉ Tết Nguyên đán; viên chức có vợ hoặc chồng, bố, mẹ (vợ hoặc chồng), con từ trần, bị Tòa án tuyên bố mất tích; bản thân và gia đình viên chức bị thiệt hại do thiên tai, địch họa, hỏa hoạn thì tính thời điểm nghỉ hưu như thế nào?",
+            "dapan": {
+                "a": "Tính lùi lại không quá 01 tháng",
+                "b": "Tính lùi lại không quá 02 tháng",
+                "c": "Tính lùi lại không quá 03 tháng"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Đối với trường hợp viên chức bị bệnh nặng hoặc bị tai nạn có giấy xác nhận của bệnh viện thì tính thời điểm nghỉ hưu như thế nào?",
+            "dapan": {
+                "a": "Tính lùi lại không quá 01 tháng",
+                "b": "Tính lùi lại không quá 02 tháng",
+                "c": "Tính lùi lại không quá 03 tháng"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Đối với trường hợp viên chức đang điều trị bệnh thuộc danh mục bệnh cần chữa trị dài ngày do Bộ Y tế ban hành, có giấy xác nhận của bệnh viện thì tính thời điểm nghỉ hưu như thế nào?",
+            "dapan": {
+                "a": "Tính lùi lại không quá 02 tháng",
+                "b": "Tính lùi lại không quá 04 tháng",
+                "c": "Tính lùi lại không quá 05 tháng",
+                "d": "Tính lùi lại không quá 06 tháng"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Thay đổi chức danh nghề nghiệp là?",
+            "dapan": {
+                "a": "việc viên chức được bổ nhiệm vào một chức danh nghề nghiệp khác phù hợp với chuyên môn, nghiệp vụ của vị trí việc làm đang đảm nhiệm",
+                "b": "việc viên chức được bổ nhiệm giữ chức danh nghề nghiệp ở hạng cao hơn trong cùng một lĩnh vực nghề nghiệp",
+                "c": "cấp độ thể hiện trình độ, năng lực chuyên môn, nghiệp vụ của viên chức trong từng lĩnh vực nghề nghiệp"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thăng hạng chức danh nghề nghiệp là?",
+            "dapan": {
+                "a": "việc viên chức được bổ nhiệm vào một chức danh nghề nghiệp khác phù hợp với chuyên môn, nghiệp vụ của vị trí việc làm đang đảm nhiệm",
+                "b": "việc viên chức được bổ nhiệm giữ chức danh nghề nghiệp ở hạng cao hơn trong cùng một lĩnh vực nghề nghiệp",
+                "c": "cấp độ thể hiện trình độ, năng lực chuyên môn, nghiệp vụ của viên chức trong từng lĩnh vực nghề nghiệp"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Việc thay đổi chức danh nghề nghiệp đối với viên chức được thực hiện trong các trường hợp nào dưới đây?",
+            "dapan": {
+                "a": "Xét chuyển từ chức danh nghề nghiệp này sang chức danh nghề nghiệp khác tương ứng cùng mức độ phức tạp công việc theo yêu cầu của vị trí việc làm;",
+                "b": "Thi hoặc xét thăng hạng chức danh nghề nghiệp từ hạng thấp lên hạng cao hơn liền kề trong cùng lĩnh vực nghề nghiệp;",
+                "c": "Xét thăng hạng đặc cách vào hạng chức danh nghề nghiệp cao hơn tương ứng với chức danh được công nhận, bổ nhiệm theo quy định của pháp luật chuyên ngành.",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Trường hợp chuyển từ chức danh nghề nghiệp này sang chức danh nghề nghiệp khác tương ứng cùng mức độ phức tạp công việc theo yêu cầu của vị trí việc làm thì?",
+            "dapan": {
+                "a": "xét chuyển",
+                "b": "thi thăng hạng",
+                "c": "xét thăng hạng",
+                "d": "Thi hoặc xét thăng hạng"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Khi xét chuyển chức danh nghề nghiệp?",
+            "dapan": {
+                "a": "kết hợp nâng bậc lương",
+                "b": "không kết hợp nâng bậc lương",
+                "c": "phương án khác"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Viên chức được đăng ký dự thi hoặc xét thăng hạng chức danh nghề nghiệp khi nào?",
+            "dapan": {
+                "a": "nếu đơn vị sự nghiệp công lập có nhu cầu hoặc đáp ứng đủ tiêu chuẩn, điều kiện theo quy định của pháp luật.",
+                "b": "nếu đơn vị sự nghiệp công lập có nhu cầu và đáp ứng đủ tiêu chuẩn, điều kiện theo quy định của pháp luật.",
+                "c": "nếu đơn vị sự nghiệp công lập có nhu cầu và đáp ứng  tiêu chuẩn, điều kiện theo quy định của pháp luật."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Việc thi hoặc xét thăng hạng chức danh nghề nghiệp phải căn cứ vào?",
+            "dapan": {
+                "a": "vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và phù hợp với cơ cấu viên chức theo chức danh nghề nghiệp của đơn vị sự nghiệp công lập đã được cấp có thẩm quyền phê duyệt",
+                "b": "vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp hoặc phù hợp với cơ cấu viên chức theo chức danh nghề nghiệp của đơn vị sự nghiệp công lập đã được cấp có thẩm quyền phê duyệt",
+                "c": "vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và phù hợp với cơ cấu viên chức theo chức danh nghề nghiệp của đơn vị sự nghiệp công lập"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Kỳ thi hoặc xét thăng hạng chức danh nghề nghiệp được tổ chức theo nguyên tắc nào?",
+            "dapan": {
+                "a": "dân chủ, bình đẳng, công khai, minh bạch, khách quan và đúng pháp luật",
+                "b": "trực tiếp, bình đẳng, công khai, minh bạch, khách quan và đúng pháp luật",
+                "c": "bình đẳng, công khai, minh bạch, khách quan và đúng pháp luật"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Trường hợp có từ 02 người trở lên có tổng kết quả điểm bài thi môn nghiệp vụ chuyên ngành bằng nhau ở chỉ tiêu thăng hạng chức danh nghề nghiệp cuối cùng thì việc xác định người trúng tuyển được thực hiện theo thứ tự ưu tiên nào?",
+            "dapan": {
+                "a": "Viên chức là nữ; viên chức là người dân tộc thiểu số; viên chức nhiều tuổi hơn (tính theo ngày, tháng, năm sinh); viên chức có thời gian công tác nhiều hơn",
+                "b": "Viên chức là nữ; viên chức là người dân tộc thiểu số; viên chức nhiều tuổi hơn (tính theo ngày, tháng, năm sinh)",
+                "c": "Viên chức là nữ; viên chức là người dân tộc thiểu số ; viên chức có thời gian công tác nhiều hơn"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trong thời hạn bao nhiêu ngày kể từ ngày thông báo kết quả điểm thi thăng hạng, viên chức dự thi có quyền gửi đơn đề nghị phúc khảo kết quả điểm bài thi môn kiến thức chung, môn ngoại ngữ, môn tin học (trong trường hợp thi trắc nghiệm trên giấy) và bài thi viết môn nghiệp vụ chuyên ngành?",
+            "dapan": {
+                "a": "10",
+                "b": "15",
+                "c": "20"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Chậm nhất bao nhiêu ngày kể từ ngày nhận được danh sách viên chức trúng tuyển trong kỳ thi hoặc xét thăng hạng chức danh nghề nghiệp, người đứng đầu cơ quan có thẩm quyền quản lý viên chức thực hiện việc bổ nhiệm và xếp lương chức danh nghề nghiệp đối với viên chức trúng tuyển",
+            "dapan": {
+                "a": "10",
+                "b": "15",
+                "c": "20"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": ".  Đối với thời gian công tác của viên chức từ ngày 31 tháng 12 năm 2008 trở về trước thì mỗi năm làm việc được tính như thế nào?",
+            "dapan": {
+                "a": "Cứ mỗi năm làm việc được tính bằng 1/2 tháng lương hiện hưởng, gồm: Mức lương theo chức danh nghề nghiệp, phụ cấp chức vụ quản lý, phụ cấp thâm niên vượt khung, phụ cấp thâm niên nghề và hệ số chênh lệch bảo lưu lương (nếu có);",
+                "b": "Cứ mỗi năm làm việc được tính bằng 1  tháng lương hiện hưởng, gồm: Mức lương theo chức danh nghề nghiệp, phụ cấp chức vụ quản lý, phụ cấp thâm niên vượt khung, phụ cấp thâm niên nghề và hệ số chênh lệch bảo lưu lương (nếu có);",
+                "c": "Cứ mỗi năm làm việc được tính bằng 2 tháng lương hiện hưởng, gồm: Mức lương theo chức danh nghề nghiệp, phụ cấp chức vụ quản lý, phụ cấp thâm niên vượt khung, phụ cấp thâm niên nghề và hệ số chênh lệch bảo lưu lương (nếu có);"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": ".  Đối với thời gian công tác của viên chức từ ngày 31 tháng 12 năm 2008 trở về trước thì  mức trợ cấp thấp nhất bằng bao nhiêu tháng lương hiện hưởng?",
+            "dapan": {
+                "a": "½",
+                "b": "1",
+                "c": "2",
+                "d": "3"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Đâu là Nội dung quản lý viên chức?",
+            "dapan": {
+                "a": "Xây dựng kế hoạch, quy hoạch viên chức.",
+                "b": "Quy định tiêu chuẩn chức danh nghề nghiệp viên chức, xác định vị trí việc làm, cơ cấu viên chức theo chức danh nghề nghiệp và số lượng người làm việc tương ứng.",
+                "c": "Tổ chức thực hiện việc tuyển dụng, ký hợp đồng làm việc, bố trí, phân công nhiệm vụ, biệt phái, kiểm tra và đánh giá viên chức.",
+                "d": "Tất cả nội dung trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Đâu không phải là Nội dung quản lý viên chức?",
+            "dapan": {
+                "a": "Tổ chức thực hiện thay đổi chức danh nghề nghiệp. Tổ chức thực hiện chế độ đào tạo, bồi dưỡng đối với viên chức.",
+                "b": "Tổ chức thực hiện chế độ tiền lương và các chế độ, chính sách đãi ngộ đối với viên chức.  Tổ chức thực hiện việc khen thưởng, kỷ luật đối với viên chức.",
+                "c": "Giải quyết thôi việc và nghỉ hưu đối với viên chức.  Thực hiện chế độ báo cáo, thống kê và quản lý hồ sơ viên chức.  Thanh tra, kiểm tra việc thi hành quy định của pháp luật về viên chức.  Giải quyết khiếu nại, tố cáo đối với viên chức.",
+                "d": "Ban hành các văn bản quy phạm pháp luật về viên chức"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Đâu không phải là nhiệm vụ và quyền hạn của đơn vị sự nghiệp công lập tự bảo đảm một phần chi thường xuyên và đơn vị sự nghiệp công lập do Nhà nước bảo đảm chi thường xuyên?",
+            "dapan": {
+                "a": "Thực hiện công tác khen thưởng, kỷ luật đối với viên chức theo thẩm quyền hoặc đề nghị cấp có thẩm quyền khen thưởng, kỷ luật theo quy định;",
+                "b": "Thực hiện việc lập hồ sơ và lưu giữ hồ sơ cá nhân của viên chức thuộc phạm vi quản lý theo quy định;",
+                "c": "Giải quyết thôi việc, nghỉ hưu đối với viên chức theo phân cấp;  Ký kết hợp đồng vụ, việc đối với viên chức đã nghỉ hưu;",
+                "d": "Quyết định danh mục vị trí việc làm, cơ cấu viên chức theo chức danh nghề nghiệp và số lượng người làm việc theo quy định của Đảng và của pháp luật"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Đâu là nhiệm vụ và quyền hạn Đối với đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên, chi đầu tư và đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên?",
+            "dapan": {
+                "a": "Quyết định danh mục vị trí việc làm, cơ cấu viên chức theo chức danh nghề nghiệp và số lượng người làm việc theo quy định của Đảng và của pháp luật;",
+                "b": "Tổ chức thi hoặc xét thăng hạng chức danh nghề nghiệp theo quy định của pháp luật và theo phân công, phân cấp;",
+                "c": "Quyết định cử viên chức tham dự các cuộc hội thảo, hội nghị, nghiên cứu khảo sát và học tập kinh nghiệm ở nước ngoài theo phân cấp.",
+                "d": "Tất cả nội dung trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Nghị định 115/2020/NĐ-CP có hiệu lực thi hành kể từ ngày tháng năm nào?",
+            "dapan": {
+                "a": "26/92020",
+                "b": "27/9/2020",
+                "c": "28/9/2020",
+                "d": "29/9/2020"
+            },
+            "dapandung": "D"
+        }
+    ]
+}
