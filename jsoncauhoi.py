@@ -28,7 +28,7 @@ for qa in questions_and_answers:
         current_question["dapan"][option.strip()] = content.strip()
 
 # Chuyển đổi danh sách json_data thành định dạng JSON
-json_output = json.dumps(json_data, ensure_ascii=False, indent=4)
+json_output = json.dumps({"cauhoi": json_data}, ensure_ascii=False, indent=4)
 
 # In kết quả
 print(json_output)
@@ -36,3 +36,5 @@ print(json_output)
 #export to file json {"cauhoi": "json_output}
 with open("cauhoi.json", "w", encoding="utf-8") as f:
     f.write(json_output)
+    
+    
