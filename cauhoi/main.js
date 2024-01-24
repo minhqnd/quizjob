@@ -157,6 +157,8 @@ function changeQuestion(index) {
         // console.log(correctAnswer);
         resetColor()
         $("#question").text(questions.cauhoi[index].noidung);
+        $("#selected-ex").text(questions.cauhoi[index].dapandung);
+        console.log(questions.cauhoi[index].dapandung);
         $("#question-ex").text(questions.cauhoi[index].noidung);
         $("#answer1").text(questions.cauhoi[index].dapan.a);
         $("#answer2").text(questions.cauhoi[index].dapan.b);
