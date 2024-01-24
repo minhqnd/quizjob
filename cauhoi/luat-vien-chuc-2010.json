@@ -496,7 +496,8 @@
             "noidung": "Thời hiệu xử lý kỷ luật viên chức là bao lâu (Trừ trường hợp không áp dụng thời hiệu xử lý kỷ luật) (Luật mới)",
             "dapan": {
                 "a": "24 tháng, kể từ thời điểm có hành vi vi phạm.",
-                "b": "02 năm đối với hành vi vi phạm ít nghiêm trọng đến mức phải kỷ luật bằng hình thức khiển trách;  04 năm đối với hành vi vi phạm không thuộc trường hợp vi phạm ít nghiêm trọng đến mức phải kỷ luật bằng hình thức khiển trách"
+                "b": "02 năm đối với hành vi vi phạm ít nghiêm trọng đến mức phải kỷ luật bằng hình thức khiển trách;  05 năm đối với hành vi vi phạm không thuộc trường hợp vi phạm ít nghiêm trọng đến mức phải kỷ luật bằng hình thức khiển trách",
+                "c": "02 năm đối với hành vi vi phạm ít nghiêm trọng đến mức phải kỷ luật bằng hình thức khiển trách;  04 năm đối với hành vi vi phạm không thuộc trường hợp vi phạm ít nghiêm trọng đến mức phải kỷ luật bằng hình thức khiển trách"
             },
             "dapandung": "B"
         },
