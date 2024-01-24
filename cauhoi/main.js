@@ -21,7 +21,8 @@ var awnser = []
 function submit() {
     //check between the selected answer array and the correct answer array and show the result
     // get all correct answer to json to check later format [1: "C", 2: "B"], save with index of question
-
+    //stop the time count
+    clearInterval(y);
     $.getJSON("cauhoi.json", function (data) {
         // make the variable golbal to call it in other functions
         questions = data;
@@ -52,6 +53,30 @@ function submit() {
         //set the qna to display none and show the result
         $("#qna").addClass("hidden")
         $("#result").removeClass("hidden")
+        //set the leght of question to questions-length
+        $("#questions-length").text(result.length)
+        $("#time").text(time)
+        //set the correctAnswer
+        $("#correctAnswer").text(correct)
+        //set the wrongAnswer
+        $("#wrongAnswer").text(result.length - correct)
+        //set the acuracy
+        $("#accuracy").text(Math.round(correct / result.length * 100) + "%")
+
+        //check all the questions and change the button
+        $("#questions-btn").html("")
+        for (i = 0; i < questions.cauhoi.length; i++) {
+            if (result[i] == true) {
+                button = CORRECRT_BUTTON.replaceAll("NUMBER", i + 1)
+            } else {
+                button = WRONG_BUTTON.replaceAll("NUMBER", i + 1)
+            }
+            
+            $("#questions-btn").append(button)
+        }
+        // set the checked array to selected answer array
+        checked = result
+        reloadButton()
     });
 }
 
@@ -76,8 +101,6 @@ function check(selectedAnswer) {
         $("#answer" + selected).removeClass("outline-amber-400")
         $("#answer" + selected).addClass("outline-green-400")
         checked[currentQuestion] = true;
-
-        // console.log('ok');
     } else {
         // add the wrong class to the selected answer
         $("#answer" + selected).removeClass("outline-amber-400")
@@ -114,6 +137,8 @@ $.getJSON("cauhoi.json", function (data) {
 });
 
 function changeQuestion(index) {
+    $("#qna").removeClass("hidden")
+    $("#result").addClass("hidden")
     currentQuestion = index;
     $.getJSON("cauhoi.json", function (data) {
         // make the variable golbal to call it in other functions
@@ -168,6 +193,7 @@ function changeQuestion(index) {
         //change socau to current question index
         $("#socau").text(index + 1)
         //set the check button to disable
+        $("#check").prop("disabled", true);
         
     });
 }
@@ -303,4 +329,27 @@ var x = setInterval(function () {
         clearInterval(x);
         document.getElementById("timer").innerHTML = "Hết giờ";
     }
+}, 1000);
+
+// save the time count up to a variable format hh:mm:ss
+var time = "00:00:00"
+var countUpDate = new Date().getTime();
+var y = setInterval(function () {
+    var now = new Date().getTime();
+    var distance = now - countUpDate;
+    // Time calculations for hours, minutes and seconds
+    var hours = Math.floor(distance / (1000 * 60 * 60));
+    if (hours < 10) {
+        hours = "0" + hours;
+    }
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    if (minutes < 10) {
+        minutes = "0" + minutes;
+    }
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    if (seconds < 10) {
+        seconds = "0" + seconds;
+    }
+    // Display the result in the element with id="demo"
+    time = hours + ":" + minutes + ":" + seconds;
 }, 1000);

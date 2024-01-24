@@ -141,39 +141,39 @@
                     <div class="grid grid-cols-2 gap-4 mt-4">
                         <div class="bg-white p-4 rounded-lg shadow-lg">
                             <h3 class="text-lg font-semibold">Số câu:</h3>
-                            <p class="text-2xl font-bold">15</p>
+                            <p id="questions-length" class="text-2xl font-bold">15</p>
                         </div>
                         <div class="bg-white p-4 rounded-lg shadow-lg">
                             <h3 class="text-lg font-semibold">Tổng thời gian:</h3>
-                            <p class="text-2xl font-bold">00:10:00</p>
+                            <p id="time" class="text-2xl font-bold">00:10:00</p>
                         </div>
                         <div class="bg-white p-4 rounded-lg shadow-lg">
                             <h3 class="text-lg font-semibold">Số câu đúng:</h3>
-                            <p class="text-2xl font-bold">10</p>
+                            <p id="correctAnswer" class="text-2xl font-bold">10</p>
                         </div>
                         <div class="bg-white p-4 rounded-lg shadow-lg">
                             <h3 class="text-lg font-semibold">Số câu sai:</h3>
-                            <p class="text-2xl font-bold">5</p>
+                            <p id="wrongAnswer" class="text-2xl font-bold">5</p>
                         </div>
                         <div class="bg-white p-4 rounded-lg shadow-lg col-span-2">
                             <h3 class="text-lg font-semibold">Độ chính xác:</h3>
-                            <p class="text-2xl font-bold">66.67%</p>
+                            <p id="accuracy" class="text-2xl font-bold">66.67%</p>
                         </div>
                     </div>
                 </div>
                 <div class=" flex justify-between mt-8">
-                    <button
+                    <button onclick="location.reload();"
                         class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 py-2 px-4 rounded-lg bg-gray-200">
                         Làm lại
                     </button>
-                    <button
+                    <button onclick="location.href='/';"
                         class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 py-2 px-4 rounded-lg bg-amber-400">
-                        Xem lại bài làm
-                    </button>
-                    <button
-                        class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-10 py-2 px-4 rounded-lg bg-green-500 hover:bg-green-600">
                         Về trang chủ 
                     </button>
+                    <!-- <button
+                        class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-10 py-2 px-4 rounded-lg bg-green-500 hover:bg-green-600">
+                        Về trang chủ 
+                    </button> -->
                 </div>
             </div>
             <!-- <footer class="w-full bg-white shadow-lg py-4 px-6 text-center">
