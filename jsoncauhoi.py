@@ -32,3 +32,7 @@ json_output = json.dumps(json_data, ensure_ascii=False, indent=4)
 
 # In kết quả
 print(json_output)
+
+#export to file json {"cauhoi": "json_output}
+with open("cauhoi.json", "w", encoding="utf-8") as f:
+    f.write(json_output)
