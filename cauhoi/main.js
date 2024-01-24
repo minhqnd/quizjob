@@ -2,7 +2,10 @@
 var url_string = window.location.href
 var url = new URL(url_string);
 var quizfile = url.searchParams.get("quiz");
-console.log(quizfile);
+var namequiz = url.searchParams.get("name");
+
+//change the name quiz to the name of the quiz
+$("#namequiz").text(namequiz)
 
 function select(selected) {
     // add the outline to the selected answer and remove it from the other
@@ -128,19 +131,19 @@ function check(selectedAnswer) {
 checked = []
 
 // load the questions json cauhoi.json
-$.getJSON(quizfile, function (data) {
-    // make the variable golbal to call it in other functions
-    questions = data;
-    //check how many question
-    questions.cauhoi.length
-    // for each question, create a button for select
-    for (i = 0; i < questions.cauhoi.length; i++) {
-        // create a button
-        var button = TEMPLATE_BUTTON.replaceAll("NUMBER", i + 1)
-        // add the button to the div
-        $("#questions-btn").append(button)
-    }
-});
+// $.getJSON(quizfile, function (data) {
+//     // make the variable golbal to call it in other functions
+//     questions = data;
+//     //check how many question
+//     questions.cauhoi.length
+//     // for each question, create a button for select
+//     for (i = 0; i < questions.cauhoi.length; i++) {
+//         // create a button
+//         var button = TEMPLATE_BUTTON.replaceAll("NUMBER", i + 1)
+//         // add the button to the div
+//         $("#questions-btn").append(button)
+//     }
+// });
 
 function changeQuestion(index) {
     $("#qna").removeClass("hidden")
