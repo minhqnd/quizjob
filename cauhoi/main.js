@@ -1,3 +1,9 @@
+//get the query url quiz
+var url_string = window.location.href
+var url = new URL(url_string);
+var quizfile = url.searchParams.get("quiz");
+console.log(quizfile);
+
 function select(selected) {
     // add the outline to the selected answer and remove it from the other
     resetColor()
@@ -23,7 +29,7 @@ function submit() {
     // get all correct answer to json to check later format [1: "C", 2: "B"], save with index of question
     //stop the time count
     clearInterval(y);
-    $.getJSON("cauhoi.json", function (data) {
+    $.getJSON(quizfile, function (data) {
         // make the variable golbal to call it in other functions
         questions = data;
         var correctAnswer = []
@@ -122,7 +128,7 @@ function check(selectedAnswer) {
 checked = []
 
 // load the questions json cauhoi.json
-$.getJSON("cauhoi.json", function (data) {
+$.getJSON(quizfile, function (data) {
     // make the variable golbal to call it in other functions
     questions = data;
     //check how many question
@@ -140,7 +146,7 @@ function changeQuestion(index) {
     $("#qna").removeClass("hidden")
     $("#result").addClass("hidden")
     currentQuestion = index;
-    $.getJSON("cauhoi.json", function (data) {
+    $.getJSON(quizfile, function (data) {
         // make the variable golbal to call it in other functions
         questions = data;
         // get all correct answer to array to check later format [1: "C", 2: "B"], save with index of question
