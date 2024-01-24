@@ -1,0 +1,386 @@
+{
+    "cauhoi": [
+        {
+            "noidung": "Theo hướng dẫn số 36 thì ai  là người chịu trách nhiệm về thể thức và kỹ thuật trình bày văn bản?",
+            "dapan": {
+                "a": "Cán bộ, nhân viên được giao soạn thảo văn bản",
+                "b": "Người ký văn bản",
+                "c": "Chánh văn phòng hoặc người được giao phụ trách công tác văn phòn",
+                "d": "Cán bộ, nhân viên làm nhiệm vụ văn thư cơ quan"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Theo hướng dẫn số 36 thì ai có trách nhiệm thẩm định thể thức và kỹ thuật trình bày văn bản.",
+            "dapan": {
+                "a": "Cán bộ, nhân viên được giao soạn thảo văn bản",
+                "b": "Người ký văn bản",
+                "c": "Chánh văn phòng hoặc người được giao phụ trách công tác văn phòn",
+                "d": "Cán bộ, nhân viên làm nhiệm vụ văn thư cơ quan"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Theo hướng dẫn số 36 thì ai có trách nhiệm thực hiện đúng hướng dẫn về thể thức và kỹ thuật trình bày văn bản.",
+            "dapan": {
+                "a": "Cán bộ, nhân viên được giao soạn thảo văn bản",
+                "b": "Người ký văn bản",
+                "c": "Chánh văn phòng hoặc người được giao phụ trách công tác văn phòn",
+                "d": "Cán bộ, nhân viên làm nhiệm vụ văn thư cơ quan"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Theo hướng dẫn số 36 thì ai có trách nhiệm kiểm tra thể thức và kỹ thuật trình bày văn bản trước khi trình ký, phát hành",
+            "dapan": {
+                "a": "Cán bộ, nhân viên được giao soạn thảo văn bản",
+                "b": "Người ký văn bản",
+                "c": "Chánh văn phòng hoặc người được giao phụ trách công tác văn phòn",
+                "d": "Cán bộ, nhân viên làm nhiệm vụ văn thư cơ quan"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Tiêu đề \"Đảng Cộng sản Việt Nam\" là ?",
+            "dapan": {
+                "a": "thành phần thể thức xác định văn bản của Đảng.",
+                "b": "là thành phần thể thức xác định tác giả văn bản",
+                "c": "cả A và B đều đúng",
+                "d": "cả A và B đều sai"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Tiêu đề \"Đảng Cộng sản Việt Nam\"  được trình bày như thế nào?",
+            "dapan": {
+                "a": "Tiêu đề trình bày trang đầu, góc trái, dòng đầu, phía dưới có đường kẻ ngang ngăn cách với địa danh và ngày, tháng, năm ban hành văn bản; đường kẻ ngang nét liền, có độ dài bằng độ dài tiêu đề",
+                "b": "Tiêu đề trình bày trang đầu, góc phải, dòng đầu, phía dưới có đường kẻ ngang ngăn cách với địa danh và ngày, tháng, năm ban hành văn bản; đường kẻ ngang nét đứt, có độ dài bằng độ dài tiêu đề",
+                "c": "Tiêu đề trình bày trang đầu, góc phải, dòng đầu, phía dưới có đường kẻ ngang ngăn cách với địa danh và ngày, tháng, năm ban hành văn bản; đường kẻ ngang nét liền, có độ dài bằng độ dài tiêu đề"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Văn bản của đại hội đảng các cấp ghi tên cơ quan ban hành văn bản như thế nào?",
+            "dapan": {
+                "a": "Ghi tên cơ quan ban hành văn bản là đại hội đảng cấp đó; ghi rõ đại hội đại biểu hoặc đại hội toàn thể đảng viên lần thứ mấy, trường hợp không xác định được lần thứ mấy thì ghi thời gian của nhiệm kỳ",
+                "b": "Ghi tên cơ quan ban hành văn bản là đại hội đảng cấp đó; ghi rõ đại hội đại biểu hoặc đại hội toàn thể đảng viên lần thứ mấy, trường hợp không xác định được lần thứ mấy thì bỏ trống",
+                "c": "Ghi tên cơ quan ban hành văn bản là đảng bộ, chi bộ cấp đó; ghi rõ đại hội đại biểu hoặc đại hội toàn thể đảng viên lần thứ mấy, trường hợp không xác định được lần thứ mấy thì ghi thời gian của nhiệm kỳ"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản của đoàn chủ tịch, đoàn thư ký, ban thẩm tra tư cách đại biểu, ban kiểm phiếu ghi tên cơ quan ban hành văn bản như thế nào?",
+            "dapan": {
+                "a": "Ghi tên cơ quan ban hành văn bản là đoàn chủ tịch, đoàn thư ký, ban thẩm tra tư cách đại biểu, ban kiểm phiếu và tên cơ quan cấp trên là cơ quan chủ quản.",
+                "b": "Ghi tên cơ quan ban hành văn bản là đoàn chủ tịch, đoàn thư ký, ban thẩm tra tư cách đại biểu, ban kiểm phiếu và không ghi tên cơ quan cấp trên",
+                "c": "Ghi tên cơ quan ban hành văn bản là đoàn chủ tịch, đoàn thư ký, ban thẩm tra tư cách đại biểu, ban kiểm phiếu và tên cơ quan cấp trên là đại hội đảng cấp đó."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Văn bản của Ban Chấp hành Trung ương, Bộ Chính trị, Ban Bí thư ghi tên cơ quan ban hành văn bản như thế nào?",
+            "dapan": {
+                "a": "ghi chung là Ban Chấp hành Trung ương.",
+                "b": "ghi cụ thể là Ban Chấp hành Trung ương, Bộ Chính trị, Ban Bí thư",
+                "c": "cả A và B đều đúng",
+                "d": "cả A và B đều sai"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản của ban chấp hành đảng bộ tỉnh, thành phố, đảng bộ trực thuộc Trung ương, văn bản của ban thường vụ tỉnh uỷ, thành uỷ, đảng uỷ trực thuộc Trung ương ghi tên cơ quan ban hành văn bản như thế nào?",
+            "dapan": {
+                "a": "ghi chung là tỉnh uỷ, thành uỷ, đảng uỷ.",
+                "b": "ghi  cụ thể là tỉnh uỷ, thành uỷ, đảng uỷ.; ban thường vụ tỉnh uỷ, thành uỷ, đảng uỷ",
+                "c": "cả A và B đều đúng",
+                "d": "cả A và B đều sai"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản của ban chấp hành đảng bộ huyện, quận và đảng bộ tương đương, văn bản của ban thường vụ huyện uỷ, quận uỷ và đảng uỷ tương đương ghi tên cơ quan ban hành văn bản như thế nào?",
+            "dapan": {
+                "a": "ghi chung là huyện uỷ, quận uỷ, đảng uỷ",
+                "b": "ghi chung là huyện uỷ, quận uỷ, đảng uỷ và tên của đảng bộ cấp trên",
+                "c": "ghi chung là huyện uỷ, quận uỷ, đảng uỷ và tên của đảng bộ cấp trên trực tiếp.",
+                "d": "tất cả đáp án trên"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Văn bản của ban chấp hành đảng bộ cơ sở, văn bản của ban thường vụ đảng uỷ cơ sở ghi tên cơ quan ban hành văn bản như thế nào?",
+            "dapan": {
+                "a": "ghi chung là đảng uỷ",
+                "b": "ghi chung là đảng uỷ và tên đảng bộ cấp trên trực tiếp.",
+                "c": "ghi chung là đảng uỷ và tên đảng bộ cấp trên",
+                "d": "tất cả đáp án trên"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Văn bản của đảng uỷ bộ phận trực thuộc đảng uỷ cơ sở ghi tên cơ quan ban hành văn bản như thế nào?",
+            "dapan": {
+                "a": "ghi tên đảng uỷ bộ phận",
+                "b": "ghi tên đảng uỷ bộ phận và tên đảng bộ cơ sở cấp trên",
+                "c": "ghi tên đảng uỷ bộ phận và tên đảng bộ cơ sở cấp trên trực tiếp.",
+                "d": "tất cả đáp án trên đều sai"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Văn bản của chi bộ cơ sở, chi bộ trực thuộc đảng uỷ cơ sở và chi bộ trực thuộc đảng uỷ bộ phận ghi tên cơ quan ban hành văn bản như thế nào?",
+            "dapan": {
+                "a": "ghi chung là chi bộ",
+                "b": "ghi chung là chi bộ và tên đảng bộ cấp trên",
+                "c": "ghi chung là chi bộ và tên đảng bộ cấp trên trực tiếp.",
+                "d": "tất cả đáp án trên đều sai"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Văn bản của các cơ quan, tổ chức đảng được lập theo quyết định của cấp uỷ các cấp (cơ quan tham mưu, giúp việc, đảng đoàn, ban cán sự đảng, ban chỉ đạo, tiểu ban, hội đồng…) ghi tên cơ quan ban hành văn bản như thế nào?",
+            "dapan": {
+                "a": "là tên cơ quan, tổ chức đảng và tên cấp uỷ mà cơ quan đó trực thuộc.",
+                "b": "là tên cơ quan, tổ chức đảng và tên cấp uỷ cấp trên trực tiếp.",
+                "c": "là tên cơ quan, tổ chức đảng và tên cấp uỷ cấp trên"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản của các đơn vị được lập theo quyết định của cơ quan, tổ chức đảng các cấp ghi tên cơ quan ban hành văn bản là?",
+            "dapan": {
+                "a": "tên đơn vị và tên cơ quan cấp trên",
+                "b": "tên đơn vị và tên cơ quan cấp trên trực tiếp.",
+                "c": "tên đơn vị và   tên cấp uỷ mà cơ quan đó trực thuộc"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Tên cơ quan ban hành văn bản trình bày như thế nào?",
+            "dapan": {
+                "a": "Trình bày góc trái, dòng đầu, ngang với tiêu đề, phía dưới có dấu gạch ngang ngăn cách với số và ký hiệu văn bản",
+                "b": "Trình bày góc phải, dòng đầu, ngang với tiêu đề, phía dưới có dấu sao (*) ngăn cách với số và ký hiệu văn bản",
+                "c": "Trình bày góc trái, dòng đầu, ngang với tiêu đề, phía dưới có dấu sao (*) ngăn cách với số và ký hiệu văn bản"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Số văn bản của liên cơ quan ban hành ghi như thế nào?",
+            "dapan": {
+                "a": "ghi liên tục với số văn bản cùng tên loại của cơ quan, tổ chức chủ trì.",
+                "b": "ghi  số văn bản cùng tên loại của cơ quan, tổ chức chủ trì.",
+                "c": "ghi liên tục với số văn bản cùng tên loại của cơ quan, tổ chức chủ trì hoặc phối hợp",
+                "d": "ghi liên tục với số văn bản cùng tên loại của cơ quan, tổ chức phối hợp."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Cách trình bày kỹ thuật văn bản của Đảng mặt trước trên khổ giấy có kích thước 210 x 297 (tiêu chuẩn A4) theo Hướng đẫn số 36-HD/VPTW, ngày 03/45/2018 của Văn phòng Trung ương Đảng?",
+            "dapan": {
+                "a": "Cách mép trên trang giấy 20 mm, cách mép dưới trang giấy 15mm, cách mép trái trang giấy 35mm, cách mép phải trang giấy 15 mm",
+                "b": "Cách mép trên trang giấy 25 mm, cách mép dưới trang giấy 25mm, cách mép trái trang giấy 35mm, cách mép phải trang giấy 15 mm",
+                "c": "Cách mép trên trang giấy 25 mm, cách mép dưới trang giấy 20mm, cách mép trái trang giấy 25mm, cách mép phải trang giấy 25 mm",
+                "d": "Cách mép trên trang giấy 20 mm, cách mép dưới trang giấy 20mm, cách mép trái trang giấy 30mm, cách mép phải trang giấy 15 mm."
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "theo Hướng đẫn số 36-HD/VPTW, ngày 03/45/2018 của Văn phòng Trung ương Đảng thì có các loại bản sao nào dưới đây?",
+            "dapan": {
+                "a": "Sao y bản chính, Trích sao, Sao lục",
+                "b": "Sao y bản chính, Sao từ sổ gốc",
+                "c": "Sao y bản chính, sao lục"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "theo Hướng đẫn số 36-HD/VPTW, ngày 03/45/2018 của Văn phòng Trung ương Đảng thì đáp án nào đúng?",
+            "dapan": {
+                "a": "Ngày dưới 7 và tháng dưới 2 phải thêm số 0 ở trước",
+                "b": "Ngày dưới 8 và tháng dưới 3 phải thêm số 0 ở trước",
+                "c": "Ngày dưới 9 và tháng dưới 3 phải thêm số 0 ở trước",
+                "d": "Ngày dưới 10 và tháng dưới 3 phải thêm số 0 ở trước"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Các văn bản ban hành đều ghi tên loại văn bản, trừ ?",
+            "dapan": {
+                "a": "công văn.",
+                "b": "thông báo",
+                "c": "Chỉ thị",
+                "d": "Kết luận"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "theo Hướng đẫn số 36-HD/VPTW, ngày 03/45/2018 của Văn phòng Trung ương Đảng thì  nội dung văn bản khi xuống dòng, chữ đầu dòng lùi vào khoảng?",
+            "dapan": {
+                "a": "05 mm",
+                "b": "10 mm",
+                "c": "15 mm",
+                "d": "20 mm"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": ". theo Hướng đẫn số 36-HD/VPTW, ngày 03/45/2018 của Văn phòng Trung ương Đảng thì  khoảng cách giữa các đoạn văn bản (Spacing) tối thiểu là?",
+            "dapan": {
+                "a": "6pt",
+                "b": "7pt",
+                "c": "8pt",
+                "d": "9pt"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "theo Hướng đẫn số 36-HD/VPTW, ngày 03/45/2018 của Văn phòng Trung ương Đảng thì  khoảng cách giữa các dòng (Line spacing) tối thiểu là?",
+            "dapan": {
+                "a": "16pt (Exactly)",
+                "b": "17pt (Exactly)",
+                "c": "18pt (Exactly)",
+                "d": "19pt (Exactly)"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Những văn bản có phần căn cứ ban hành, mỗi căn cứ trình bày một dòng riêng, cuối dòng có dấu chấm phẩy (;), riêng căn cứ cuối cùng?",
+            "dapan": {
+                "a": "có dấu phẩy (,).",
+                "b": "có dấu chấm phẩy (;)",
+                "c": "có dấu chấm (.)."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Khi phó trưởng ban chỉ đạo, phó trưởng tiểu ban ký văn bản, thì thể thức trình bày như thế nào?",
+            "dapan": {
+                "a": "đề ký thay trưởng ban chỉ đạo, trưởng tiểu ban; phó chủ tịch hội đồng ký văn bản  đề ký thay mặt hội đồng…",
+                "b": "không đề ký thay trưởng ban chỉ đạo, trưởng tiểu ban; phó chủ tịch hội đồng ký văn bản không đề ký thay mặt hội đồng…",
+                "c": "cả A và B đều sai",
+                "d": "Cả A và B đều đúng"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Đối với văn bản uỷ quyền thì việc ký văn bản như thế nào?",
+            "dapan": {
+                "a": "người được uỷ quyền trực tiếp ký, không uỷ quyền cho người khác ký thay",
+                "b": "người được uỷ quyền trực tiếp ký, có thể uỷ quyền cho người khác ký thay",
+                "c": "người được uỷ quyền trực tiếp ký,"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Khi chưa bổ nhiệm cấp trưởng thì ?",
+            "dapan": {
+                "a": "cấp phó  đề ký thay cấp trưởng.",
+                "b": "cấp phó đề ký trực tiếp",
+                "c": "cấp phó đề ký trực tiếp, không đề ký thay cấp trưởng."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Dấu đóng phải rõ ràng, ngay ngắn, đúng chiều, trùm lên khoảng?",
+            "dapan": {
+                "a": "1/2 chữ ký về phía bên trái.",
+                "b": "1/2 chữ ký về phía bên phải",
+                "c": "1/3 chữ ký về phía bên phải",
+                "d": "1/3 chữ ký về phía bên trái."
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Biên bản hội nghị cấp uỷ, cơ quan, tổ chức đảng các cấp có từ bao nhiêu trang trở lên phải đóng dấu giáp lai",
+            "dapan": {
+                "a": "02 trang",
+                "b": "03 trang",
+                "c": "04 trang",
+                "d": "05 trang"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Dấu giáp lai được đóng như thế nào?",
+            "dapan": {
+                "a": "Được đóng vào khoảng giữa mép phải của văn bản, phụ lục văn bản, trùm lên một phần các tờ giấy, mỗi khuôn dấu đóng tối đa 2 tờ giấy",
+                "b": "Được đóng vào khoảng giữa mép phải của văn bản, phụ lục văn bản, trùm lên một phần các tờ giấy, mỗi khuôn dấu đóng tối đa 3 tờ giấy",
+                "c": "Được đóng vào khoảng giữa mép phải của văn bản, phụ lục văn bản, trùm lên một phần các tờ giấy, mỗi khuôn dấu đóng tối đa 4 tờ giấy",
+                "d": "Được đóng vào khoảng giữa mép phải của văn bản, phụ lục văn bản, trùm lên một phần các tờ giấy, mỗi khuôn dấu đóng tối đa 5 tờ giấy"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Dấu chỉ mức độ mật gồm?",
+            "dapan": {
+                "a": "Mật, tối mật, tuyệt mật",
+                "b": "Mật, tuyệt mật, tối mật,",
+                "c": "tối mật, tuyệt mật, mật"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Dấu chỉ mức độ khẩn gồm?",
+            "dapan": {
+                "a": "thượng khẩn, hoả tốc, khẩn",
+                "b": "Khẩn, hoả tốc, thượng khẩn,"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Bản sao y bản chính Là?",
+            "dapan": {
+                "a": "bản sao nguyên văn từ bản chính do cơ quan ban hành bản chính nhân sao và phát hành.",
+                "b": "bản sao lại toàn văn văn bản của cơ quan khác do cơ quan nhận văn bản được phép nhân sao và phát hành.",
+                "c": "bản sao lại một phần nội dung từ bản chính do cơ quan ban hành bản chính hoặc cơ quan lưu trữ đang quản lý bản chính thực hiện."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Bản sao lục là?",
+            "dapan": {
+                "a": "bản sao nguyên văn từ bản chính do cơ quan ban hành bản chính nhân sao và phát hành.",
+                "b": "bản sao lại toàn văn văn bản của cơ quan khác do cơ quan nhận văn bản được phép nhân sao và phát hành.",
+                "c": "bản sao lại một phần nội dung từ bản chính do cơ quan ban hành bản chính hoặc cơ quan lưu trữ đang quản lý bản chính thực hiện."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Bản trích sao là?",
+            "dapan": {
+                "a": "bản sao nguyên văn từ bản chính do cơ quan ban hành bản chính nhân sao và phát hành.",
+                "b": "bản sao lại toàn văn văn bản của cơ quan khác do cơ quan nhận văn bản được phép nhân sao và phát hành.",
+                "c": "bản sao lại một phần nội dung từ bản chính do cơ quan ban hành bản chính hoặc cơ quan lưu trữ đang quản lý bản chính thực hiện."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Các hình thức sao?",
+            "dapan": {
+                "a": "sao thông thường",
+                "b": "sao photocopy",
+                "c": "cả A và B"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Phông chữ trình bày trên văn bản của Đảng là?",
+            "dapan": {
+                "a": "Bộ mã các ký tự chữ Việt theo Tiêu chuẩn TCVN 6909:2001",
+                "b": "Bộ mã các ký tự chữ Việt theo Tiêu chuẩn TCVN 6909:2002",
+                "c": "Bộ mã các ký tự chữ Việt theo Tiêu chuẩn TCVN 6909:2003",
+                "d": "Bộ mã các ký tự chữ Việt theo Tiêu chuẩn TCVN 6909:2004"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Số trang văn bản trình bày như thế nào?",
+            "dapan": {
+                "a": "trình bày tại điểm giữa, cách mép dưới trang giấy 10 mm và cách đều hai mép phải, trái của phần có chữ; không đánh số trang đối với trang thứ nhất.",
+                "b": "trình bày tại điểm giữa, cách mép trên trang giấy 10 mm và cách đều hai mép phải, trái của phần có chữ; không đánh số trang đối với trang thứ nhất.",
+                "c": "trình bày tại điểm giữa, cách mép trên trang giấy 10 mm và cách đều hai mép phải, trái của phần có chữ;  đánh số trang đối với trang thứ nhất."
+            },
+            "dapandung": "B"
+        }
+    ]
+}
