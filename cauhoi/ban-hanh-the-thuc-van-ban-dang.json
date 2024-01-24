@@ -1,0 +1,353 @@
+{
+    "cauhoi": [
+        {
+            "noidung": "Văn bản của Đảng chỉ được sửa đổi, bổ sung, thay thế, bãi bỏ bởi ?",
+            "dapan": {
+                "a": "chính cơ quan đã ban hành văn bản và  cơ quan đảng cấp trên có thẩm quyền.",
+                "b": "chính cơ quan đã ban hành văn bản",
+                "c": "cơ quan đảng cấp trên có thẩm quyền.",
+                "d": "chính cơ quan đã ban hành văn bản, hoặc cơ quan đảng cấp trên có thẩm quyền."
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Một văn bản của Đảng có thể được ban hành để ?",
+            "dapan": {
+                "a": "sửa đổi, bổ sung, thay thế hoặc bãi bỏ nội dung trong một   văn bản khác do cùng một cơ quan đảng ban hành",
+                "b": "đồng thời sửa đổi, bổ sung, thay thế hoặc bãi bỏ nội dung trong một số văn bản khác do nhiều cơ quan đảng ban hành",
+                "c": "đồng thời sửa đổi, bổ sung, thay thế hoặc bãi bỏ nội dung trong một số văn bản khác do cùng một cơ quan đảng ban hành"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Văn bản nào dưới đây không thuộc các thể loại văn bản của Đảng ?",
+            "dapan": {
+                "a": "Cương lĩnh chính trị, Điều lệ Đảng, chiến lược, Nghị quyết, Quyết định, Chỉ thị, Kết luận, Quy chế",
+                "b": "Quy định, Thông tri, Hướng dẫn, Thông báo, Thông cáo",
+                "c": "Tuyên bố, Lời kêu gọi, Báo cáo, Kế hoạch, Quy hoạch, Chương trình, Đề án, Phương án, Dự án, Tờ trình, Công văn, Biên bản",
+                "d": "Thông tư, Công điện, Bản ghi nhớ, Bản thỏa thuận, Giấy ủy quyền"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Văn bản dùng để truyền đạt, trao đổi các công việc cụ thể trong quá trình thực hiện chức năng, nhiệm vụ của cấp ủy, tổ chức, cơ quan đảng thuộc thể loại văn bản nào dưới đây ?",
+            "dapan": {
+                "a": "Công văn",
+                "b": "Thông báo",
+                "c": "Chỉ thị",
+                "d": "Kết luận"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản dùng để thuyết trình tổng quát một đề án, một vấn đề, một dự thảo văn bản để cấp trên xem xét, quyết định thuộc thể loại văn bản nào dưới đây ?",
+            "dapan": {
+                "a": "Công văn",
+                "b": "Tờ trình",
+                "c": "Chỉ thị",
+                "d": "Chương trình"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Văn bản dùng để trình bày có hệ thống về một kế hoạch, giải pháp giải quyết một nhiệm vụ, một vấn đề nhất định để cấp có thẩm quyền phê duyệt thuộc thể loại văn bản nào dưới đây ?",
+            "dapan": {
+                "a": "Phương án",
+                "b": "Đề án",
+                "c": "Dự án",
+                "d": "Chương trình"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Văn bản trình bày các cách thức hành động tối ưu để thực hiện nhiệm vụ công tác nhất định của cơ quan, tổ chức thuộc thể loại văn bản nào dưới đây ?",
+            "dapan": {
+                "a": "Phương án",
+                "b": "Đề án",
+                "c": "Dự án",
+                "d": "Chương trình"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Văn bản trình bày các cách thức hành động tối ưu để thực hiện nhiệm vụ công tác nhất định của cơ quan, tổ chức thuộc thể loại văn bản nào dưới đây ?",
+            "dapan": {
+                "a": "Phương án",
+                "b": "Đề án",
+                "c": "Dự án",
+                "d": "Chương trình"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Văn bản trình bày có hệ thống về dự kiến cách thức thực hiện các mục tiêu riêng biệt trong giới hạn về nguồn lực, ngân sách, thời gian đã được xác định trước để triển khai chương trình, đề án, kế hoạch công tác đã đề ra thuộc thể loại văn bản nào dưới đây ?",
+            "dapan": {
+                "a": "Phương án",
+                "b": "Đề án",
+                "c": "Dự án",
+                "d": "Chương trình"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Văn bản dùng để trình bày, sắp xếp toàn bộ những việc cần làm đối với một lĩnh vực công tác hoặc tất cả các mặt công tác của cấp ủy, tổ chức, cơ quan đảng (hoặc của các đồng chí lãnh đạo) theo một trình tự nhất định, trong một thời gian cụ thể thuộc thể loại văn bản nào dưới đây ?",
+            "dapan": {
+                "a": "Phương án",
+                "b": "Đề án",
+                "c": "Dự án",
+                "d": "Chương trình"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Văn bản   dùng để chính thức công bố lập trường, quan điểm, thái độ của Đảng về một sự kiện, sự việc quan trọng thuộc thể loại văn bản nào dưới đây ?",
+            "dapan": {
+                "a": "Thông báo",
+                "b": "Thông cáo",
+                "c": "Tuyên bố",
+                "d": "Thông tri"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Văn bản dùng để công bố về một sự kiện, sự việc quan trọng thuộc thể loại văn bản nào dưới đây ?",
+            "dapan": {
+                "a": "Thông báo",
+                "b": "Thông cáo",
+                "c": "Tuyên bố",
+                "d": "Thông tri"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Văn bản dùng để thông tin về một vấn đề, một sự việc cụ thể để các cơ quan, cá nhân có liên quan biết hoặc thực hiện thuộc thể loại văn bản nào dưới đây ?",
+            "dapan": {
+                "a": "Thông báo",
+                "b": "Thông cáo",
+                "c": "Tuyên bố",
+                "d": "Thông tri"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản chỉ đạo, giải thích, hướng dẫn các cấp ủy, tổ chức, cơ quan đảng cấp dưới thực hiện nghị quyết, quyết định, chỉ thị… của cấp ủy, hoặc thực hiện một nhiệm vụ cụ thể thuộc thể loại văn bản nào dưới đây ?",
+            "dapan": {
+                "a": "Thông báo",
+                "b": "Thông cáo",
+                "c": "Tuyên bố",
+                "d": "Thông tri"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Văn bản dùng để chỉ đạo các cấp ủy, tổ chức, cơ quan đảng cấp dưới thực hiện các chủ trương, chính sách hoặc một số nhiệm vụ cụ thể thuộc thể loại văn bản nào dưới đây ?",
+            "dapan": {
+                "a": "Nghị quyết",
+                "b": "Quyết định",
+                "c": "Chỉ thị",
+                "d": "Kết luận"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Văn bản dùng để ban hành hoặc bãi bỏ các quy chế, quy định, quyết định cụ thể về chủ trương, chính sách, tổ chức bộ máy, nhân sự thuộc phạm vi quyền hạn của cấp ủy, tổ chức, cơ quan đảng thuộc thể loại văn bản nào dưới đây ?",
+            "dapan": {
+                "a": "Nghị quyết",
+                "b": "Quyết định",
+                "c": "Chỉ thị",
+                "d": "Kết luận"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Văn bản ghi lại các quyết định được thông qua ở đại hội, hội nghị cơ quan lãnh đạo đảng các cấp, hội nghị đảng viên về đường lối, chủ trương, chính sách, kế hoạch hoặc các vấn đề cụ thể thuộc thể loại văn bản nào dưới đây ?",
+            "dapan": {
+                "a": "Nghị quyết",
+                "b": "Quyết định",
+                "c": "Chỉ thị",
+                "d": "Kết luận"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Đại hội đại biểu toàn quốc của Đảng ban hành văn bản nào dưới đây?",
+            "dapan": {
+                "a": "Cương lĩnh chính trị. Điều lệ Đảng.  Chiến lược.  Nghị quyết.",
+                "b": "Quy chế.  Thông báo.  Thông cáo.  Tuyên bố.",
+                "c": "Lời kêu gọi.  Chương trình. Công văn. Biên bản.",
+                "d": "Tất cả văn bản trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Thẩm quyền ban hành Cương lĩnh chính trị, Điều lệ Đảng?",
+            "dapan": {
+                "a": "Đại hội Đại biểu toàn quốc của Đảng",
+                "b": "Ban Chấp hành Trung ương Đảng",
+                "c": "Bộ Chính trị",
+                "d": "Ban Bí thư"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Đoàn Chủ tịch Đại hội đại biểu toàn quốc của Đảng không có thẩm quyền ban hành văn bản nào dưới đây?",
+            "dapan": {
+                "a": "Thông báo.  Báo cáo.",
+                "b": "Chương trình. Công văn.",
+                "c": "Biên bản.",
+                "d": "Nghị quyết"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Đoàn Thư ký Đại hội đại biểu toàn quốc của Đảng không có thẩm quyền ban hành văn bản nào dưới đây?",
+            "dapan": {
+                "a": "Báo cáo.",
+                "b": "Chương trình.",
+                "c": "Thông báo",
+                "d": "Công văn.  Biên bản."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Ban Chấp hành Trung ương Đảng  không có thẩm quyền ban hành văn bản nào dưới đây?",
+            "dapan": {
+                "a": "Cương lĩnh chính trị",
+                "b": "Chiến lược",
+                "c": "Nghị quyết",
+                "d": "Lời kêu gọi"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Bộ Chính trị   không có thẩm quyền ban hành văn bản nào dưới đây?",
+            "dapan": {
+                "a": "Lời Kêu gọi",
+                "b": "Điều lệ Đảng",
+                "c": "Chiến lược",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Ban Bí thư  có thẩm quyền ban hành văn bản nào dưới đây?",
+            "dapan": {
+                "a": "Lời Kêu gọi",
+                "b": "Nghị quyết",
+                "c": "Chiến lược",
+                "d": "Chỉ thị"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Ban Chấp hành đảng bộ tỉnh, thành phố  ban hành văn bản nào dưới đây?",
+            "dapan": {
+                "a": "Nghị quyết.  Quyết định. Kết luận. Quy chế. Quy định. Thông báo. Thông cáo.",
+                "b": "Báo cáo. Kế hoạch. Quy hoạch. Chương trình. Đề án. Phương án.",
+                "c": "Dự án.  Tờ trình. Công văn. Biên bản.",
+                "d": "Tất cả văn bản trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Ban Chấp hành đảng bộ tỉnh, thành phố  không có thẩm quyền ban hành văn bản nào dưới đây?",
+            "dapan": {
+                "a": "Nghị quyết",
+                "b": "Quy chế",
+                "c": "Chiến lược",
+                "d": "Công văn"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Ban Thường vụ tỉnh ủy, thành ủy có thẩm quyền ban hành văn bản nào dưới đây?",
+            "dapan": {
+                "a": "Nghị quyết. Quyết định. Chỉ thị. Kết luận. Quy chế.",
+                "b": "Thông tri. Hướng dẫn. Thông báo. Báo cáo. Kế hoạch. Quy hoạch. Chương trình.",
+                "c": "Đề án. Phương án. Dự án. Tờ trình. Công văn. Biên bản.",
+                "d": "Chiến lược. Lời kêu gọi. Tuyên bố"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Ban Chấp hành Đảng bộ cấp huyện ủy ban hành những văn bản nào dưới đây?",
+            "dapan": {
+                "a": "Nghị quyết.  Quyết định. Kết luận.Quy chế. Quy định. Thông báo. Thông cáo.",
+                "b": "Báo cáo. Kế hoạch. Quy hoạch. Chương trình. Đề án. Phương án. Dự án.",
+                "c": "Tờ trình. Công văn. Biên bản.",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Ban Chấp hành Đảng bộ cấp huyện ủy không có thẩm quyền ban hành những văn bản nào dưới đây?",
+            "dapan": {
+                "a": "Tuyên bố",
+                "b": "Quy hoạch",
+                "c": "Đề án",
+                "d": "Biên bản"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Ban Thường vụ cấp huyện ủy không có thẩm quyền ban hành những văn bản nào dưới đây?",
+            "dapan": {
+                "a": "Nghị quyết. Quyết định. Chỉ thị. Kết luận. Quy chế. Quy định.",
+                "b": "Thông tri.  Hướng dẫn. Thông báo. Báo cáo. Kế hoạch. Quy hoạch.",
+                "c": "Chương trình.  Đề án. Phương án. Dự án. Tờ trình. Công văn. Biên bản.",
+                "d": "Lời kêu gọi, Chiến lược, Tuyên bố"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Các cơ quan tham mưu, giúp việc và các ban chỉ đạo, tiểu ban, hội đồng…. hoạt động có thời hạn của cấp ủy không có thẩm quyền ban hành văn bản nào dưới đây?",
+            "dapan": {
+                "a": "Nghị quyết, Chỉ thị",
+                "b": "Quyết định. Kết luận. Quy chế. Quy định. Hướng dẫn. Thông báo. Thông cáo.",
+                "c": "Báo cáo. Kế hoạch. Quy hoạch. Chương trình. Đề án. Phương án. Dự án.",
+                "d": "Tờ trình. Công văn. Biên bản."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Mỗi văn bản chính thức của Đảng bắt buộc phải có đủ các thành phần thể thức nào dưới đây?",
+            "dapan": {
+                "a": "Tiêu đề “ĐẢNG CỘNG SẢN VIỆT NAM”.  Tên cơ quan ban hành văn bản. Số và ký hiệu văn bản. Địa danh và ngày tháng năm ban hành văn bản.",
+                "b": "Tên loại văn bản và trích yếu nội dung văn bản. Phần nội dung văn bản.",
+                "c": "Quyền hạn, chức vụ, họ tên và chữ ký của người có thẩm quyền. Dấu cơ quan, tổ chức ban hành văn bản. Nơi nhận văn bản.",
+                "d": "tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Bản gốc Là?",
+            "dapan": {
+                "a": "bản hoản chỉnh về nội dung, thể thức văn bản được cơ quan, tổ chức ban hành và có chữ ký trực tiếp của người có thẩm quyền.",
+                "b": "bản hoàn chỉnh về nội dung, thể thức văn bản và được cơ quan, tổ chức ban hành",
+                "c": "bản sao lại nguyên văn hoặc trích sao một phần nội dung từ bản chính",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Bản chính là?",
+            "dapan": {
+                "a": "bản hoản chỉnh về nội dung, thể thức văn bản được cơ quan, tổ chức ban hành và có chữ ký trực tiếp của người có thẩm quyền.",
+                "b": "bản hoàn chỉnh về nội dung, thể thức văn bản và được cơ quan, tổ chức ban hành",
+                "c": "bản sao lại nguyên văn hoặc trích sao một phần nội dung từ bản chính",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản sao dưới mọi hình thức đều phải bảo đảm đủ các thành phần thể thức bản sao nào dưới đây?",
+            "dapan": {
+                "a": "Tên cơ quan sao văn bản. Số và ký hiệu bản sao. Địa danh và ngày, tháng, năm sao văn bản.Chức vụ, chữ ký, họ tên người ký sao và dấu cơ quan sao.",
+                "b": "Tên cơ quan sao văn bản.   Địa danh và ngày, tháng, năm sao văn bản.Chức vụ, chữ ký, họ tên người ký sao và dấu cơ quan sao. Nơi nhận bản sao.",
+                "c": "Tên cơ quan sao văn bản. Số và ký hiệu bản sao.  Chức vụ, chữ ký, họ tên người ký sao và dấu cơ quan sao. Nơi nhận bản sao.",
+                "d": "Tên cơ quan sao văn bản. Số và ký hiệu bản sao. Địa danh và ngày, tháng, năm sao văn bản.Chức vụ, chữ ký, họ tên người ký sao và dấu cơ quan sao. Nơi nhận bản sao."
+            },
+            "dapandung": "D"
+        }
+    ]
+}
