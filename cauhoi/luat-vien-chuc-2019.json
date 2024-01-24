@@ -200,9 +200,8 @@
                 "a": "Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế",
                 "b": "Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế của cơ quan quản lý công chức)",
                 "c": "Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế của cơ quan sử dụng công chức)",
-                "(Trường hợp chỉ yêu cầu theo Luật CBCC 2008 thì đáp án A, còn có văn bản hướng dẫn thi hành thì đáp án C": ""
             },
-            "dapandung": "c"
+            "dapandung": "C"
         },
         {
             "noidung": "Việc tuyển dụng công chức thông qua xét tuyển được thực hiện với  nhóm đối tượng nào? (luật mới)",
@@ -361,15 +360,6 @@
                 "d": "06 tháng"
             },
             "dapandung": "A"
-        },
-        {
-            "noidung": "Những người nào không được đăng ký dự tuyển công chức",
-            "dapan": {
-                "a": "Cư trú tại Việt Nam;  Có năng lực hành vi dân sự; đang bị xử phạt vi phạm hành chính",
-                "b": "Không cư trú tại Việt Nam;  Mất hoặc bị hạn chế năng lực hành vi dân sự; Đang bị truy cứu trách nhiệm hình sự; đang chấp hành hoặc đã chấp hành xong bản án, quyết định về hình sự của Tòa án mà chưa được xóa án tích; đang bị áp dụng biện pháp xử lý hành chính   đưa vào cơ sở cai nghiện bắt buộc, đưa vào cơ sở giáo dục bắt buộc)",
-                "c": "Có văn bằng, chứng chỉ phù hợp;  Có phẩm chất chính trị, đạo đức tốt;  Đủ sức khoẻ để thực hiện nhiệm vụ;"
-            },
-            "dapandung": "B"
         },
         {
             "noidung": "Những người nào không được đăng ký dự tuyển công chức",
@@ -711,15 +701,7 @@
                 "a": "12 tháng                                                      b)  9 tháng",
                 "c": "6 tháng                                                         d) 3 tháng"
             },
-            "dapandung": "D"
-        },
-        {
-            "noidung": "Công chức bị kỷ luật giáng chức hoặc cách chức thì thời hạn nâng lương bị kéo dài là bao nhiêu?",
-            "dapan": {
-                "a": "12 tháng                                                      b)  9 tháng",
-                "c": "6 tháng                                                         d) 3 tháng"
-            },
-            "dapandung": "D"
+            "dapandung": "A"
         },
         {
             "noidung": "Theo Luật cán bộ, công chức năm 2008, “từ chức” được định nghĩa như thế nào?",
