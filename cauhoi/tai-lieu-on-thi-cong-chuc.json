@@ -311,6 +311,96 @@
                 "d": "Xây dựng nước Việt Nam độc lập và cuối cùng là nước xã hội chủ nghĩa."
             },
             "dapandung": "C"
-        }               
+        },
+        {
+            "noidung": "Nhiệm kỳ đại hội chi bộ cơ sở là bao nhiêu năm?",
+            "dapan": {
+                "a": "5 năm /2 lần",
+                "b": "5 năm / 1 lần",
+                "c": "6 năm",
+                "d": "7 năm"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Tại thời điểm chi bộ xét kết nạp, người vào Đảng Cộng sản Việt Nam phải có điều kiện tuổi đời như thế nào là đúng với Điều lệ Đảng hiện hành?",
+            "dapan": {
+                "a": "Đủ 18 tuổi (tính theo tháng)",
+                "b": "Đủ 18 tuổi (tính theo năm)",
+                "c": "Đủ 20 tuổi (tính theo tháng)",
+                "d": "Đủ 20 tuổi (tính theo năm)"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Theo Điều lệ Đảng cộng sản Việt Nam hiện hành, chi bộ trực thuộc đảng uỷ cơ sở tổ chức đại hội mấy năm một lần?",
+            "dapan": {
+                "a": "Một năm một lần",
+                "b": "Hai năm một lần",
+                "c": "Năm năm hai lần",
+                "d": "Năm năm một lần"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Theo quy định của Điều lệ Đảng hiện hành, cấp nào có quyền quyết định khiển trách, cảnh cáo tổ chức đảng vi phạm?",
+            "dapan": {
+                "a": "Cấp ủy cùng cấp",
+                "b": "Cấp ủy cấp trên trực tiếp",
+                "c": "Cấp ủy cấp trên cách một cấp",
+                "d": "Đại hội cùng cấp"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Điều lệ Đảng hiện hành quy định về thời hạn chuyển sinh hoạt đảng chính thức, kể từ ngày giới thiệu chuyển đi, đảng viên phải xuất trình giấy giới thiệu sinh hoạt đảng với chi ủy nơi chuyển đến để được sinh hoạt đảng quy định như thế nào?",
+            "dapan": {
+                "a": "Trong vòng 15 ngày làm việc",
+                "b": "Trong vòng 30 ngày làm việc",
+                "c": "Trong vòng 45 ngày làm việc",
+                "d": "Trong vòng 60 ngày làm việc"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Điều lệ Đảng hiện hành quy định đảng viên tuổi cao, sức yếu, tự nguyện xin giảm, miễn công tác và sinh hoạt đảng do tổ chức nào quyết định?",
+            "dapan": {
+                "a": "Đảng ủy cơ sở xem xét, quyết định",
+                "b": "Đảng bộ xem xét, quyết định",
+                "c": "Chi ủy xem xét, quyết định",
+                "d": "Chi bộ xem xét, quyết định"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Điều lệ Đảng hiện hành quy định cấp có thẩm quyền xóa tên trong danh sách đảng viên đối với đảng viên bỏ sinh hoạt đảng hoặc không đóng đảng phí mà không có lý do chính đáng trong thời gian?",
+            "dapan": {
+                "a": "2 tháng trong năm",
+                "b": "3 tháng trong năm",
+                "c": "6 tháng trong năm",
+                "d": "9 tháng trong năm"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Theo Điều lệ Đảng hiện hành thì đối tượng chịu sự kiểm tra, giám sát của Đảng là?",
+            "dapan": {
+                "a": "Tổ chức đảng",
+                "b": "Đảng viên",
+                "c": "Tổ chức đảng và đảng viên",
+                "d": "Chi bộ cơ sở, đảng bộ cơ sở"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Theo quy định của Điều lệ Đảng, Đảng bộ cơ sở họp thường lệ bao lâu một lần?",
+            "dapan": {
+            "a": "Họp khi cần thiết.",
+            "b": "Mỗi năm hai lần, họp bất thường khi cần.",
+            "c": "9 tháng một lần.",
+            "d": "Một năm một lần."
+            },
+            "dapandung": "A"
+            }
     ]
 }
