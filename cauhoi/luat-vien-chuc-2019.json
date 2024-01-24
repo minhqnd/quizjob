@@ -641,22 +641,12 @@
         {
             "noidung": "Luật cán bộ, công chức năm 2008 quy định một trong những việc cán bộ, công chức không được làm liên quan đến bí mật nhà nước?",
             "dapan": {
-                "a": "Loại A\t\tb) Loại B                    c) Loại C                      d) Loại D",
+                "a": "Tiết lộ thông tin liên quan đến bí mật nhà nước dưới mọi hình thức",
                 "b": "Tiết lộ thông tin liên quan đến bí mật nhà nước khi chưa được phép của cơ quan có thẩm quyền.",
                 "c": "Tiết lộ thông tin liên quan đến bí mật nhà nước theo quy định.",
                 "d": "Tiết lộ thông tin liên quan đến bí mật nhà nước trong cơ quan, đơn vị công tác)"
             },
-            "dapandung": "B"
-        },
-        {
-            "noidung": "Luật cán bộ, công chức năm 2008 quy định một trong những việc cán bộ, công chức không được làm liên quan đến bí mật nhà nước?",
-            "dapan": {
-                "a": "Loại A\t\tb) Loại B                    c) Loại C                      d) Loại D",
-                "b": "Tiết lộ thông tin liên quan đến bí mật nhà nước khi chưa được phép của cơ quan có thẩm quyền.",
-                "c": "Tiết lộ thông tin liên quan đến bí mật nhà nước theo quy định.",
-                "d": "Tiết lộ thông tin liên quan đến bí mật nhà nước trong cơ quan, đơn vị công tác)"
-            },
-            "dapandung": "B"
+            "dapandung": "A"
         },
         {
             "noidung": "Đâu là những việc cán bộ, công chức không được làm liên quan đến đạo đức công vụ quy định tại Luật cán bộ, công chức năm 2008?",
@@ -681,7 +671,10 @@
         {
             "noidung": "Cán bộ, công chức bị khiển trách hoặc cảnh cáo thì thời gian nâng lương bị kéo dài mấy tháng?",
             "dapan": {
-                "a": "3 tháng.\t\tb) 6 tháng.\t\tc) 9 tháng.\t\td) 12 tháng."
+                "a": "3 tháng.",
+                "b": "6 tháng.",
+                "c": "9 tháng.",
+                "d": "12 tháng."
             },
             "dapandung": "B"
         },
@@ -698,8 +691,10 @@
         {
             "noidung": "Công chức bị kỷ luật giáng chức hoặc cách chức thì thời hạn nâng lương bị kéo dài là bao nhiêu?",
             "dapan": {
-                "a": "12 tháng                                                      b)  9 tháng",
-                "c": "6 tháng                                                         d) 3 tháng"
+                "a": "12 tháng",
+                "b": "9 tháng",
+                "c": "6 tháng",
+                "d": "3 tháng"
             },
             "dapandung": "A"
         },
@@ -757,7 +752,7 @@
             "noidung": "Theo Luật cán bộ, công chức năm 2008, từ \"ngạch\" được hiểu là:",
             "dapan": {
                 "a": "Tên gọi thể hiện trình độ học vấn của công chức)",
-                "B . Tên gọi thể hiện thứ bậc về năng lực và trình độ chuyên môn, nghiệp vụ của công chức": "",
+                "B": "Tên gọi thể hiện thứ bậc về năng lực và trình độ chuyên môn, nghiệp vụ của công chức",
                 "c": "Tên gọi thể hiện trình độ chuyên môn của công chức)",
                 "d": "Tên gọi thể hiện trình độ  và khả năng của công chức)"
             },
@@ -806,16 +801,20 @@
         {
             "noidung": "Điều kiện nào sau đây không phải là điều kiện đăng ký dự tuyển công chức?",
             "dapan": {
-                "a": "Có một quốc tịch là quốc tịch Việt Nam.\t b) Đủ 20 tuổi trở lên.",
-                "c": "Có đơn dự tuyển; có lý lịch rõ ràng.\t d) Có văn bằng, chứng chỉ phù hợp."
+                "a": "Có một quốc tịch là quốc tịch Việt Nam.",
+                "b": "Đủ 20 tuổi trở lên.",
+                "c": "Có đơn dự tuyển; có lý lịch rõ ràng.\t",
+                "d": "Có văn bằng, chứng chỉ phù hợp."
             },
             "dapandung": "B"
         },
         {
             "noidung": "Theo Luật cán bộ, công chức năm 2008, thì việc tuyển dụng công chức phải căn cứ vào?",
             "dapan": {
-                "a": "Yêu cầu nhiệm vụ. \t\tb) Vị trí việc làm.",
-                "c": "Chỉ tiêu biên chế. \t\td) Cả 3 phương án còn lại."
+                "a": "Yêu cầu nhiệm vụ.",
+                "b": "Vị trí việc làm.",
+                "c": "Chỉ tiêu biên chế.",
+                "d": " Cả 3 phương án còn lại."
             },
             "dapandung": "D"
         },
@@ -842,8 +841,10 @@
         {
             "noidung": "Theo quy định của Luật cán bộ, công chức năm 2008, trường hợp nào sau đây là cán bộ?",
             "dapan": {
-                "a": "Giám đốc Sở.                                        b) Bộ trưởng.",
-                "c": "Hiệu trưởng Trường Chính trị tỉnh.\t      d) Trưởng phòng Nội vụ huyện."
+                "a": "Giám đốc Sở.",
+                "b": "Bộ trưởng.",
+                "c": "Hiệu trưởng Trường Chính trị tỉnh.",
+                "d": "Trưởng phòng Nội vụ huyện."
             },
             "dapandung": "B"
         },
@@ -880,21 +881,30 @@
         {
             "noidung": "Theo Luật cán bộ, công chức năm 2008, hình thức kỷ luật nào sau đây không áp dụng đối với cán bộ?",
             "dapan": {
-                "a": "Cảnh cáo.          b) Cách chức)               c) Giáng chức)          d) Bãi nhiệm."
+                "a": "Cảnh cáo.",
+                "b": "Cách chức",
+                "c": "Giáng chức",
+                "d": "Bãi nhiệm."
             },
             "dapandung": "C"
         },
         {
             "noidung": "Theo Luật cán bộ, công chức, đâu là hình thức kỷ luật đối với cán bộ?",
             "dapan": {
-                "a": "Hạ bậc lương\t   b) Giáng chức\tc) Cách chức\td) Buộc thôi việc"
+                "a": "Hạ bậc lương",
+                "b": "Giáng chức",
+                "c": "Cách chức",
+                "d": "Buộc thôi việc"
             },
             "dapandung": "C"
         },
         {
             "noidung": "Theo Luật Cán bộ, công chức, đâu không phải là hình thức kỷ luật đối với công chức?",
             "dapan": {
-                "a": "Khiển trách;\tb) Cảnh cáo;\tc) Cách chức;\td) Bãi nhiệm."
+                "a": "Khiển trách;",
+                "b": " Cảnh cáo",
+                "c": "Cách chức",
+                "d": "Bãi nhiệm."
             },
             "dapandung": "D"
         },
@@ -1156,21 +1166,30 @@
         {
             "noidung": "Theo Luật CBCC những người được bổ nhiệm vào ngạch chuyên viên cao cấp hoặc tương đương thì được xếp vào công chức loại nào ?",
             "dapan": {
-                "a": "Loại A\t\tb) Loại B                    c) Loại C                      d) Loại D"
+                "a": "Loại A",
+                "b": "Loại B ",
+                "c": "Loại C",
+                "d": "Loại D"
             },
             "dapandung": "A"
         },
         {
             "noidung": "Theo Luật CBCC những người được bổ nhiệm vào ngạch chuyên viên  hoặc tương đương thì được xếp vào công chức loại nào ?",
             "dapan": {
-                "a": "Loại A\t\tb) Loại B                    c) Loại C                      d) Loại D"
+                "a": "Loại A",
+                "b": "Loại B ",
+                "c": "Loại C",
+                "d": "Loại D"
             },
             "dapandung": "C"
         },
         {
             "noidung": "Theo Luật CBCC những người được bổ nhiệm vào vào ngạch cán sự hoặc tương đương và ngạch nhân viên. thì được xếp vào công chức loại nào ?",
             "dapan": {
-                "a": "Loại A\t\tb) Loại B                    c) Loại C                      d) Loại D"
+                "a": "Loại A",
+                "b": "Loại B ",
+                "c": "Loại C",
+                "d": "Loại D"
             },
             "dapandung": "D"
         },
