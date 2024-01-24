@@ -73,7 +73,7 @@ function submit() {
         $("#accuracy").text(Math.round(correct / result.length * 100) + "%")
 
         //check all the questions and change the button
-        $("#questions-btn").html("")
+        $(".questions-btn").html("")
         for (i = 0; i < questions.cauhoi.length; i++) {
             if (result[i] == true) {
                 button = CORRECRT_BUTTON.replaceAll("NUMBER", i + 1)
@@ -81,7 +81,7 @@ function submit() {
                 button = WRONG_BUTTON.replaceAll("NUMBER", i + 1)
             }
             
-            $("#questions-btn").append(button)
+            $(".questions-btn").append(button)
         }
         // set the checked array to selected answer array
         checked = result
@@ -141,7 +141,7 @@ checked = []
 //         // create a button
 //         var button = TEMPLATE_BUTTON.replaceAll("NUMBER", i + 1)
 //         // add the button to the div
-//         $("#questions-btn").append(button)
+//         $(".questions-btn").append(button)
 //     }
 // });
 
@@ -218,7 +218,7 @@ function changeQuestion(index) {
 }
 
 function reloadButton() {
-    $("#questions-btn").html("")
+    $(".questions-btn").html("")
     // change the color the only active question to button
     for (i = 0; i < questions.cauhoi.length; i++) {
         var button = TEMPLATE_BUTTON.replaceAll("NUMBER", i + 1)
@@ -230,12 +230,12 @@ function reloadButton() {
         } else if (selectedAnswer[i] !== undefined) {
             button = ANSWER_BUTTON.replaceAll("NUMBER", i + 1)
         }
-        $("#questions-btn").append(button)
+        $(".questions-btn").append(button)
     }
     // add the out line to the current button outline outline-offset-2 outline-amber-400
-    $("#questions-btn button:nth-child(" + (currentQuestion + 1) + ")").addClass("outline")
-    $("#questions-btn button:nth-child(" + (currentQuestion + 1) + ")").addClass("outline-offset-2")
-    $("#questions-btn button:nth-child(" + (currentQuestion + 1) + ")").addClass("outline-amber-400")
+    $(".questions-btn button:nth-child(" + (currentQuestion + 1) + ")").addClass("outline")
+    $(".questions-btn button:nth-child(" + (currentQuestion + 1) + ")").addClass("outline-offset-2")
+    $(".questions-btn button:nth-child(" + (currentQuestion + 1) + ")").addClass("outline-amber-400")
     //disable awnser button if the question is checked
     if (checked[currentQuestion] !== undefined) {
         $("#answerA").prop("disabled", true);
@@ -267,7 +267,7 @@ function resetColor() {
 changeQuestion(0)
 
 var TEMPLATE_BUTTON = `<button onclick="changeQuestion(NUMBER-1)"
-class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-background hover:text-aselectedent-foreground h-10 border border-gray-500 p-2 text-center rounded-lg hover:bg-gray-200">
+class="inline-flex w-12 items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-background hover:text-aselectedent-foreground h-10 border border-gray-500 p-2 text-center rounded-lg hover:bg-gray-200">
 NUMBER
 </button>`
 

@@ -2,17 +2,17 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8"> 
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Trắc Nghiệm</title>
 </head>
 
 <body>
     <div class="flex min-h-screen bg-gray-100 text-gray-900">
-        <aside class="w-64 bg-white shadow-lg rounded-lg p-6">
-            <h2 class="text-xl font-bold mb-4">
+        <aside class="hidden lg:block md:w-64 bg-white shadow-lg rounded-lg py-6 px-4">
+            <!-- <h2 class="text-xl font-bold mb-4">
                 Đây là một bài kiểm tra
-            </h2>
+            </h2> -->
             <div class="space-y-4">
                 <div>
                     <h3 class="text-lg font-semibold">
@@ -22,11 +22,11 @@
                         Trắc nghiệm
                     </p>
                 </div>
-                <div>
-                    <h3 class="text-lg font-semibold">
-                        Các câu hỏi:
-                    </h3>
-                    <div id="questions-btn" class="grid grid-cols-3 gap-2 mt-2">
+                <h3 class="text-lg font-semibold">
+                    Các câu hỏi:
+                </h3>
+                <div class="overflow-auto w-full  max-h-[500px]">
+                    <div class="questions-btn grid grid-cols-4 gap-2 mt-2 px-2">
                         <button
                             class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 hover:text-aselectedent-foreground h-10 border border-gray-500 p-2 text-center bg-amber-400 rounded-lg hover:bg-green-300">
                             123
@@ -35,7 +35,7 @@
                 </div>
                 <div class="flex justify-between"><button onclick="location.href='/';"
                         class="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 py-2 px-4">
-                        Exit Quiz
+                        Về trang chủ
                     </button></div>
             </div>
         </aside>
@@ -44,6 +44,10 @@
                 <h1 class="text-2xl font-bold">
                     Trắc nghiệm
                 </h1>
+                <div class="block lg:hidden flex justify-between"><button onclick="location.href='/';"
+                    class="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 py-2 px-4">
+                    Về trang chủ
+                </button></div>
                 <div class="flex items-center">
                     <div class="text-gray-500"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                             viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
@@ -58,8 +62,16 @@
                     </button>
                 </div>
             </header>
-            <main id="qna" class="flex-1 w-full p-12 space-y-8 justify-center items-center">
-                <div class="text-center p-10">
+            <div class="block lg:hidden pt-6 overflow-auto max-w-full h-38 px-10 items-center">
+                <div class="questions-btn gap-2 h-32  flex flex-row flex-wrap ">
+                    <button
+                        class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 hover:text-aselectedent-foreground h-10 border border-gray-500 p-2 text-center bg-amber-400 rounded-lg hover:bg-green-300">
+                        123
+                    </button>
+                </div>
+            </div>
+            <main id="qna" class="flex-1 w-full p-0 lg:p-12 lg:space-y-8 space-y-0 justify-center items-center">
+                <div class="text-center">
                     <h2 class="text-3xl font-bold px-12 pt-12">Câu <span id="socau"></span>: <span id="question"></span>
                     </h2>
                     <div>
@@ -77,58 +89,61 @@
                     </div>
 
                 </div>
-                <div class="flex gap-4"><button id="answerA" onclick="select('A')"
-                        class="  outline-offset-2 inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 px-4 py-6 text-left pl-4 rounded-lg flex-1 bg-white hover:bg-gray-200">
-                        <div class="flex items-center"><span class="text-xl">
-                                A
-                            </span></div>
-                    </button><button id="answerB" onclick="select('B')"
-                        class="  outline-offset-2 inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 px-4 py-6 text-left pl-4 rounded-lg flex-1 bg-white hover:bg-gray-200">
-                        <div class="flex items-center"><span class="text-xl">
-                                B
-                            </span></div>
-                    </button><button id="answerC" onclick="select('C')"
-                        class=" outline-offset-2  inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 px-4 py-6 text-left pl-4 rounded-lg flex-1 bg-white hover:bg-gray-200">
-                        <div class="flex items-center"><span class="text-xl">
-                                C
-                            </span></div>
-                    </button>
-                    <button id="answerD" onclick="select('D')"
-                        class=" outline-offset-2  inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 px-4 py-6 text-left pl-4 rounded-lg flex-1 bg-white hover:bg-gray-200">
-                        <div class="flex items-center"><span class="text-xl">
-                                D
-                            </span></div>
-                    </button>
-                    <button style="display: none;"
-                        class="outline-offset-2  inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 px-4 py-6 text-left pl-4 rounded-lg flex-1 bg-white hover:bg-gray-200">
-                        <div class="flex items-center"><span class="text-xl">
-                                C
-                            </span></div>
-                    </button>
-                </div>
-                <div class="flex justify-between mt-8"><button id="preva" onclick="prev()"
-                        class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 py-2 px-4 rounded-lg bg-gray-200">
-                        Câu trước
-                    </button>
-                    <button id="check" onclick="check()"
-                        class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 py-2 px-4 rounded-lg bg-amber-400"
-                        disabled>
-                        Kiểm tra
-                    </button>
-                    <button onclick="next()"
-                        class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-10 py-2 px-4 rounded-lg bg-green-500 hover:bg-green-600">
-                        Câu tiếp theo
-                    </button>
-                </div>
-                <div id="ex" class=" hidden w-full">
-                    <div
-                        class="items-center text-sm font-medium ring-offset-background transition-colors border border-input bg-background hover:bg-accent hover:text-accent-foreground px-4 py-6 text-left pl-4 text-l rounded-lg bg-green-300 ">
-                        <div class=" font-bold">Giải thích đáp án</div>
-                        <span>Đáp án đúng </span>
-                        <span id="selected-ex"></span>: 
-                        <span id="correctAnswer-ex"></span>
+                <div class="p-6">
+                    <div class="flex gap-4"><button id="answerA" onclick="select('A')"
+                            class="  outline-offset-2 inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 px-4 py-6 text-left pl-4 rounded-lg flex-1 bg-white hover:bg-gray-200">
+                            <div class="flex items-center"><span class="text-xl">
+                                    A
+                                </span></div>
+                        </button><button id="answerB" onclick="select('B')"
+                            class="  outline-offset-2 inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 px-4 py-6 text-left pl-4 rounded-lg flex-1 bg-white hover:bg-gray-200">
+                            <div class="flex items-center"><span class="text-xl">
+                                    B
+                                </span></div>
+                        </button><button id="answerC" onclick="select('C')"
+                            class=" outline-offset-2  inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 px-4 py-6 text-left pl-4 rounded-lg flex-1 bg-white hover:bg-gray-200">
+                            <div class="flex items-center"><span class="text-xl">
+                                    C
+                                </span></div>
+                        </button>
+                        <button id="answerD" onclick="select('D')"
+                            class=" outline-offset-2  inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 px-4 py-6 text-left pl-4 rounded-lg flex-1 bg-white hover:bg-gray-200">
+                            <div class="flex items-center"><span class="text-xl">
+                                    D
+                                </span></div>
+                        </button>
+                        <button style="display: none;"
+                            class="outline-offset-2  inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 px-4 py-6 text-left pl-4 rounded-lg flex-1 bg-white hover:bg-gray-200">
+                            <div class="flex items-center"><span class="text-xl">
+                                    C
+                                </span></div>
+                        </button>
+                    </div>
+                    <div class="flex justify-between mt-8"><button id="preva" onclick="prev()"
+                            class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 py-2 px-4 rounded-lg bg-gray-200">
+                            Câu trước
+                        </button>
+                        <button id="check" onclick="check()"
+                            class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 py-2 px-4 rounded-lg bg-amber-400"
+                            disabled>
+                            Kiểm tra
+                        </button>
+                        <button onclick="next()"
+                            class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-10 py-2 px-4 rounded-lg bg-green-500 hover:bg-green-600">
+                            Câu tiếp theo
+                        </button>
+                    </div>
+                    <div id="ex" class=" hidden w-full">
+                        <div
+                            class="items-center text-sm font-medium ring-offset-background transition-colors border border-input bg-background hover:bg-accent hover:text-accent-foreground px-4 py-6 text-left pl-4 text-l rounded-lg bg-green-300 ">
+                            <div class=" font-bold">Giải thích đáp án</div>
+                            <span>Đáp án đúng </span>
+                            <span id="selected-ex"></span>:
+                            <span id="correctAnswer-ex"></span>
+                        </div>
                     </div>
                 </div>
+
             </main>
             <div id="result" class=" hidden flex-1 w-full p-6 space-y-8 justify-center items-center">
                 <div class="text-center">
