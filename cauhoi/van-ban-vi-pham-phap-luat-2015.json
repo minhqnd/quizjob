@@ -1,0 +1,1282 @@
+{
+    "cauhoi": [
+        {
+            "noidung": "Văn bản quy phạm pháp luật là ?",
+            "dapan": {
+                "a": "văn bản có chứa  pháp luật, được ban hành theo đúng thẩm quyền, hình thức, trình tự, thủ tục quy định trong Luật này.",
+                "b": "văn bản có chứa quy phạm pháp luật, được ban hành theo đúng thẩm quyền, hình thức, trình tự, thủ tục quy định trong Luật này.",
+                "c": "văn bản có chứa quy phạm pháp luật, được ban hành theo đúng thẩm quyền,  trình tự, thủ tục quy định trong Luật này."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Quy phạm pháp luật là?",
+            "dapan": {
+                "a": "quy tắc xử sự chung, có hiệu lực bắt buộc chung, được áp dụng lặp đi lặp lại nhiều lần đối với cơ quan, tổ chức, cá nhân trong phạm vi cả nước hoặc đơn vị hành chính nhất định, do cơ quan nhà nước, người có thẩm quyền quy định trong Luật này ban hành và được Nhà nước bảo đảm thực hiện.",
+                "b": "quy tắc xử sự, có hiệu lực bắt buộc chung, được áp dụng lặp đi lặp lại nhiều lần đối với cơ quan, tổ chức, cá nhân trong phạm vi cả nước hoặc đơn vị hành chính nhất định, do cơ quan nhà nước, người có thẩm quyền quy định trong Luật này ban hành và được Nhà nước bảo đảm thực hiện.",
+                "c": "quy tắc xử sự chung, có hiệu lực bắt buộc chung, được áp dụng thường xuyên đối với cơ quan, tổ chức, cá nhân trong phạm vi cả nước hoặc đơn vị hành chính nhất định, do cơ quan nhà nước, người có thẩm quyền quy định trong Luật này ban hành và được Nhà nước bảo đảm thực hiện."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thẩm quyền Giải thích Hiến pháp, luật, pháp lệnh?",
+            "dapan": {
+                "a": "Quốc hội",
+                "b": "Ủy ban Thường vụ Quốc hội",
+                "c": "Quốc hội, Ủy ban Thường vụ Quốc hội"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Hệ thống văn bản quy phạm pháp luật của HĐND, UBND cấp tỉnh, huyện, xã là?",
+            "dapan": {
+                "a": "Nghị quyết, quyêt định, chỉ thị",
+                "b": "Nghị quyêt, quyết định",
+                "c": "Nghị quyết, chỉ thị"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Quốc hội có thẩm quyền ban hành văn bản quy phạm pháp luật nào dưới đây?",
+            "dapan": {
+                "a": "Hiến pháp; Bộ luật, luật , nghị quyết",
+                "b": "Hiến pháp; Bộ luật, luật",
+                "c": "Hiến pháp;   luật , nghị quyết"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thủ tướng Chính phủ có quyền ban hành văn bản quy phạm pháp luật nào dưới đây?",
+            "dapan": {
+                "a": "Nghị quyết",
+                "b": "Nghị định",
+                "c": "Quyết định",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Chủ tịch nước có quyền ban hành văn bản quy phạm pháp luật nào dưới đây?",
+            "dapan": {
+                "a": "Nghị quyết",
+                "b": "Nghị định",
+                "c": "Lệnh",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Trong hệ thống văn bản quy phạm pháp luật, không có văn bản nào dưới đây (luật mới)?",
+            "dapan": {
+                "a": "Thông tư của Chánh án Tòa án nhân dân tối cao; thông tư của Viện trưởng Viện kiểm sát nhân dân tối cao; thông tư của Bộ trưởng, Thủ trưởng cơ quan ngang bộ; quyết định của Tổng Kiểm toán nhà nước.",
+                "b": "nghị quyết liên tịch giữa Ủy ban thường vụ Quốc hội, Chính phủ, Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam",
+                "c": "Thông tư liên tịch giữa Chánh án Tòa án nhân dân tối cao với Viện trưởng Viện kiểm sát nhân dân tối cao; thông tư liên tịch giữa Bộ trưởng, Thủ trưởng cơ quan ngang bộ với Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Đâu không phải là Nguyên tắc xây dựng, ban hành văn bản quy phạm pháp luật",
+            "dapan": {
+                "a": "Bảo đảm tính hợp hiến, tính hợp pháp và tính thống nhất của văn bản quy phạm pháp luật trong hệ thống pháp luật.",
+                "b": "Tuân thủ đúng thẩm quyền, hình thức, trình tự, thủ tục xây dựng, ban hành văn bản quy phạm pháp luật.",
+                "c": "Bảo đảm tính minh bạch trong quy định của văn bản quy phạm pháp luật.",
+                "d": "Bảo đảm tính chuyên nghiệp"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Ngôn ngữ trong văn bản quy phạm pháp luật là?",
+            "dapan": {
+                "a": "Tiếng Việt",
+                "b": "Tiếng phổ thông",
+                "c": "Tiếng Việt và tiếng Anh"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật phải?",
+            "dapan": {
+                "a": "quy định cụ thể nội dung cần điều chỉnh, không quy định chung chung, không quy định lại các nội dung đã được quy định trong văn bản   pháp luật khác.",
+                "b": "quy định cụ thể nội dung cần điều chỉnh, không quy định chung chung, không quy định lại các nội dung đã được quy định trong văn bản quy phạm pháp luật khác.",
+                "c": "quy định cụ thể nội dung cần điều chỉnh, không quy định chung chung,  quy định lại các nội dung đã được quy định trong văn bản quy phạm pháp luật khác."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Thẩm quyền quy định về thể thức và kỹ thuật trình bày văn bản quy phạm pháp luật của Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước.",
+            "dapan": {
+                "a": "Quốc hội",
+                "b": "Ủy ban thường vụ Quốc hội",
+                "c": "Chính phủ"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Thẩm quyền quy định về thể thức và kỹ thuật trình bày văn bản quy phạm pháp luật của các cơ quan, người có thẩm quyền khác được quy định trong Luật này.",
+            "dapan": {
+                "a": "Quốc hội",
+                "b": "Ủy ban thường vụ Quốc hội",
+                "c": "Chính phủ",
+                "d": "Bộ Nội vụ"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Số, ký hiệu của văn bản quy phạm pháp luật phải thể hiện rõ?",
+            "dapan": {
+                "a": "số thứ tự,  loại văn bản, cơ quan ban hành văn bản.",
+                "b": "số thứ tự, năm ban hành, loại văn bản, cơ quan ban hành văn bản.",
+                "c": "số thứ tự, năm ban hành,   cơ quan ban hành văn bản."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Số, ký hiệu của luật, nghị quyết của Quốc hội được sắp xếp theo thứ tự như thế nào?",
+            "dapan": {
+                "a": "“loại văn bản: số thứ tự của văn bản/năm ban hành/tên viết tắt của cơ quan ban hành văn bản và số khóa Quốc hội”",
+                "b": "“loại văn bản: số thứ tự của văn bản/năm ban hành/tên viết tắt của cơ quan ban hành văn  bản”",
+                "c": "“loại văn bản: số thứ tự của văn bản/năm ban hành/tên viết tắt của cơ quan ban hành văn bản và số khóa của Ủy ban Thường vụ Quốc hội”"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Số, ký hiệu của các văn bản quy phạm pháp luật không thuộc trường hợp văn bản của Quối hội, UBTVQH được sắp xếp theo thứ tự như thế nào?",
+            "dapan": {
+                "a": "“số thứ tự của văn bản/năm ban hành/  tên viết tắt của cơ quan ban hành văn bản”",
+                "b": "“số thứ tự của văn bản/năm ban hành/tên viết tắt của loại văn bản”",
+                "c": "“số thứ tự của văn bản/năm ban hành/tên viết tắt của loại văn bản - tên viết tắt của cơ quan ban hành văn bản”"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Trường hợp một cơ quan được giao quy định chi tiết nhiều nội dung của một văn bản quy phạm pháp luật thì?",
+            "dapan": {
+                "a": "ban hành một văn bản để quy định chi tiết các nội dung đó, trừ trường hợp cần phải quy định trong các văn bản khác nhau.",
+                "b": "ban hành nhiều văn bản để quy định chi tiết các nội dung đó, trừ trường hợp cần phải quy định trong các văn bản khác nhau.",
+                "c": "ban hành một văn bản để quy định chi tiết các nội dung đó"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật chỉ được sửa đổi, bổ sung, thay thế hoặc bãi bỏ bằng?",
+            "dapan": {
+                "a": "văn bản hành chính của chính cơ quan nhà nước đã ban hành văn bản đó hoặc bị đình chỉ việc thi hành hoặc bãi bỏ bằng văn bản của cơ quan nhà nước cấp trên có thẩm quyền",
+                "b": "Văn bản quy phạm pháp luật chỉ được sửa đổi, bổ sung, thay thế hoặc bãi bỏ bằng văn bản quy phạm pháp luật của chính cơ quan nhà nước đã ban hành văn bản đó hoặc bị đình chỉ việc thi hành hoặc bãi bỏ bằng văn bản của cơ quan nhà nước, người có thẩm quyền",
+                "c": "văn bản  của chính cơ quan nhà nước đã ban hành văn bản đó hoặc bị đình chỉ việc thi hành hoặc bãi bỏ bằng văn bản của cơ quan nhà nước cấp trên có thẩm quyền"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Một văn bản quy phạm pháp luật có thể được ban hành để đồng thời sửa đổi, bổ sung, thay thế, bãi bỏ nội dung trong?",
+            "dapan": {
+                "a": "nhiều văn bản quy phạm pháp luật do cùng cơ quan ban hành.",
+                "b": "nhiều văn bản quy phạm pháp luật do nhiều cơ quan ban hành.",
+                "c": "một  văn bản quy phạm pháp luật do cùng cơ quan ban hành."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Một văn bản quy phạm pháp luật có thể được ban hành để đồng thời sửa đổi, bổ sung, thay thế, bãi bỏ nội dung trong nhiều văn bản quy phạm pháp luật do cùng cơ quan ban hành trong các trường hợp nào? (luật mới)",
+            "dapan": {
+                "a": "Để thực hiện điều ước quốc tế có liên quan mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;",
+                "b": "Nội dung sửa đổi, bổ sung, thay thế, bãi bỏ có liên quan chặt chẽ với nhau để bảo đảm tính đồng bộ, thống nhất với văn bản mới được ban hành;",
+                "c": "Để thực hiện phương án đơn giản hóa thủ tục hành chính đã được phê duyệt",
+                "d": "Tất cả trường hợp trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Đâu không phải là hành vi bị nghiêm cấm trong ban hành văn bản quy phạm pháp luật?",
+            "dapan": {
+                "a": "Ban hành văn bản quy phạm pháp luật trái với Hiến pháp, trái với văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên.",
+                "b": "Ban hành văn bản quy phạm pháp luật không đúng thẩm quyền, hình thức, trình tự, thủ tục quy định tại Luật này.",
+                "c": "Quy định thủ tục hành chính trong nghị quyết của Hội đồng nhân dân cấp tỉnh, quyết định của Ủy ban nhân dân cấp tỉnh, văn bản quy phạm pháp luật của chính quyền địa phương ở đơn vị hành chính - kinh tế đặc biệt; nghị quyết của Hội đồng nhân dân cấp huyện, quyết định của Ủy ban nhân dân cấp huyện, nghị quyết của Hội đồng nhân dân cấp xã, quyết định của Ủy ban nhân dân cấp xã, trừ trường hợp được giao trong luật.",
+                "d": "Ban hành văn bản quy phạm pháp luật trái với văn bản quy phạm luật của cơ quan cùng cấp"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Trường hợp cần quy định Tỷ lệ phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương thì Quốc hội ban hành loại văn bản nào?",
+            "dapan": {
+                "a": "luật",
+                "b": "nghị quyết",
+                "c": "quyêt định"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Trường hợp cấn quy định  việc hạn chế quyền con người, quyền công dân; tội phạm và hình phạt thì QUốc hội ban hành loại văn bản nào?",
+            "dapan": {
+                "a": "luật",
+                "b": "nghị quyết",
+                "c": "quyêt định"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trường hợp cấn quy định   Chính sách cơ bản về văn hóa, giáo dục, y tế, khoa học, công nghệ, môi trường thì QUốc hội ban hành loại văn bản nào?",
+            "dapan": {
+                "a": "luật",
+                "b": "nghị quyết",
+                "c": "quyêt định"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trường hợp cấn quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng, an ninh quốc gia thì QUốc hội ban hành loại văn bản nào?",
+            "dapan": {
+                "a": "luật",
+                "b": "nghị quyết",
+                "c": "quyêt định"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Ủy ban thường vụ Quốc hội ban hành pháp lệnh để quy định những vấn đề nào?",
+            "dapan": {
+                "a": "những vấn đề được Quốc hội giao.",
+                "b": "những vấn đề mới phát sinh mà luật chưa quy định",
+                "c": "những vấn đề thuộc thẩm quyền",
+                "d": "Tất cả trường hợp trên"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Ủy ban thường vụ Quốc hội ban hành nghị quyết để quy định những vấn đề nào dưới đây?",
+            "dapan": {
+                "a": "Tỷ lệ phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương;",
+                "b": "Thực hiện thí điểm một số chính sách mới thuộc thẩm quyền quyết định của Quốc hội nhưng chưa có luật điều chỉnh hoặc khác với quy định của luật hiện hành;",
+                "c": "Tạm ngưng hoặc kéo dài thời hạn áp dụng toàn bộ hoặc một phần luật, nghị quyết của Quốc hội đáp ứng các yêu cầu cấp bách về phát triển kinh tế - xã hội, bảo đảm quyền con người, quyền công dân;",
+                "d": "Tổng động viên hoặc động viên cục bộ; ban bố, bãi bỏ tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương;"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Khi cần hướng dẫn một số vấn đề cần thiết trong công tác bầu cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân Ủy ban thường vụ Quốc hội, Chính phủ, Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam ban hành loại văn bản gì?",
+            "dapan": {
+                "a": "Nghị quyết liên tịch",
+                "b": "Nghị định liên tịch",
+                "c": "Thông tư liên tịch",
+                "d": "Quy chế phối hợp"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Việc quyết định Biện pháp nhằm phát triển kinh tế - xã hội, ngân sách, quốc phòng, an ninh ở địa phương thuộc cơ quan nào ban hành văn bản QPPL?",
+            "dapan": {
+                "a": "UBND cấp tỉnh",
+                "b": "HĐND cấp tỉnh",
+                "c": "Ban chấp hành Đảng bộ cấp tỉnh",
+                "d": "Cả A vàB"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Hội đồng nhân dân cấp tỉnh ban hành nghị quyết để quy định:",
+            "dapan": {
+                "a": "Chi tiết điều, khoản, điểm được giao trong văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên.",
+                "b": "Chính sách, biện pháp nhằm bảo đảm thi hành Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên;",
+                "c": "Biện pháp nhằm phát triển kinh tế - xã hội, ngân sách, quốc phòng, an ninh ở địa phương;Biện pháp có tính chất đặc thù phù hợp với điều kiện phát triển kinh tế - xã hội của địa phương.",
+                "d": "Tất cả trường hợp trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Ủy ban nhân dân cấp tỉnh ban hành quyết định để quy định:",
+            "dapan": {
+                "a": "Chi tiết điều, khoản, điểm được giao trong văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên.",
+                "b": "Biện pháp thi hành Hiến pháp, luật, văn bản của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp về phát triển kinh tế - xã hội, ngân sách, quốc phòng, an ninh ở địa phương.",
+                "c": "Biện pháp thực hiện chức năng quản lý nhà nước ở địa phương.",
+                "d": "Tất cả trường hợp trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Hệ thống văn bản quy phạm pháp luật của HĐND, UBND cấp tỉnh, huyện, xã là?",
+            "dapan": {
+                "a": "Nghị quyết, quyêt định, chỉ thị",
+                "b": "Nghị quyêt, quyết định",
+                "c": "Nghị quyết, chỉ thị"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Chính phủ có quyền ban hành văn bản quy phạm pháp luật nào dưới đây?",
+            "dapan": {
+                "a": "Nghị quyết",
+                "b": "Nghị định",
+                "c": "Quyết định",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Hội đồng nhân dân cấp huyện  ban hành nghị quyết, Ủy ban nhân dân cấp huyện ban hành quyết định để quy định những vấn đề nào? (luật mới)",
+            "dapan": {
+                "a": "Những vấn đề được luật giao.",
+                "b": "Những vấn đề được pháp luật giao.",
+                "c": "những vấn đề được luật, nghị quyết của Quốc hội giao hoặc để thực hiện việc phân cấp cho chính quyền địa phương, cơ quan nhà nước cấp dưới theo quy định của Luật tổ chức chính quyền địa phương."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Hội đồng nhân dân cấp xã ban hành nghị quyết, Ủy ban nhân dân cấp xã ban hành quyết định để quy định những vấn đề nào?",
+            "dapan": {
+                "a": "những vấn đề được luật, nghị quyết của Quốc hội giao",
+                "b": "những vấn đề được luật",
+                "c": "những vấn đề được Chính phủ giao",
+                "d": "Tất cả trường hợp trên"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Chủ tịch nước công bố luật, pháp lệnh chậm nhất là bao nhiêu ngày kể từ ngày luật, pháp lệnh được thông qua.",
+            "dapan": {
+                "a": "10 ngày",
+                "b": "15 ngày",
+                "c": "20 ngày"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Đối với luật, pháp lệnh được xây dựng, ban hành theo trình tự, thủ tục rút gọn thì Chủ tịch nước công bố luật, pháp lệnh chậm nhất là bao nhiêu ngày kể từ ngày luật, pháp lệnh được thông qua.",
+            "dapan": {
+                "a": "05 ngày",
+                "b": "10 ngày",
+                "c": "15 ngày"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thẩm quyền công bố nghị quyết của Quốc hội, nghị quyết của Ủy ban thường vụ Quốc hội là?",
+            "dapan": {
+                "a": "Ủy ban Thường vụ Quốc hội",
+                "b": "Tổng thư ký Quốc hội",
+                "c": "Chánh Văn phòng Quôc hội"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Nội dung thẩm định dự thảo Nghị định của Chính phủ gồm những nội dung nào dưới đây?",
+            "dapan": {
+                "a": "Sự cần thiết ban hành nghị định; đối tượng, phạm vi điều chỉnh đối với dự thảo nghị định",
+                "b": "Sự phù hợp của nội dung dự thảo nghị định với đường lối, chủ trương của Đảng, chính sách của Nhà nước; tính hợp hiến, tính hợp pháp, tính thống nhất của dự thảo nghị định với hệ thống pháp luật; tính tương thích với điều ước quốc tế có liên quan mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;",
+                "c": "Sự cần thiết, tính hợp lý, chi phí tuân thủ các thủ tục hành chính trong dự thảo nghị định, nêu trong dự thảo nghị định có quy định thủ tục hành chính; việc lồng ghép vấn đề bình đẳng giới trong dự thảo nghị định, nếu trong dự thảo nghị định có quy định liên quan đến vấn đề bình đẳng giới",
+                "d": "Tất cả nội dung trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Dự thảo nghị quyết quy phạm pháp luật của HĐND được thông qua khi nào?",
+            "dapan": {
+                "a": "có quá nửa tổng số đại biểu Hội đồng nhân dân biểu quyết tán thành",
+                "b": "có quá nửa tổng số đại biểu Hội đồng nhân dân biểu quyết",
+                "c": "có quá hai phần ba tổng số đại biểu Hội đồng nhân dân biểu quyết  tán thành"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Dự thảo quyết định quy phạm pháp luật của UBND được thông qua khi?",
+            "dapan": {
+                "a": "có hai phần ba tổng số thành viên Ủy ban nhân dân biểu quyết tán thành.",
+                "b": "có quá nửa tổng số thành viên Ủy ban nhân dân biểu quyết tán thành.",
+                "c": "có quá nửa tổng số thành viên Ủy ban nhân dân biểu quyết"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Nghị quyết quy phạm pháp luật của HĐND do Chủ tịch Hội đồng nhân dân?",
+            "dapan": {
+                "a": "ký chứng thực nghị quyết.",
+                "b": "ký ban hành",
+                "c": "ký thông qua"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Quyết định quy phạm pháp luật của UBND do Chủ tịch Ủy ban nhân dân?",
+            "dapan": {
+                "a": "ký chứng thực nghị quyết.",
+                "b": "ký ban hành",
+                "c": "ký thông qua"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Dự thảo quyết định quy phạm pháp luật của Ủy ban nhân dân cấp tỉnh do cơ quan nào thẩm định?",
+            "dapan": {
+                "a": "Sở Tư pháp",
+                "b": "Sở Nội vụ",
+                "c": "Văn phòng UBND tỉnh"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Cơ quan chủ trì soạn thảo gửi hồ sơ dự thảo quyết định đến Ủy ban nhân dân cấp tỉnh chậm nhất là bao nhiêu ngày làm việc trước ngày Ủy ban nhân dân họp để chuyển đến các thành viên Ủy ban nhân dân?",
+            "dapan": {
+                "a": "02 ngày",
+                "b": "03 ngày",
+                "c": "04 ngày",
+                "d": "05 ngày"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Thời điểm có hiệu lực của toàn bộ hoặc một phần văn bản quy phạm pháp luật được quy định tại văn bản đó nhưng không sớm hơn bao nhiêu ngày ngày kể từ ngày thông qua hoặc ký ban hành đối với văn bản quy phạm pháp luật của cơ quan nhà nước trung ương?",
+            "dapan": {
+                "a": "30 ngày",
+                "b": "40 ngày",
+                "c": "45 ngày",
+                "d": "50 ngày"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": ". Thời điểm có hiệu lực của toàn bộ hoặc một phần văn bản quy phạm pháp luật được quy định tại văn bản đó nhưng không sớm hơn bao nhiêu ngày kể từ ngày ký ban hành đối với văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân cấp tỉnh",
+            "dapan": {
+                "a": "10 ngày",
+                "b": "15 ngày",
+                "c": "20 ngày",
+                "d": "30 ngày"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thời điểm có hiệu lực của toàn bộ hoặc một phần văn bản quy phạm pháp luật được quy định tại văn bản đó nhưng  không sớm hơn bao nhiêu ngày kể từ ngày ký ban hành đối với văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân cấp huyện và cấp xã.",
+            "dapan": {
+                "a": "05 ngày",
+                "b": "07 ngày",
+                "c": "10  ngày",
+                "d": "15  ngày"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật của cơ quan trung ương mới được quy định hiệu lực trở về trước trong trường hợp nào?",
+            "dapan": {
+                "a": "Chỉ trong trường hợp thật cần thiết để bảo đảm lợi ích chung của xã hội, thực hiện các quyền, lợi ích của tổ chức, cá nhân được quy định trong luật, nghị quyết của Quốc hội",
+                "b": "Chỉ trong trường hợp thật cần thiết để bảo đảm lợi ích chung của xã hội, thực hiện các quyền, lợi ích của tổ chức, cá nhân được quy định trong luật, nghị quyết của Quốc hội, Ủy ban Thường vụ Quốc hội",
+                "c": "Chỉ trong trường hợp cần thiết để bảo đảm lợi ích chung của xã hội, thực hiện các quyền, lợi ích của tổ chức, cá nhân được quy định trong luật, nghị quyết của Quốc hội"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật  của cơ quan trung ương Không được quy định hiệu lực trở về trước đối với trường hợp nào dưới đây/",
+            "dapan": {
+                "a": "Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện hành vi đó pháp luật có quy định trách nhiệm pháp lý; Quy định trách nhiệm pháp lý nặng hơn.",
+                "b": "Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện hành vi đó pháp luật không quy định trách nhiệm pháp lý; Quy định trách nhiệm pháp lý nhẹ hơn.",
+                "c": "Quy định trách nhiệm pháp lý mới đối với hành vi mà vào thời điểm thực hiện hành vi đó pháp luật không quy định trách nhiệm pháp lý; Quy định trách nhiệm pháp lý nặng hơn."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân các cấp, chính quyền địa phương ở đơn vị hành chính - kinh tế đặc biệt",
+            "dapan": {
+                "a": "không được quy định hiệu lực trở về trước.",
+                "b": "Được quy định hiệu lực trở về trước trong trường hợp đặc biệt",
+                "c": "Được quy định hiệu lực trở về trước khi có lợi cho đối tượng áp dụng"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật hết hiệu lực toàn bộ hoặc một phần trong các trường hợp nào?",
+            "dapan": {
+                "a": "Hết thời hạn có hiệu lực đã được quy định trong văn bản.",
+                "b": "Được sửa đổi, bổ sung hoặc thay thế bằng văn bản quy phạm pháp luật mới của chính cơ quan nhà nước đã ban hành văn bản đó.",
+                "c": "Bị bãi bỏ bằng một văn bản của cơ quan nhà nước có thẩm quyền.",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật hết hiệu lực thì văn bản quy phạm pháp luật quy định chi tiết thi hành văn bản đó",
+            "dapan": {
+                "a": "cũng đồng thời hết hiệu lực.",
+                "b": "còn hiệu lực đến khi bị thay thế bởi văn bản khác",
+                "c": "Cả a và b"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật được áp dụng từ thời điểm nào?",
+            "dapan": {
+                "a": "bắt đầu có hiệu lực.",
+                "b": "Thời điểm thông qua",
+                "c": "Thời điểm ký ban hành",
+                "d": "Thời điểm đăng công báo"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trong trường hợp các văn bản quy phạm pháp luật có quy định khác nhau về cùng một vấn đề thì áp dụng văn bản nào?",
+            "dapan": {
+                "a": "Văn bản ban hành sau",
+                "b": "văn bản có hiệu lực pháp lý cao hơn.",
+                "c": "Cả a và b"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Trong trường hợp các văn bản quy phạm pháp luật do cùng một cơ quan ban hành có quy định khác nhau về cùng một vấn đề thì áp dụng quy định của văn bản quy phạm pháp luật nào?",
+            "dapan": {
+                "a": "áp dụng quy định của văn bản quy phạm pháp luật  ban hành sau.",
+                "b": "áp dụng quy định của văn bản quy phạm pháp luật  ban hành trước",
+                "c": "áp dụng văn bản có hiệu lực pháp lý cao hơn"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trong trường hợp văn bản quy phạm pháp luật mới không quy định trách nhiệm pháp lý hoặc quy định trách nhiệm pháp lý nhẹ hơn đối với hành vi xảy ra trước ngày văn bản có hiệu lực thì áp dụng văn bản nào?",
+            "dapan": {
+                "a": "Áp dụng văn bản cũ",
+                "b": "Áp dụng văn bản mới",
+                "c": "Áp dụng văn bản cũ và văn bản mới"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Thẩm quyền giải thích Hiến pháp, luật, pháp lệnh là?",
+            "dapan": {
+                "a": "Quốc hội",
+                "b": "Ủy ban Thường vụ Quốc hội",
+                "c": "Chính phủ"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Luật Ban hành văn bản Quy phạm pháp luật 2015 có hiệu lực ngày tháng năm nào?",
+            "dapan": {
+                "a": "Ngày 01/01/2016",
+                "b": "Ngày 01/3/2016",
+                "c": "Ngày 01/5/2016",
+                "d": "Ngày 01/7/2016"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật được ban hành theo trình tự, thủ tục rút gọn thì có thể có hiệu lực kể từ khi nào?",
+            "dapan": {
+                "a": "kể từ ngày thông qua hoặc ký ban hành",
+                "b": "Sau 03 ngày kể từ ngày ký",
+                "c": "Sau 02 ngày kể từ ngày ký"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Cơ quan nào chịu trách nhiệm trước cơ quan, tổ chức, người có thẩm quyền trình hoặc cơ quan, tổ chức, người có thẩm quyền ban hành văn bản về tiến độ soạn thảo, chất lượng dự án, dự thảo văn bản được phân công soạn thảo?",
+            "dapan": {
+                "a": "Cơ quan, tổ chức, người có thẩm quyền trình dự án, dự thảo văn bản quy phạm pháp luật",
+                "b": "Cơ quan, tổ chức chủ trì soạn thảo văn bản quy phạm pháp luật",
+                "c": "Cơ quan thẩm định"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Cơ quan nào chịu trách nhiệm trước cơ quan, tổ chức, người có thẩm quyền trình hoặc cơ quan, người có thẩm quyền ban hành văn bản quy phạm pháp luật về kết quả thẩm định đề nghị xây dựng văn bản quy phạm pháp luật, dự án, dự thảo văn bản quy phạm pháp luật?",
+            "dapan": {
+                "a": "Cơ quan, tổ chức, người có thẩm quyền trình dự án, dự thảo văn bản quy phạm pháp luật",
+                "b": "Cơ quan, tổ chức chủ trì soạn thảo văn bản quy phạm pháp luật",
+                "c": "Cơ quan thẩm định",
+                "d": "Cơ quan thẩm tra"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Quốc hội ban hành văn bản QPPL loại nào để quy định Tỷ lệ phân chia các khoản thu và nhiệm vụ chi giữa ngân sách trung ương và ngân sách địa phương?",
+            "dapan": {
+                "a": "Hiến pháp",
+                "b": "Luật",
+                "c": "Nghị quyết",
+                "d": "Nghị định"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Quốc hội ban hành văn bản QPPL loại nào để quy định Tổ chức và hoạt động của Quốc hội, Chủ tịch nước, Chính phủ, Tòa án nhân dân, Viện kiểm sát nhân dân, Hội đồng bầu cử quốc gia, Kiểm toán nhà nước, chính quyền địa phương, đơn vị hành chính - kinh tế đặc biệt và cơ quan khác do Quốc hội thành lập?",
+            "dapan": {
+                "a": "Hiến pháp",
+                "b": "Luật",
+                "c": "Nghị quyết",
+                "d": "Nghị định"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Quốc hội ban hành Nghị quyết để quy định nội dung nào dưới đây?",
+            "dapan": {
+                "a": "Quyền con người, quyền và nghĩa vụ cơ bản của công dân mà theo Hiến pháp phải do luật định; việc hạn chế quyền con người, quyền công dân; tội phạm và hình phạt;",
+                "b": "Chính sách cơ bản về tài chính, tiền tệ quốc gia, ngân sách nhà nước; quy định, sửa đổi hoặc bãi bỏ các thứ thuế;",
+                "c": "Chính sách cơ bản về văn hóa, giáo dục, y tế, khoa học, công nghệ, môi trường;",
+                "d": "Quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng, an ninh quốc gia;"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Quốc hội ban hành văn bản QPPL loại nào để quy định  Chính sách cơ bản về văn hóa, giáo dục, y tế, khoa học, công nghệ, môi trường; Quốc phòng, an ninh quốc gia; Chính sách dân tộc, chính sách tôn giáo của Nhà nước?",
+            "dapan": {
+                "a": "Hiến pháp",
+                "b": "Luật",
+                "c": "Nghị quyết",
+                "d": "Nghị định"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Quốc hội ban hành Luật để quy định",
+            "dapan": {
+                "a": "Cơ chế bảo vệ Hiến pháp",
+                "b": "Tạm ngưng hoặc kéo dài thời hạn áp dụng toàn bộ hoặc một phần luật, nghị quyết của Quốc hội đáp ứng các yêu cầu cấp bách về phát triển kinh tế - xã hội, bảo đảm quyền con người, quyền công dân;",
+                "c": "Quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng, an ninh quốc gia;",
+                "d": "Đại xá;"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Chính phủ ban hành nghị định để quy định?",
+            "dapan": {
+                "a": "Chi tiết điều, khoản, điểm được giao trong luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội",
+                "b": "Chi tiết điều, khoản, điểm được giao trong luật, pháp lệnh của Quốc hội, pháp lệnh, nghị định của Ủy ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước",
+                "c": "Chi tiết điều, khoản, điểm được giao trong luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Đối với những Vấn đề cần thiết thuộc thẩm quyền của Quốc hội, Ủy ban thường vụ Quốc hội nhưng chưa đủ điều kiện xây dựng thành luật hoặc pháp lệnh để đáp ứng yêu cầu quản lý nhà nước, quản lý kinh tế, quản lý xã hội thì Chính phủ ban hành văn bản nào?",
+            "dapan": {
+                "a": "Nghị định",
+                "b": "Nghị quyết",
+                "c": "Quyết định",
+                "d": "Chỉ thị"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Cơ quan nào dưới đây không có quyền đề nghị xây dựng luật, pháp lệnh?",
+            "dapan": {
+                "a": "Chủ tịch nước, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội",
+                "b": "Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước",
+                "c": "Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và cơ quan trung ương của tổ chức thành viên của Mặt trận",
+                "d": "HĐND, UBND cấp tỉnh"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Cơ quan nào Thẩm định đề nghị xây dựng luật, pháp lệnh do Chính phủ trình?",
+            "dapan": {
+                "a": "Văn phòng Chính phủ",
+                "b": "Bộ Nội vụ",
+                "c": "Bộ Tư pháp"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Cơ qua nào chuẩn bị ý kiến của Chính phủ đối với đề nghị xây dựng luật, pháp lệnh không do Chính phủ trình và kiến nghị về luật, pháp lệnh để Chính phủ thảo luận",
+            "dapan": {
+                "a": "Văn phòng Chính phủ",
+                "b": "Bộ Nội vụ",
+                "c": "Bộ Tư pháp"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Cơ quan nào có trách nhiệm chỉ đạo và triển khai việc thực hiện chương trình xây dựng luật, pháp lệnh?",
+            "dapan": {
+                "a": "Văn phòng Chính phủ",
+                "b": "Bộ Nội vụ",
+                "c": "Bộ Tư pháp",
+                "d": "Ủy ban Thường vụ Quốc hội"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Việc công bố nghị quyết của Quốc hội, nghị quyết của Ủy ban thường vụ Quốc hội chậm nhất là bao nhiêu ngày kể từ ngày nghị quyết được thông qua.",
+            "dapan": {
+                "a": "10 ngày",
+                "b": "15 ngày",
+                "c": "20 ngày"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Ủy ban nhân dân các cấp được ban hành hình thức văn bản quy phạm pháp luật nào dưới đây?",
+            "dapan": {
+                "a": "Nghị quyết",
+                "b": "Quyết định",
+                "c": "Chỉ thị",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Hội đồng nhân dân các cấp được ban hành hình thức văn bản quy phạm pháp luật nào dưới đây?",
+            "dapan": {
+                "a": "Nghị quyết",
+                "b": "Quyết định",
+                "c": "Chỉ thị",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản quy định chi tiết chỉ được?",
+            "dapan": {
+                "a": "quy định nội dung được giao và được quy định lặp lại nội dung của văn bản được quy định chi tiết.",
+                "b": "quy định nội dung được giao và không được quy định lặp lại nội dung của văn bản được quy định chi tiết.",
+                "c": "quy định nội dung được giao hoặc không được quy định lặp lại nội dung của văn bản được quy định chi tiết."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Cơ quan được giao ban hành văn bản quy định chi tiết?",
+            "dapan": {
+                "a": "không được ủy quyền tiếp",
+                "b": "được ủy quyền tiếp",
+                "c": "được ủy quyền tiếp nếu được đồng ý"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Dự thảo văn bản quy định chi tiết phải được chuẩn bị và trình đồng thời với dự án luật, pháp lệnh và phải được ban hành để?",
+            "dapan": {
+                "a": "có hiệu lực trước thời điểm có hiệu lực của văn bản hoặc điều, khoản, điểm được quy định chi tiết.",
+                "b": "có hiệu lực cùng thời điểm có hiệu lực của văn bản hoặc điều, khoản, điểm được quy định chi tiết.",
+                "c": "có hiệu lực sau thời điểm có hiệu lực của văn bản hoặc điều, khoản, điểm được quy định chi tiết."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Trường hợp một cơ quan được giao quy định chi tiết nhiều nội dung của một văn bản quy phạm pháp luật thì?",
+            "dapan": {
+                "a": "ban hành một văn bản để quy định chi tiết các nội dung đó, trừ trường hợp cần phải quy định trong các văn bản khác nhau.",
+                "b": "ban hành một hoặc nhiều văn bản để quy định chi tiết các nội dung đó, trừ trường hợp cần phải quy định trong các văn bản khác nhau.",
+                "c": "ban hành nhiều văn bản để quy định chi tiết các nội dung đó, trừ trường hợp cần phải quy định trong các văn bản khác nhau."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trường hợp một cơ quan được giao quy định chi tiết các nội dung của nhiều văn bản quy phạm pháp luật khác nhau thì?",
+            "dapan": {
+                "a": "ban hành một văn bản để quy định chi tiết.",
+                "b": "có thể ban hành một hoặc nhiều văn bản để quy định chi tiết.",
+                "c": "có thể ban hành một văn bản để quy định chi tiết."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Chậm nhất là bao nhiêu ngày kể từ ngày công bố luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội hoặc ký chứng thực, ký ban hành đối với văn bản quy phạm pháp luật khác, cơ quan, người có thẩm quyền ban hành văn bản quy phạm pháp luật có trách nhiệm gửi văn bản đến cơ quan có thẩm quyền để kiểm tra?",
+            "dapan": {
+                "a": "03 ngày",
+                "b": "05 ngày",
+                "c": "07 ngày",
+                "d": "09 ngày"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Hội đồng nhân dân cấp tỉnh ban hành nghị quyết để quy định?",
+            "dapan": {
+                "a": "Chi tiết điều, khoản, điểm được giao trong văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên.",
+                "b": "Chính sách, biện pháp nhằm bảo đảm thi hành Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên.",
+                "c": "Biện pháp nhằm phát triển kinh tế - xã hội, ngân sách, quốc phòng, an ninh ở địa phương. Biện pháp có tính chất đặc thù phù hợp với điều kiện phát triển kinh tế - xã hội của địa phương",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Hội đồng nhân dân cấp tỉnh không ban hành nghị quyết để quy định nội dung nào dưới đây?",
+            "dapan": {
+                "a": "Chi tiết điều, khoản, điểm được giao trong văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên.",
+                "b": "Chính sách, biện pháp nhằm bảo đảm thi hành Hiến pháp, luật, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên.",
+                "c": "Biện pháp thực hiện chức năng quản lý nhà nước ở địa phương."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Ủy ban nhân dân cấp tỉnh ban hành quyết định để quy định?",
+            "dapan": {
+                "a": "Chi tiết điều, khoản, điểm được giao trong văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên.",
+                "b": "Biện pháp thi hành Hiến pháp, luật, văn bản của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp về phát triển kinh tế - xã hội, ngân sách, quốc phòng, an ninh ở địa phương.",
+                "c": "Biện pháp thực hiện chức năng quản lý nhà nước ở địa phương.",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Một trong những Nhiệm vụ của cơ quan đề nghị xây dựng nghị quyết của HĐND cấp tỉnh là?",
+            "dapan": {
+                "a": "Tổng kết việc thi hành pháp luật hoặc đánh giá các văn bản quy phạm pháp luật hiện hành có liên quan đến đề nghị xây dựng nghị quyết; khảo sát, đánh giá thực trạng quan hệ xã hội liên quan đến nội dung chính của dự thảo nghị quyết.",
+                "b": "Tổng kết việc thi hành pháp luật hoặc đánh giá các văn bản pháp luật hiện hành có liên quan đến đề nghị xây dựng nghị quyết; khảo sát, đánh giá thực trạng quan hệ xã hội liên quan đến nội dung chính của dự thảo nghị quyết.",
+                "c": "Sơ kết việc thi hành pháp luật hoặc đánh giá các văn bản quy phạm pháp luật hiện hành có liên quan đến đề nghị xây dựng nghị quyết; khảo sát, đánh giá thực trạng quan hệ xã hội liên quan đến nội dung chính của dự thảo nghị quyết."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Tờ trình đề nghị xây dựng nghị quyết HĐND cấp tỉnh  phải như thế nào?",
+            "dapan": {
+                "a": "nêu rõ sự cần thiết ban hành nghị quyết; mục đích, quan điểm xây dựng nghị quyết; đối tượng, phạm vi điều chỉnh của nghị quyết; mục tiêu, nội dung chính sách trong dự thảo nghị quyết thời gian dự kiến đề nghị Hội đồng nhân dân xem xét, thông qua; dự kiến nguồn lực, điều kiện bảo đảm cho việc thi hành nghị quyết.",
+                "b": "nêu rõ sự cần thiết ban hành nghị quyết;  đối tượng, phạm vi điều chỉnh của nghị quyết; mục tiêu, nội dung chính sách trong dự thảo nghị quyết và các giải pháp để thực hiện chính sách đã được lựa chọn; thời gian dự kiến đề nghị Hội đồng nhân dân xem xét, thông qua; dự kiến nguồn lực, điều kiện bảo đảm cho việc thi hành nghị quyết.",
+                "c": "nêu rõ sự cần thiết ban hành nghị quyết; mục đích, quan điểm xây dựng nghị quyết; đối tượng, phạm vi điều chỉnh của nghị quyết; mục tiêu, nội dung chính sách trong dự thảo nghị quyết và các giải pháp để thực hiện chính sách đã được lựa chọn; thời gian dự kiến đề nghị Hội đồng nhân dân xem xét, thông qua; dự kiến nguồn lực, điều kiện bảo đảm cho việc thi hành nghị quyết."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Một trong những Hồ sơ đề nghị xây dựng nghị quyết HĐND cấp tỉnh là?",
+            "dapan": {
+                "a": "Đề cương dự thảo nghị quyết.",
+                "b": "Dự kiến đề cương chi tiết dự thảo nghị quyết.",
+                "c": "Dự kiến đề cương dự thảo nghị quyết."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Báo cáo đánh giá tác động của chính sách trong đề nghị xây dựng nghị quyết của HĐND cấp tỉnh phải như thế nào?",
+            "dapan": {
+                "a": "nêu  vấn đề cần giải quyết; mục tiêu ban hành chính sách; các giải pháp để thực hiện chính sách; các tác động tích cực, tiêu cực của chính sách; chi phí, lợi ích của các giải pháp; so sánh chi phí, lợi ích của các giải pháp; lựa chọn giải pháp của cơ quan, tổ chức và lý do lựa chọn; xác định vấn đề giới và tác động giới của chính sách.",
+                "b": "nêu cụ thể vấn đề cần giải quyết; mục tiêu ban hành chính sách; các giải pháp để thực hiện chính sách; các tác động tích cực, tiêu cực của chính sách; chi phí, lợi ích của các giải pháp; so sánh chi phí, lợi ích của các giải pháp; lựa chọn giải pháp của cơ quan, tổ chức và lý do lựa chọn; xác định vấn đề giới và tác động giới của chính sách.",
+                "c": "nêu rõ vấn đề cần giải quyết; mục tiêu ban hành chính sách; các giải pháp để thực hiện chính sách; các tác động tích cực, tiêu cực của chính sách; chi phí, lợi ích của các giải pháp; so sánh chi phí, lợi ích của các giải pháp; lựa chọn giải pháp của cơ quan, tổ chức và lý do lựa chọn; xác định vấn đề giới và tác động giới của chính sách."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Việc Tổ chức lấy ý kiến, nghiên cứu, tiếp thu, chỉnh lý dự thảo; xây dựng tờ trình, báo cáo giải trình, tiếp thu ý kiến góp ý về dự thảo và các tài liệu khác; đăng tải các tài liệu này trên cổng thông tin điện tử của tỉnh, thành phố trực thuộc Trung ương, thuộc cơ quan nào dưới đây?",
+            "dapan": {
+                "a": "Cơ quan, tổ chức đề nghị xây dựng nghị quyết",
+                "b": "Cơ quan, tổ chức chủ trì soạn thảo Nghị quyết",
+                "c": "Cơ quan, tổ chức thẩm định dự thảo Nghị quyết"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Chậm nhất là bao nhiêu  ngày trước ngày Ủy ban nhân dân họp, cơ quan chủ trì soạn thảo phải gửi hồ sơ dự thảo nghị quyết đến Sở Tư pháp để thẩm định?",
+            "dapan": {
+                "a": "20 ngày",
+                "b": "25 ngày",
+                "c": "30 ngày",
+                "d": "45 ngày"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Nội dung thẩm định dự thảo Nghị quyết của HĐND cấp tỉnh bao gồm:",
+            "dapan": {
+                "a": "Sự cần thiết ban hành nghị quyết quy định tại khoản 2 và khoản 3 Điều 27 của Luật này; đối tượng, phạm vi điều chỉnh đối với dự thảo nghị quyết;",
+                "b": "Sự phù hợp của nội dung dự thảo nghị quyết với đường lối, chủ trương của Đảng, chính sách của Nhà nước; tính hợp hiến, tính hợp pháp, tính thống nhất của dự thảo nghị quyết với hệ thống pháp luật;",
+                "c": "Sự phù hợp của nội dung dự thảo nghị quyết với văn bản đã giao cho Hội đồng nhân dân quy định chi tiết; sự phù hợp của nội dung dự thảo nghị quyết với các chính sách trong đề nghị xây dựng nghị quyết đã được thông qua theo quy định tại Điều 116 của Luật này;  Ngôn ngữ, kỹ thuật soạn thảo văn bản.",
+                "d": "Tất cả nội dung trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Báo cáo thẩm định phải được gửi đến cơ quan chủ trì soạn thảo trong thời hạn bao nhiêu ngày kể từ ngày Sở Tư pháp nhận đủ hồ sơ gửi thẩm định?",
+            "dapan": {
+                "a": "15 ngày",
+                "b": "20 ngày",
+                "c": "25 ngày",
+                "d": "30 ngày"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Cơ quan chủ trì soạn thảo có trách nhiệm gửi hồ sơ dự thảo nghị quyết đến Ủy ban nhân dân để chuyển đến các thành viên Ủy ban nhân dân chậm nhất là bao nhiêu ngày làm việc trước ngày Ủy ban nhân dân họp?",
+            "dapan": {
+                "a": "01 ngày",
+                "b": "02 ngày",
+                "c": "03 ngày",
+                "d": "05 ngày"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Thẩm quyền chỉ đạo việc chuẩn bị hồ sơ dự thảo nghị quyết để gửi đến đại biểu Hội đồng nhân dân cấp tỉnh?",
+            "dapan": {
+                "a": "Thường trực HĐND cấp tỉnh",
+                "b": "HĐND cấp tỉnh",
+                "c": "UBND cấp tỉnh",
+                "d": "Thường trực UBND cấp tỉnh"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Hồ sơ dự thảo nghị quyết phải được gửi đến các đại biểu Hội đồng nhân dân chậm nhất là bao nhiêu ngày trước ngày khai mạc kỳ họp Hội đồng nhân dân?",
+            "dapan": {
+                "a": "03 ngày",
+                "b": "05 ngày",
+                "c": "07 ngày",
+                "d": "10 ngày"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Thẩm quyền phân công cơ quan chủ trì soạn thảo quyết định của UBND cấp tỉnh?",
+            "dapan": {
+                "a": "UBND cấp tỉnh",
+                "b": "Chủ tịch UBND cấp tỉnh",
+                "c": "Thường trực UBND cấp tỉnh",
+                "d": "Lãnh đạo UBND cấp tỉnh"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Trong trường hợp dự thảo quyết định được xem xét, thông qua tại phiên họp của Ủy ban nhân dân cấp tỉnh thì theo trình tự nào dưới đây?",
+            "dapan": {
+                "a": "Đại diện cơ quan chủ trì soạn thảo thuyết trình dự thảo quyết định; Đại diện Sở Tư pháp phát biểu về việc giải trình, tiếp thu ý kiến thẩm định; Đại diện Văn phòng Hội đồng nhân dân cấp tỉnh trình bày ý kiến; Ủy ban nhân dân cấp tỉnh thảo luận và biểu quyết thông qua dự thảo quyết định.",
+                "b": "Đại diện cơ quan chủ trì soạn thảo thuyết trình dự thảo quyết định; Đại diện Văn phòng Ủy ban nhân dân cấp tỉnh trình bày ý kiến; Đại diện Sở Tư pháp phát biểu về việc giải trình, tiếp thu ý kiến thẩm định; Ủy ban nhân dân cấp tỉnh thảo luận và biểu quyết thông qua dự thảo quyết định.",
+                "c": "Đại diện cơ quan chủ trì soạn thảo thuyết trình dự thảo quyết định; Đại diện Sở Tư pháp phát biểu về việc giải trình, tiếp thu ý kiến thẩm định; Đại diện Văn phòng Ủy ban nhân dân cấp tỉnh trình bày ý kiến; Ủy ban nhân dân cấp tỉnh thảo luận và biểu quyết thông qua dự thảo quyết định."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật được ban hành theo trình tự, thủ tục rút gọn thì?",
+            "dapan": {
+                "a": "có thể có hiệu lực kể từ ngày thông qua hoặc ký ban hành",
+                "b": "có thể có hiệu lực kể từ ngày thông qua",
+                "c": "có thể có hiệu lực kể từ ngày  ký ban hành"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật ngưng hiệu lực toàn bộ hoặc một phần cho đến khi có quyết định xử lý của cơ quan nhà nước có thẩm quyền trong các trường hợp nào dưới đây?",
+            "dapan": {
+                "a": "Bị đình chỉ việc thi hành theo quy định tại khoản 3 Điều 164, khoản 2 Điều 165, khoản 2 và khoản 3 Điều 166, khoản 2 và khoản 3 Điều 167, khoản 1 Điều 170 của Luật này. Trường hợp cơ quan nhà nước có thẩm quyền ra quyết định bãi bỏ thì văn bản hết hiệu lực; nếu không ra quyết định bãi bỏ thì văn bản tiếp tục có hiệu lực;",
+                "b": "Cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật quyết định ngưng hiệu lực toàn bộ hoặc một phần của văn bản đó để kịp thời bảo vệ lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân.",
+                "c": "Tất cả các trường hợp trên"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Quyết định đình chỉ việc thi hành, quyết định xử lý văn bản quy phạm pháp luật phải đăng Công báo, đưa tin trên các phương tiện thông tin đại chúng chậm nhất là bao nhiêu ngày kể từ ngày ra quyết định?",
+            "dapan": {
+                "a": "01",
+                "b": "02",
+                "c": "03",
+                "d": "05"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Trường hợp một đơn vị hành chính được chia thành nhiều đơn vị hành chính mới cùng cấp thì văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân của đơn vị hành chính được chia?",
+            "dapan": {
+                "a": "vẫn có hiệu lực đối với đơn vị hành chính mới cho đến khi Hội đồng nhân dân, Ủy ban nhân dân của đơn vị hành chính mới ban hành văn bản quy phạm pháp luật thay thế",
+                "b": "vẫn có hiệu lực đối với đơn vị hành chính mới cho đến khi Hội đồng nhân dân, Ủy ban nhân dân của đơn vị hành chính mới ban hành văn bản   thay thế",
+                "c": "vẫn có hiệu lực đối với đơn vị hành chính mới cho đến khi Hội đồng nhân dân, Ủy ban nhân dân của đơn vị hành chính mới ban hành văn bản pháp luật thay thế"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật phải được đăng tải toàn văn trên Cơ sở dữ liệu quốc gia về pháp luật chậm nhất là bao nhiêu ngày kể từ ngày công bố hoặc ký ban hành đối với văn bản của cơ quan nhà nước ở trung ương, trừ văn bản có nội dung thuộc bí mật nhà nước theo quy định của pháp luật về bảo vệ bí mật nhà nước?",
+            "dapan": {
+                "a": "10 ngày",
+                "b": "15 ngày",
+                "c": "20 ngày",
+                "d": "30 ngày"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Chậm nhất là bao nhiêu ngày kể từ ngày thông qua hoặc ký ban hành đối với văn bản của Hội đồng nhân dân, Ủy ban nhân dân và đưa tin trên phương tiện thông tin đại chúng, trừ văn bản có nội dung thuộc bí mật nhà nước theo quy định của pháp luật về bảo vệ bí mật nhà nước",
+            "dapan": {
+                "a": "10 ngày",
+                "b": "15 ngày",
+                "c": "20 ngày",
+                "d": "30 ngày"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật đăng tải trên Cơ sở dữ liệu quốc gia về pháp luật có?",
+            "dapan": {
+                "a": "giá trị sử dụng chính thức",
+                "b": "giá trị tham khảo",
+                "c": "Tất cả đáp án trên"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Đề nghị xây dựng nghị quyết của Hội đồng nhân dân cấp tỉnh được gửi đến cấp có thẩm quyền nào để xem xét, quyết định.",
+            "dapan": {
+                "a": "Thường trực Hội đồng nhân dân",
+                "b": "Thường trực Ủy ban nhân dân",
+                "c": "Chủ tịch Hội đồng nhân dân",
+                "d": "Chủ tịch Ủy ban nhân dân"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Cơ quan nào Thẩm định đề nghị xây dựng nghị quyết do Ủy ban nhân dân cấp tỉnh trình?",
+            "dapan": {
+                "a": "Sở Tài chính",
+                "b": "Sở Tư pháp",
+                "c": "Ban Pháp chế HĐND tỉnh"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Thời hạn thẩm định đề nghị xây dựng nghị quyết là bao nhiêu ngày kể từ ngày nhận đủ hồ sơ gửi thẩm định?",
+            "dapan": {
+                "a": "10 ngày",
+                "b": "15 ngày",
+                "c": "20 ngày",
+                "d": "30 ngày"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Dự thảo nghị quyết của Hội đồng nhân dân cấp tỉnh phải được đăng tải toàn văn trên cổng thông tin điện tử của tỉnh, thành phố trực thuộc trung ương trong thời hạn ít nhất là bao nhiêu ngày để các cơ quan, tổ chức, cá nhân góp ý kiến.",
+            "dapan": {
+                "a": "10 ngày",
+                "b": "15 ngày",
+                "c": "20 ngày",
+                "d": "30 ngày"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Trách nhiệm của Ủy ban nhân dân cấp tỉnh Đối với dự thảo nghị quyết do Ủy ban nhân dân cấp tỉnh trình thì?",
+            "dapan": {
+                "a": "Ủy ban nhân dân có trách nhiệm xem xét, thảo luận tập thể và biểu quyết theo đa số để quyết định việc trình dự thảo nghị quyết ra Hội đồng nhân dân cùng cấp.",
+                "b": "Ủy ban nhân dân có trách nhiệm tham gia ý kiến bằng văn bản.",
+                "c": "Ủy ban nhân dân có trách nhiệm xem xét, thảo luận  và biểu quyết   để quyết định việc trình dự thảo nghị quyết ra Hội đồng nhân dân cùng cấp."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trách nhiệm của Ủy ban nhân dân cấp tỉnh Đối với dự thảo nghị quyết do cơ quan, tổ chức khác trình thì?",
+            "dapan": {
+                "a": "Ủy ban nhân dân có trách nhiệm tham gia ý kiến bằng văn bản.",
+                "b": "Ủy ban nhân dân có trách nhiệm tham gia ý kiến",
+                "c": "Ủy ban nhân dân có trách nhiệm xem xét, thảo luận tập thể và biểu quyết theo đa số để quyết định việc trình dự thảo nghị quyết ra Hội đồng nhân dân cùng cấp.."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Chậm nhất là bao nhiêu ngày trước ngày khai mạc kỳ họp Hội đồng nhân dân, cơ quan, tổ chức trình dự thảo nghị quyết phải gửi tờ trình, dự thảo nghị quyết và các tài liệu có liên quan đến Ủy ban nhân dân cấp tỉnh để Ủy ban nhân dân tham gia ý kiến.",
+            "dapan": {
+                "a": "20 ngày",
+                "b": "25 ngày",
+                "c": "30 ngày",
+                "d": "35 ngày"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Chậm nhất là bao nhiêu ngày trước ngày khai mạc kỳ họp Hội đồng nhân dân, Ủy ban nhân dân phải gửi ý kiến bằng văn bản đến cơ quan, tổ chức trình dự thảo nghị quyết.",
+            "dapan": {
+                "a": "20 ngày",
+                "b": "25 ngày",
+                "c": "30 ngày",
+                "d": "35 ngày"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trách nhiệm đề nghị xây dựng quyết định của Ủy ban nhân dân cấp tỉnh?",
+            "dapan": {
+                "a": "Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, Chủ tịch Hội đồng nhân dân cấp huyện",
+                "b": "Cơ quan   thuộc Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp huyện",
+                "c": "Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp huyện",
+                "d": "Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp tỉnh, huyện"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Dự thảo nghị quyết của Hội đồng nhân dân cấp huyện do?",
+            "dapan": {
+                "a": "Ủy ban nhân dân cùng cấp trình",
+                "b": "Thường trực HĐND cùng cấp trình",
+                "c": "Chủ tịch Ủy ban nhân dân cùng cấp trình"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Chậm nhất là bao nhiêu ngày trước ngày Ủy ban nhân dân họp, cơ quan chủ trì soạn thảo phải gửi hồ sơ dự thảo nghị quyết của Hội đồng nhân dân cấp huyện đến Phòng Tư pháp để thẩm định?",
+            "dapan": {
+                "a": "05 ngày",
+                "b": "07 ngày",
+                "c": "10 ngày",
+                "d": "15 ngày"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Đối tượng chịu sự tác động trực tiếp của văn bản quy phạm pháp luật là?",
+            "dapan": {
+                "a": "cơ quan, tổ chức, cá nhân có quyền, nghĩa vụ, trách nhiệm chịu ảnh hưởng  từ việc áp dụng văn bản đó sau khi được ban hành",
+                "b": "cơ quan, tổ chức, cá nhân có quyền, nghĩa vụ, trách nhiệm chịu ảnh hưởng trực tiếp từ việc áp dụng văn bản đó trước khi được ban hành",
+                "c": "cơ quan, tổ chức, cá nhân có quyền, nghĩa vụ, trách nhiệm chịu ảnh hưởng trực tiếp từ việc áp dụng văn bản đó sau khi được ban hành"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Trong hệ thông văn bản quy phạm pháp luật thì văn bản nào có giá trị pháp lý cao nhất?",
+            "dapan": {
+                "a": "Hiến pháp",
+                "b": "Bộ luật",
+                "c": "Luật",
+                "d": "Nghị quyết"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "UBND cấp tỉnh, huyện, xã được ban hành văn bản quy phạm pháp luật nào dưới đây?",
+            "dapan": {
+                "a": "Nghị quyết",
+                "b": "Quyết định",
+                "c": "Chỉ thị",
+                "d": "Quyết định, Chỉ thị"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật phải?",
+            "dapan": {
+                "a": "quy định cụ thể nội dung cần điều chỉnh,   quy định chung chung,   quy định lại các nội dung đã được quy định trong văn bản quy phạm pháp luật khác.",
+                "b": "quy định cụ thể nội dung cần điều chỉnh, không quy định chung chung, không quy định lại các nội dung đã được quy định trong văn bản quy phạm pháp luật khác.",
+                "c": "quy định cụ thể nội dung cần điều chỉnh, không quy định chung chung, không quy định lại các nội dung đã được quy định trong văn bản  pháp luật khác."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Không quy định chương riêng về?",
+            "dapan": {
+                "a": "thanh tra, khiếu nại, tố cáo  trong văn bản quy phạm pháp luật nếu không có nội dung mới.",
+                "b": "khen thưởng, xử lý vi phạm trong văn bản quy phạm pháp luật nếu không có nội dung mới.",
+                "c": "thanh tra, khiếu nại, tố cáo, khen thưởng, xử lý vi phạm trong văn bản quy phạm pháp luật nếu không có nội dung mới."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Trường hợp Tạm ngưng hoặc kéo dài thời hạn áp dụng toàn bộ hoặc một phần pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội đáp ứng các yêu cầu cấp bách về phát triển kinh tế - xã hội, Ủy ban thường vụ Quốc hội ban hành loại văn bản quy phạm pháp luật nào?",
+            "dapan": {
+                "a": "Pháp lệnh",
+                "b": "Nghị quyết",
+                "c": "Nghị định",
+                "d": "Thông tư"
+            },
+            "dapandung": "b"
+        },
+        {
+            "noidung": "Văn bản kiến nghị về luật, pháp lệnh phải nêu rõ?",
+            "dapan": {
+                "a": "sự cần thiết ban hành, đối tượng, phạm vi điều chỉnh, mục đích, yêu cầu ban hành, quan điểm, chính sách, nội dung chính của luật, pháp lệnh",
+                "b": "sự cần thiết ban hành, đối tượng, phạm vi điều chỉnh , nội dung chính của luật, pháp lệnh",
+                "c": "phạm vi điều chỉnh, mục đích, yêu cầu ban hành, quan điểm, chính sách, nội dung chính của luật, pháp lệnh"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Cơ quan nào chủ trì, phối hợp với Bộ Tài chính, Bộ Nội vụ, Bộ Ngoại giao và các cơ quan, tổ chức có liên quan thẩm định đề nghị xây dựng luật, pháp lệnh trước khi trình Chính phủ?",
+            "dapan": {
+                "a": "Bộ Tư pháp",
+                "b": "Văn phòng Chính phủ",
+                "c": "Bộ Xây dựng"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Báo cáo thẩm địnhcủa Bộ Tư pháp phải được gửi đến bộ, cơ quan ngang bộ đã lập đề nghị xây dựng luật, pháp lệnh chậm nhất là  ba nhiêu ngày kể từ ngày kết thúc thẩm định?",
+            "dapan": {
+                "a": "10 ngày",
+                "b": "15 ngày",
+                "c": "20 ngày",
+                "d": "25 ngày"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Chậm nhất vào ngày tháng nào của năm trước, đề nghị xây dựng luật, pháp lệnh, kiến nghị về luật, pháp lệnh phải được gửi đến Ủy ban thường vụ Quốc hội để lập dự kiến chương trình xây dựng luật, pháp lệnh, đồng thời được gửi đến Ủy ban pháp luật của Quốc hội để thẩm tra?",
+            "dapan": {
+                "a": "ngày 01 tháng 02 của năm trước",
+                "b": "ngày 01 tháng 3 của năm trước",
+                "c": "ngày 01 tháng 4 của năm trước",
+                "d": "ngày 01 tháng 5 của năm trước"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật của các cơ quan ở Trung ương phải được đăng Công báo nước Cộng hòa xã hội chủ nghĩa Việt Nam, trừ trường hợp?",
+            "dapan": {
+                "a": "văn bản có nội dung thuộc bí mật nhà nước",
+                "b": "văn bản có nội dung thuộc bí mật công tác",
+                "c": "văn bản có nội dung thuộc bí mật nhà nước, bí mật kinh tác",
+                "d": "văn bản có nội dung thuộc bí mật nhà nước, bí mật kinh doanh"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân cấp tỉnh, chính quyền địa phương ở đơn vị hành chính - kinh tế đặc biệt?",
+            "dapan": {
+                "a": "phải được đăng Công báo cấp tỉnh.",
+                "b": "phải được đăng Công báo nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+                "c": "cả A và B"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân cấp huyện, cấp xã phải được?",
+            "dapan": {
+                "a": "đăng công báo, niêm yết công khai và phải được đưa tin trên các phương tiện thông tin đại chúng ở địa phương",
+                "b": "niêm yết công khai và phải được đưa tin trên các phương tiện thông tin đại chúng",
+                "c": "đăng công báo cấp tỉnh, niêm yết công khai và phải được đưa tin trên các phương tiện thông tin đại chúng ở địa phương",
+                "d": "niêm yết công khai và phải được đưa tin trên các phương tiện thông tin đại chúng ở địa phương"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Trong thời hạn bao nhiêu ngày kể từ ngày công bố hoặc ký ban hành, cơ quan, người có thẩm quyền ban hành văn bản quy phạm pháp luật phải gửi văn bản đến cơ quan Công báo để đăng Công báo hoặc niêm yết công khai?",
+            "dapan": {
+                "a": "01 ngày",
+                "b": "02 ngày",
+                "c": "03 ngày",
+                "d": "05 ngày"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật đăng trên Công báo in và Công báo điện tử là?",
+            "dapan": {
+                "a": "văn bản chính thức và có giá trị như văn bản chính",
+                "b": "văn bản chính thức và có giá trị như văn bản gốc.",
+                "c": "văn bản tham khảo và có giá trị như văn bản sao"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Cơ quan Công báo có trách nhiệm đăng toàn văn văn bản quy phạm pháp luật trên Công báo chậm nhất là bao nhiêu ngày đối với văn bản quy phạm pháp luật do các cơ quan trung ương ban hành, kể từ ngày nhận được văn bản?",
+            "dapan": {
+                "a": "5 ngày",
+                "b": "10 ngày",
+                "c": "15 ngày",
+                "d": "20 ngày"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Cơ quan Công báo có trách nhiệm đăng toàn văn văn bản quy phạm pháp luật trên Công báo chậm nhất là bao nhiêu ngày đối với văn bản quy phạm pháp luật do Hội đồng nhân dân, Ủy ban nhân dân cấp tỉnh, chính quyền địa phương ở đơn vị hành chính - kinh tế đặc biệt ban hành, kể từ ngày nhận được văn bản?",
+            "dapan": {
+                "a": "5 ngày",
+                "b": "07 ngày",
+                "c": "10 ngày",
+                "d": "15 ngày"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Văn bản quy phạm pháp luật của các cơ quan nhà nước ở trung ương?",
+            "dapan": {
+                "a": "có hiệu lực trong phạm vi cả nước và được áp dụng đối với mọi cơ quan, tổ chức, cá nhân, trừ trường hợp văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên có thẩm quyền hoặc điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác",
+                "b": "có hiệu lực trong phạm vi cả nước và được áp dụng đối với mọi cơ quan, tổ chức, cá nhân, trừ trường hợp văn bản quy phạm pháp luật của cơ quan nhà nước cùng cấp có thẩm quyền hoặc điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác",
+                "c": "có hiệu lực trong phạm vi cả nước và được áp dụng đối với mọi cơ quan, tổ chức, cá nhân, trừ trường hợp văn bản hành chính của cơ quan nhà nước cấp trên có thẩm quyền hoặc điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trường hợp một đơn vị hành chính được chia thành nhiều đơn vị hành chính mới cùng cấp thì?",
+            "dapan": {
+                "a": "văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân của đơn vị hành chính được chia vẫn có hiệu lực đối với đơn vị hành chính mới cho đến khi Hội đồng nhân dân, Ủy ban nhân dân của đơn vị hành chính mới ban hành văn bản   thay thế",
+                "b": "văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân của đơn vị hành chính được chia vẫn có hiệu lực đối với đơn vị hành chính mới cho đến khi Hội đồng nhân dân, Ủy ban nhân dân của đơn vị hành chính mới ban hành văn bản hành chính thay thế",
+                "c": "văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân của đơn vị hành chính được chia vẫn có hiệu lực đối với đơn vị hành chính mới cho đến khi Hội đồng nhân dân, Ủy ban nhân dân của đơn vị hành chính mới ban hành văn bản quy phạm pháp luật thay thế"
+            },
+            "dapandung": "C"
+        }
+    ]
+}
