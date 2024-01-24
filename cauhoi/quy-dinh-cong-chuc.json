@@ -1,0 +1,681 @@
+{
+    "cauhoi": [
+        {
+            "noidung": "Cơ quan nào dưới đây là cơ quan quản lý công chức",
+            "dapan": {
+                "a": "Cơ quan có thẩm quyền của Đảng Cộng sản Việt Nam, Mặt trận Tổ quốc Việt Nam, các tổ chức chính trị - xã hội ở Trung ương; Tỉnh ủy, thành ủy trực thuộc Trung ương;",
+                "b": "Văn phòng Chủ tịch nước, Văn phòng Quốc hội, Kiểm toán Nhà nước; Tòa án nhân dân tối cao, Viện Kiểm sát nhân dân tối cao;",
+                "c": "Bộ, cơ quan ngang Bộ và các tổ chức do Chính phủ, Thủ tướng Chính phủ thành lập mà không phải là đơn vị sự nghiệp công lập;  Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương.",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Cơ quan nào dưới đây không phải là cơ quan quản lý công chức",
+            "dapan": {
+                "a": "Cơ quan có thẩm quyền của Đảng Cộng sản Việt Nam, Mặt trận Tổ quốc Việt Nam, các tổ chức chính trị - xã hội ở Trung ương; Tỉnh ủy, thành ủy trực thuộc Trung ương;",
+                "b": "Văn phòng Chủ tịch nước, Văn phòng Quốc hội, Kiểm toán Nhà nước; Tòa án nhân dân tối cao, Viện Kiểm sát nhân dân tối cao;",
+                "c": "Bộ, cơ quan ngang Bộ và các tổ chức do Chính phủ, Thủ tướng Chính phủ thành lập mà không phải là đơn vị sự nghiệp công lập;  Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương.",
+                "d": "Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Việc tuyển dụng công chức phải căn cứ vào ?",
+            "dapan": {
+                "a": "yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế",
+                "b": "yêu cầu nhiệm vụ, vị trí việc làm hoặc chỉ tiêu biên chế",
+                "c": "yêu cầu  vị trí việc làm và chỉ tiêu biên chế"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Đối tượng nào dưới đây được cộng 7,5 điểm vào kết quả điểm vòng 2 thi tuyển , xét tuyển công chức?",
+            "dapan": {
+                "a": "Anh hùng Lực lượng vũ trang, Anh hùng Lao động, thương binh, người hưởng chính sách như thương binh, thương binh loại B",
+                "b": "Con liệt sĩ, con thương binh, con bệnh binh, con của người hưởng chính sách như thương binh, con của thương binh loại B, con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học, con Anh hùng Lực lượng vũ trang, con Anh hùng Lao động:",
+                "c": "Người hoàn thành nghĩa vụ quân sự, nghĩa vụ tham gia công an nhân dân, đội viên thanh niên xung phong"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Đối tượng nào dưới đây được cộng 5  điểm vào kết quả điểm vòng 2 thi tuyển, xét tuyển công chức?",
+            "dapan": {
+                "a": "Người dân tộc thiểu số, sĩ quan quân đội, sĩ quan công an, quân nhân chuyên nghiệp phục viên, người làm công tác cơ yếu chuyển ngành,",
+                "b": "học viên tốt nghiệp đào tạo sĩ quan dự bị, tốt nghiệp đào tạo chỉ huy trưởng Ban chỉ huy quân sự cấp xã ngành quân sự cơ sở được phong quân hàm sĩ quan dự bị đã đăng ký ngạch sĩ quan dự bị,",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Người hoàn thành nghĩa vụ quân sự, nghĩa vụ tham gia công an nhân dân, đội viên thanh niên xung phong: Được cộng bao nhiêu điểm vào kết quả điểm vòng 2.",
+            "dapan": {
+                "a": "7,5 điểm",
+                "b": "5 điểm",
+                "c": "2,5 điểm",
+                "d": "2 điểm"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Trường hợp người dự thi tuyển hoặc dự xét tuyển thuộc nhiều diện ưu tiên   thì ?",
+            "dapan": {
+                "a": "được cộng tất cả điểm ưu tiên  vào kết quả điểm vòng 2.",
+                "b": "chỉ được cộng điểm ưu tiên cao nhất vào kết quả điểm vòng 2.",
+                "c": "chỉ được cộng điểm ưu tiên thấp nhất vào kết quả điểm vòng 2."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Thi tuyển công chức được thực hiện theo mấy vòng?",
+            "dapan": {
+                "a": "02 vòng",
+                "b": "03 vòng",
+                "c": "04 vòng"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Vòng 1: Thi kiểm tra kiến thức, năng lực chung thực hiện dưới hình thức nào?",
+            "dapan": {
+                "a": "Thi trắc nghiệm",
+                "b": "Thi viết",
+                "c": "Thi phỏng vấn",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Ở vòng 1, trường hợp tổ chức thi trên máy vi tính thì nội dung thi trắc nghiệm không có phần thi nào dưới đây?",
+            "dapan": {
+                "a": "kiến thức chung",
+                "b": "Tin học",
+                "c": "ngoại ngữ",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Miễn phần thi ngoại ngữ đối với các trường hợp nào dưới đây?",
+            "dapan": {
+                "a": "Có bằng tốt nghiệp chuyên ngành ngoại ngữ cùng trình độ đào tạo hoặc ở trình độ đào tạo cao hơn so với trình độ đào tạo chuyên môn, nghiệp vụ theo yêu cầu của vị trí việc làm dự tuyển;",
+                "b": "Có bằng tốt nghiệp cùng trình độ đào tạo hoặc ở trình độ đào tạo cao hơn so với trình độ đào tạo chuyên môn, nghiệp vụ theo yêu cầu của vị trí việc làm dự tuyển do cơ sở giáo dục nước ngoài cấp và được công nhận tại Việt Nam theo quy định;",
+                "c": "Có chứng chỉ tiếng dân tộc thiểu số hoặc là người dân tộc thiểu số, trong trường hợp dự tuyển vào công chức công tác ở vùng dân tộc thiểu số.",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Miễn phần thi tin học đối với các trường hợp nào?",
+            "dapan": {
+                "a": "có bằng tốt nghiệp từ trung cấp trở lên các chuyên ngành liên quan đến tin học, công nghệ thông tin",
+                "b": "có bằng tốt nghiệp từ cao đẳng  trở lên các chuyên ngành liên quan đến tin học, công nghệ thông tin",
+                "c": "có bằng tốt nghiệp từ đại học trở lên các chuyên ngành liên quan đến tin học, công nghệ thông tin"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Vòng 2: Thi môn nghiệp vụ chuyên ngành tổ chức bằng hình thức nào dưới đây?",
+            "dapan": {
+                "a": "Phỏng vấn; viết",
+                "b": "kết hợp phỏng vấn và viết.",
+                "c": "Phỏng vấn; viết; kết hợp phỏng vấn và viết."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Đối tượng nào dưới đây được xét tuyển công chức?",
+            "dapan": {
+                "a": "Người cam kết tình nguyện làm việc từ 05 năm trở lên ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn;",
+                "b": "Người học theo chế độ cử tuyển theo quy định của Luật Giáo dục, sau khi tốt nghiệp về công tác tại địa phương nơi cử đi học;",
+                "c": "Sinh viên tốt nghiệp xuất sắc, nhà khoa học trẻ tài năng.",
+                "d": "Tất cả đối tượng trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Người cam kết tình nguyện làm việc từ bao nhiêu năm trở lên ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì được xét tuyển công chức?",
+            "dapan": {
+                "a": "03 năm",
+                "b": "04 năm",
+                "c": "05 năm"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Việc xét tuyển công chức thực hiện qua mấy vòng?",
+            "dapan": {
+                "a": "01 vòng",
+                "b": "02 vòng",
+                "c": "03 vòng"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Đối tượng nào dưới đây được tiếp nhận vào công chức?",
+            "dapan": {
+                "a": "Viên chức công tác tại đơn vị sự nghiệp công lập;",
+                "b": "Cán bộ, công chức cấp xã;",
+                "c": "Người hưởng lương trong lực lượng vũ trang nhân dân, người làm việc trong tổ chức cơ yếu nhưng không phải là công chức; Người đã từng là cán bộ, công chức từ cấp huyện trở lên sau đó được cấp có thẩm quyền điều động, luân chuyển giữ các vị trí công tác không phải là cán bộ, công chức tại các cơ quan, tổ chức khác.",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Thời gian tập sự được bao nhiêu tháng đối với trường hợp tuyển dụng vào công chức loại C?",
+            "dapan": {
+                "a": "03 tháng",
+                "b": "06 tháng",
+                "c": "09 tháng",
+                "d": "12 tháng"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Thời gian tập sự được bao nhiêu tháng đối với trường hợp tuyển dụng vào công chức loại D?",
+            "dapan": {
+                "a": "03 tháng",
+                "b": "06 tháng",
+                "c": "09 tháng",
+                "d": "12 tháng"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Thời gian nghỉ sinh con theo chế độ bảo hiểm xã hội, thời gian nghỉ ốm đau từ 14 ngày trở lên, thời gian nghỉ không hưởng lương, thời gian bị tạm giam, tạm giữ, tạm đình chỉ công tác theo quy định của pháp luật ?",
+            "dapan": {
+                "a": "không được tính vào thời gian tập sự",
+                "b": "được tính vào thời gian tập sự",
+                "c": "do người có thẩm quyền quyết định"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trường hợp người tập sự nghỉ ốm đau hoặc có lý do chính đáng dưới 14 ngày mà được người đứng đầu cơ quan, đơn vị nơi người được tuyển dụng vào công chức đang thực hiện chế độ tập sự đồng ý thì thời gian này?",
+            "dapan": {
+                "a": "không được tính vào thời gian tập sự",
+                "b": "được tính vào thời gian tập sự",
+                "c": "do người có thẩm quyền quyết định"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Không thực hiện chế độ tập sự đối với các trường hợp nào dưới đây?",
+            "dapan": {
+                "a": "Trường hợp đã có thời gian công tác có đóng bảo hiểm xã hội bắt buộc theo đúng quy định của Luật Bảo hiểm xã hội, được bố trí làm việc theo đúng ngành, nghề đào tạo hoặc theo đúng chuyên môn nghiệp vụ trước đây đã đảm nhiệm mà thời gian công tác có đóng bảo hiểm xã hội bắt buộc (nếu đứt quãng thì được cộng dồn) bằng hoặc lớn hơn thời gian tập sự tương ứng với thời gian tập sự của ngạch được tuyển dụng",
+                "b": "Trường hợp đã có thời gian công tác có đóng bảo hiểm xã hội bắt buộc theo đúng quy định của Luật Bảo hiểm xã hội, được bố trí làm việc theo đúng ngành, nghề đào tạo hoặc theo đúng chuyên môn nghiệp vụ trước đây đã đảm nhiệm mà thời gian công tác có đóng bảo hiểm xã hội bắt buộc bằng   thời gian tập sự tương ứng với thời gian tập sự của ngạch được tuyển dụng",
+                "c": "Trường hợp đã có thời gian công tác có đóng bảo hiểm xã hội bắt buộc theo đúng quy định của Luật Bảo hiểm xã hội, được bố trí làm việc theo đúng ngành, nghề đào tạo hoặc theo đúng chuyên môn nghiệp vụ trước đây đã đảm nhiệm mà thời gian công tác có đóng bảo hiểm xã hội bắt buộc  lớn hơn thời gian tập sự tương ứng với thời gian tập sự của ngạch được tuyển dụng"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Không điều động, bố trí, phân công công tác đối với người được tuyển dụng đang trong thời gian thực hiện chế độ tập sự ?",
+            "dapan": {
+                "a": "sang vị trí việc làm cùng vị trí được tuyển dụng ở trong cùng cơ quan, tổ chức hoặc sang cơ quan, tổ chức, đơn vị khác.",
+                "b": "sang vị trí việc làm khác vị trí được tuyển dụng ở trong cùng cơ quan, tổ chức hoặc sang cơ quan, tổ chức, đơn vị khác.",
+                "c": "sang vị trí việc làm khác vị trí được tuyển dụng   sang cơ quan, tổ chức, đơn vị khác."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Trong thời gian tập sự, người tập sự được hưởng bao nhiêu phần trăm mức lương bậc 1 của ngạch tuyển dụng?",
+            "dapan": {
+                "a": "80%",
+                "b": "85%",
+                "c": "90%",
+                "d": "100%"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Trong thời gian tập sự, Trường hợp người tập sự có trình độ thạc sĩ phù hợp với yêu cầu của vị trí việc làm tuyển dụng thì được hưởng bao nhiêu phần trăm mức lương bậc 2 của ngạch tuyển dụng?",
+            "dapan": {
+                "a": "80%",
+                "b": "85%",
+                "c": "90%",
+                "d": "100%"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Trong thời gian tập sự, trường hợp người tập sự có trình độ tiến sĩ phù hợp với yêu cầu của vị trí việc làm tuyển dụng thì được hưởng bao nhiêu phần trăm mức lương bậc 3 của ngạch tuyển dụng?",
+            "dapan": {
+                "a": "80%",
+                "b": "85%",
+                "c": "90%",
+                "d": "100%"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Người tập sự được hưởng 100% mức lương và phụ cấp của ngạch tuyển dụng tương ứng với trình độ đào tạo   trong các trường hợp nào dưới đây?",
+            "dapan": {
+                "a": "Làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn;",
+                "b": "Làm việc trong các ngành, nghề độc hại nguy hiểm;",
+                "c": "Hoàn thành nghĩa vụ quân sự, nghĩa vụ tham gia công an nhân dân, sĩ quan quân đội, sĩ quan công an, quân nhân chuyên nghiệp phục viên, người làm công tác cơ yếu chuyển ngành, học viên tốt nghiệp đào tạo sĩ quan dự bị, tốt nghiệp đào tạo chỉ huy trưởng Ban chỉ huy quân sự cấp xã ngành quân sự cơ sở được phong quân hàm sĩ quan dự bị đã đăng ký ngạch sĩ quan dự bị, đội viên thanh niên xung phong, đội viên trí thức trẻ tình nguyện tham gia phát triển nông thôn, miền núi từ đủ 24 tháng trở lên đã hoàn thành nhiệm vụ.",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Trong thời gian tập sự, trường hợp người tập sự có trình độ tiến sĩ phù hợp với yêu cầu của vị trí việc làm tuyển dụng, Làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì được hưởng bao nhiêu phần trăm mức lương bậc 3 của ngạch tuyển dụng?",
+            "dapan": {
+                "a": "80%",
+                "b": "85%",
+                "c": "90%",
+                "d": "100%"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Trong thời gian tập sự, Trường hợp người tập sự có trình độ thạc sĩ phù hợp với yêu cầu của vị trí việc làm tuyển dụng, Làm việc trong các ngành, nghề độc hại nguy hiểm thì được hưởng bao nhiêu phần trăm mức lương bậc 2 của ngạch tuyển dụng?",
+            "dapan": {
+                "a": "80%",
+                "b": "85%",
+                "c": "90%",
+                "d": "100%"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Thời gian tập sự không được tính vào?",
+            "dapan": {
+                "a": "thời gian xét nâng bậc lương.",
+                "b": "thời gian công tác",
+                "c": "tất cả đáp án trên"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Công chức được cơ quan, tổ chức phân công hướng dẫn tập sự được hưởng hệ số phụ cấp trách nhiệm bằng bao nhiêu so với mức lương cơ sở trong thời gian hướng dẫn tập sự?",
+            "dapan": {
+                "a": "0,2",
+                "b": "0,3",
+                "c": "0,4",
+                "d": "0,5"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Quyết định tuyển dụng bị hủy bỏ trong trường hợp nào dưới đây?",
+            "dapan": {
+                "a": "người tập sự không đạt yêu cầu sau thời gian tập sự và có hành vi vi phạm đến mức phải xem xét xử lý kỷ luật theo quy định của pháp luật về cán bộ, công chức",
+                "b": "người tập sự   đạt yêu cầu sau thời gian tập sự hoặc có hành vi vi phạm đến mức chưa phải xem xét xử lý kỷ luật theo quy định của pháp luật về cán bộ, công chức",
+                "c": "người tập sự không đạt yêu cầu sau thời gian tập sự hoặc có hành vi vi phạm đến mức phải xem xét xử lý kỷ luật theo quy định của pháp luật về cán bộ, công chức"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Người tập sự bị huỷ bỏ quyết định tuyển dụng được cơ quan sử dụng công chức trợ cấp bao nhiêu tháng lương, phụ cấp hiện hưởng và tiền tàu xe về nơi cư trú?",
+            "dapan": {
+                "a": "01",
+                "b": "02",
+                "c": "03",
+                "d": "04"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Việc bố trí, phân công công tác cho công chức phải như thế nào?",
+            "dapan": {
+                "a": "bảo đảm phù hợp giữa quyền hạn hoặc nhiệm vụ được giao với chức danh, chức vụ và ngạch công chức được bổ nhiệm",
+                "b": "bảo đảm phù hợp giữa quyền hạn và nhiệm vụ được giao với chức danh, chức vụ hoặc ngạch công chức được bổ nhiệm",
+                "c": "bảo đảm phù hợp giữa quyền hạn và nhiệm vụ được giao với chức danh, chức vụ và ngạch công chức được bổ nhiệm"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Việc điều động công chức được thực hiện trong các trường hợp nào dưới đây?",
+            "dapan": {
+                "a": "Theo yêu cầu nhiệm vụ cụ thể;",
+                "b": "Theo quy hoạch, kế hoạch sử dụng công chức trong cơ quan, tổ chức và giữa các cơ quan, tổ chức theo quyết định của cơ quan có thẩm quyền;",
+                "c": "Chuyển đổi vị trí công tác theo quy định của Đảng và pháp luật.",
+                "d": "Tất cả trường hợp trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Thẩm quyền điều động công chức?",
+            "dapan": {
+                "a": "Người đứng đầu cơ quan, tổ chức được phân công, phân cấp quản lý công chức quyết định việc điều động công chức thuộc thẩm quyền quản lý hoặc trình cấp có thẩm quyền quyết định theo quy định của pháp luật.",
+                "b": "Người đứng đầu cơ quan, tổ chức được phân công, phân cấp quản lý công chức quyết định việc điều động công chức thuộc thẩm quyền quản lý",
+                "c": "Người đứng đầu cơ quan, tổ chức được phân công, phân cấp quản lý công chức  trình cấp có thẩm quyền quyết định theo quy định của pháp luật."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trước khi quyết định điều động công chức, người đứng đầu cơ quan được phân công, phân cấp quản lý công chức cần làm gì?",
+            "dapan": {
+                "a": "Cần gặp gỡ công chức nêu rõ mục đích, sự cần thiết của việc điều động để nghe công chức đề xuất ý kiến trước khi quyết định theo thẩm quyền và báo cáo cấp có thẩm quyền xem xét, quyết định",
+                "b": "Cần gặp gỡ công chức nêu rõ mục đích, sự cần thiết của việc điều động để nghe công chức đề xuất ý kiến trước khi quyết định theo thẩm quyền hoặc báo cáo cấp có thẩm quyền xem xét, quyết định",
+                "c": "Cần gặp gỡ công chức nêu rõ mục đích, sự cần thiết của việc điều động để nghe công chức đề xuất ý kiến trước khi quyết định theo thẩm quyền"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Biệt phái công chức được thực hiện trong các trường hợp nào dưới đây?",
+            "dapan": {
+                "a": "Theo yêu cầu nhiệm vụ cụ thể;",
+                "b": "Theo quy hoạch, kế hoạch sử dụng công chức trong cơ quan, tổ chức và giữa các cơ quan, tổ chức theo quyết định của cơ quan có thẩm quyền;",
+                "c": "Theo nhiệm vụ đột xuất, cấp bách; Để thực hiện công việc cần giải quyết trong một thời gian nhất định."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Thời hạn biệt phái công chức không quá bao nhiêu năm, trừ trường hợp thực hiện theo quy định của pháp luật chuyên ngành?",
+            "dapan": {
+                "a": "01 năm",
+                "b": "02 năm",
+                "c": "03 năm",
+                "d": "05 năm"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Công chức được cử biệt phái chịu sự phân công, bố trí, đánh giá, kiểm tra việc thực hiện nhiệm vụ của cơ quan, tổ chức nào?",
+            "dapan": {
+                "a": "cơ quan, tổ chức nơi được cử đến biệt phái",
+                "b": "cơ quan, tổ chức nơi  cử đến biệt phái",
+                "c": "Tất cả đáp án trên"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thẩm quyền biệt phái công chức được quy định như thế nào?",
+            "dapan": {
+                "a": "Người đứng đầu cơ quan, tổ chức được phân công, phân cấp quản lý công chức quyết định việc biệt phái công chức thuộc thẩm quyền quản lý",
+                "b": "Người đứng đầu cơ quan, tổ chức được phân công, phân cấp quản lý công chức   trình cấp có thẩm quyền quyết định theo quy định của pháp luật.",
+                "c": "Người đứng đầu cơ quan, tổ chức được phân công, phân cấp quản lý công chức quyết định việc biệt phái công chức thuộc thẩm quyền quản lý hoặc trình cấp có thẩm quyền quyết định theo quy định của pháp luật."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Trước khi quyết định biệt phái công chức, người đứng đầu cơ quan, tổ chức được phân công, phân cấp quản lý công chức cần làm gì?",
+            "dapan": {
+                "a": "Cần gặp gỡ công chức nêu rõ mục đích, sự cần thiết của việc biệt phái để nghe công chức đề xuất ý kiến trước khi quyết định theo thẩm quyền hoặc báo cáo cấp có thẩm quyền xem xét, quyết định",
+                "b": "Cần gặp gỡ công chức nêu rõ mục đích, sự cần thiết của việc biệt phái để nghe công chức đề xuất ý kiến trước khi quyết định",
+                "c": "Cần gặp gỡ công chức nêu rõ mục đích, sự cần thiết của việc biệt phái để nghe công chức đề xuất ý kiến trước khi  báo cáo cấp có thẩm quyền xem xét, quyết định"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Công chức giữ chức vụ lãnh đạo, quản lý được điều động, biệt phái đến vị trí công tác khác mà phụ cấp chức vụ mới thấp hơn phụ cấp chức vụ hiện đang đảm nhiệm thì được bảo lưu phụ cấp chức vụ trong thời gian bao nhiêu tháng?",
+            "dapan": {
+                "a": "03 tháng",
+                "b": "06 tháng",
+                "c": "09 tháng",
+                "d": "12 tháng"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Cơ quan, tổ chức nào có trách nhiệm trả lương và bảo đảm các quyền lợi khác của công chức trong thời gian được cử biệt phái?",
+            "dapan": {
+                "a": "Cơ quan, tổ chức cử công chức biệt phái",
+                "b": "Cơ quan, tổ chức  công chức biệt phái đến làm việc",
+                "c": "Phương án khác"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Việc chuyển ngạch công chức được thực hiện khi nào?",
+            "dapan": {
+                "a": "Khi công chức thay đổi vị trí việc làm mà ngạch công chức đang giữ  phù hợp với yêu cầu ngạch công chức của vị trí việc làm mới.",
+                "b": "Khi công chức thay đổi vị trí việc làm mà ngạch công chức đang giữ không phù hợp với yêu cầu ngạch công chức của vị trí việc làm mới.",
+                "c": "Khi công chức thay đổi vị trí việc làm mà ngạch công chức đang giữ không phù hợp với yêu cầu ngạch công chức của vị trí việc làm cũ."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Một trong những điều kiện để Công chức được đăng ký dự thi nâng ngạch là?",
+            "dapan": {
+                "a": "Được xếp loại chất lượng ở mức hoàn thành nhiệm vụ trở lên trong năm công tác liền kề trước năm dự thi nâng ngạch",
+                "b": "Được xếp loại chất lượng ở mức hoàn thành xuất sắc nhiệm vụ trở lên trong năm công tác liền kề trước năm dự thi nâng ngạch",
+                "c": "Được xếp loại chất lượng ở mức hoàn thành tốt nhiệm vụ trở lên trong năm công tác liền kề trước năm dự thi nâng ngạch"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Đối với nâng ngạch từ ngạch nhân viên hoặc tương đương lên ngạch cán sự hoặc tương đương; từ ngạch cán sự hoặc tương đương lên ngạch chuyên viên hoặc tương đương, thì yêu cầu về thành tích xuất sắc trong hoạt động công vụ đạt ở mức nào dưới đây?",
+            "dapan": {
+                "a": "Được tặng Bằng khen của Thủ tướng Chính phủ và 02 lần đạt danh hiệu Chiến sĩ thi đua cơ sở;",
+                "b": "Được khen thưởng Huân chương Lao động hạng Ba và đạt danh hiệu Chiến sĩ thi đua cấp bộ, ban, ngành, tỉnh, đoàn thể trung ương",
+                "c": "Được khen thưởng Huân chương Lao động hạng Nhất hoặc đạt danh hiệu Chiến sĩ thi đua toàn quốc"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Đối với nâng ngạch từ ngạch chuyên viên hoặc tương đương lên ngạch chuyên viên chính hoặc tương đương, thì yêu cầu về thành tích xuất sắc trong hoạt động công vụ đạt ở mức nào dưới đây?",
+            "dapan": {
+                "a": "Được tặng Bằng khen của Thủ tướng Chính phủ và 02 lần đạt danh hiệu Chiến sĩ thi đua cơ sở;",
+                "b": "Được khen thưởng Huân chương Lao động hạng Ba và đạt danh hiệu Chiến sĩ thi đua cấp bộ, ban, ngành, tỉnh, đoàn thể trung ương",
+                "c": "Được khen thưởng Huân chương Lao động hạng Nhất hoặc đạt danh hiệu Chiến sĩ thi đua toàn quốc"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Đối với nâng ngạch từ ngạch chuyên viên chính hoặc tương đương lên ngạch chuyên viên cao cấp hoặc tương đươn, thì yêu cầu về thành tích xuất sắc trong hoạt động công vụ đạt ở mức nào dưới đây?",
+            "dapan": {
+                "a": "Được tặng Bằng khen của Thủ tướng Chính phủ và 02 lần đạt danh hiệu Chiến sĩ thi đua cơ sở;",
+                "b": "Được khen thưởng Huân chương Lao động hạng Ba và đạt danh hiệu Chiến sĩ thi đua cấp bộ, ban, ngành, tỉnh, đoàn thể trung ương",
+                "c": "Được khen thưởng Huân chương Lao động hạng Nhất hoặc đạt danh hiệu Chiến sĩ thi đua toàn quốc"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Cơ quan nào chủ trì tổ chức thi nâng ngạch công chức từ ngạch chuyên viên chính lên ngạch chuyên viên cao cấp trong các cơ quan nhà nước?",
+            "dapan": {
+                "a": "Chính phủ",
+                "b": "Bộ Nội vụ",
+                "c": "Ban Tổ chức Trung ương",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Cơ quan nào chủ trì, phối hợp với Bộ Nội vụ tổ chức thi nâng ngạch công chức từ ngạch chuyên viên chính lên ngạch chuyên viên cao cấp trong các cơ quan của Đảng Cộng sản Việt Nam, Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội?",
+            "dapan": {
+                "a": "Chính phủ",
+                "b": "Bộ Nội vụ",
+                "c": "Ban Tổ chức Trung ương",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Trường hợp cơ quan có thẩm quyền tổ chức thi nâng ngạch công chức quyết định thi trắc nghiệm trên máy vi tính thì không phải thi môn nào?",
+            "dapan": {
+                "a": "Môn ngoại ngữ",
+                "b": "Môn tin học",
+                "c": "Môn kiến thức chung"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Công chức thi nâng ngạch được Miễn thi môn ngoại ngữ đối với  trường hợp nào dưới đây?",
+            "dapan": {
+                "a": "Công chức tính đến tháng đủ tuổi nghỉ hưu còn dưới 03 năm công tác;",
+                "b": "Công chức tính đến tháng đủ tuổi nghỉ hưu còn dưới 054 năm công tác;",
+                "c": "Công chức tính đến tháng đủ tuổi nghỉ hưu còn dưới 05 năm công tác;"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Công chức thi nâng ngạch được  Miễn thi môn tin học đối với các trường hợp nào dưới đây?",
+            "dapan": {
+                "a": "có bằng tốt nghiệp từ trung cấp trở lên các chuyên ngành liên quan đến tin học, công nghệ thông tin",
+                "b": "có bằng tốt nghiệp từ cao đẳng trở lên các chuyên ngành liên quan đến tin học, công nghệ thông tin",
+                "c": "có bằng tốt nghiệp từ đại học trở lên các chuyên ngành liên quan đến tin học, công nghệ thông tin"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thời hạn giữ chức vụ lãnh đạo, quản lý cho mỗi lần bổ nhiệm là bao nhiêu năm, tính từ thời điểm quyết định bổ nhiệm có hiệu lực?",
+            "dapan": {
+                "a": "03 năm",
+                "b": "04 năm",
+                "c": "05 năm"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Thời hạn giữ chức vụ lãnh đạo, quản lý không được quá bao nhiêu nhiệm kỳ liên tiếp được thực hiện theo quy định của Đảng và pháp luật chuyên ngành?",
+            "dapan": {
+                "a": "01",
+                "b": "02",
+                "c": "03"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Công chức được đề nghị bổ nhiệm lần đầu giữ chức vụ lãnh đạo, quản lý hoặc đề nghị bổ nhiệm giữ chức vụ lãnh đạo, quản lý cao hơn thì tuổi bổ nhiệm phải còn đủ bao nhiêu năm công tác tính từ khi thực hiện quy trình bổ nhiệm; trường hợp đặc biệt báo cáo cấp có thẩm quyền xem xét, quyết định",
+            "dapan": {
+                "a": "03 năm",
+                "b": "04 năm",
+                "c": "05 năm"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Công chức được đề nghị bổ nhiệm vào chức vụ lãnh đạo, quản lý mà thời hạn mỗi lần bổ nhiệm dưới 05 năm theo quy định của pháp luật chuyên ngành và của cơ quan có thẩm quyền thì tuổi bổ nhiệm phải?",
+            "dapan": {
+                "a": "đủ nữa nhiệm kỳ;",
+                "ba": "đủ ít nhất nữa nhiệm kỳ;",
+                "c": "đủ một nhiệm kỳ;"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Thực hiện quy trình bổ nhiệm đối với nguồn nhân sự tại chỗ  gồm bao nhiêu bước?",
+            "dapan": {
+                "a": "03 bước",
+                "b": "04 bước",
+                "c": "05 bước",
+                "d": "06 bước"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Công chức lãnh đạo, quản lý khi hết thời hạn bổ nhiệm,Trường hợp tính đến tháng đủ tuổi nghỉ hưu còn dưới 02 năm công tác, cấp có thẩm quyền bổ nhiệm xem xét, nếu đáp ứng đủ tiêu chuẩn, điều kiện thì?",
+            "dapan": {
+                "a": "quyết định kéo dài thời gian giữ chức vụ lãnh đạo, quản lý cho đến thời điểm đủ tuổi nghỉ hưu theo quy định.",
+                "b": "quyết định bổ nhiệm lại",
+                "c": "phương án khác"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Quyết định bổ nhiệm lại hoặc quyết định kéo dài thời gian giữ chức vụ lãnh đạo, quản lý phải được ban hành trước ngày hết thời hạn bổ nhiệm ít nhất bao nhiêu ngày làm việc?",
+            "dapan": {
+                "a": "01 ngày làm việc",
+                "b": "03 ngày làm việc",
+                "c": "07 ngày làm việc",
+                "d": "15 ngày làm việc"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trường hợp công chức lãnh đạo, quản lý khi hết thời hạn bổ nhiệm mà chưa có quyết định bổ nhiệm lại hoặc kéo dài thời gian giữ chức vụ lãnh đạo, quản lý của cấp có thẩm quyền thì?",
+            "dapan": {
+                "a": "được thực hiện chức trách, nhiệm vụ, thẩm quyền của chức vụ lãnh đạo, quản lý hiện giữ",
+                "b": "không được thực hiện chức trách, nhiệm vụ, thẩm quyền của chức vụ lãnh đạo, quản lý hiện giữ",
+                "c": "không được thực hiện chức trách, nhiệm vụ, thẩm quyền của chức vụ lãnh đạo, quản lý"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Các trường hợp chưa thực hiện quy trình bổ nhiệm lại hoặc kéo dài thời gian giữ chức vụ lãnh đạo, quản lý gồm?",
+            "dapan": {
+                "a": "Công chức lãnh đạo, quản lý đang trong thời hạn xử lý kỷ luật, đang bị điều tra, truy tố, xét xử;",
+                "b": "Công chức lãnh đạo, quản lý đang trong thời gian được cơ quan, tổ chức có thẩm quyền cử đi học tập, công tác ở nước ngoài từ 03 tháng trở lên;",
+                "c": "Công chức lãnh đạo, quản lý đang trong thời gian điều trị nội trú từ 03 tháng trở lên tại các cơ sở y tế hoặc đang trong thời gian nghỉ chế độ thai sản.",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Chậm nhất bao nhiêu ngày trước ngày hết thời hạn bổ nhiệm, cấp có thẩm quyền bổ nhiệm phải ra thông báo thực hiện quy trình xem xét bổ nhiệm lại đối với công chức?",
+            "dapan": {
+                "a": "60 này",
+                "b": "90 ngày",
+                "c": "120 ngày",
+                "d": "150 ngày"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Đối tượng nào dưới đây thuộc diện luân chuyển?",
+            "dapan": {
+                "a": "Công chức lãnh đạo, quản lý trong quy hoạch của cơ quan, tổ chức;",
+                "b": "Công chức lãnh đạo, quản lý giữ các chức vụ cấp trưởng mà theo quy định không được giữ quá hai nhiệm kỳ liên tiếp ở một địa phương, cơ quan;",
+                "c": "Công chức lãnh đạo, quản lý mà theo quy định không được bố trí người địa phương.",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Công chức lãnh đạo, quản lý luân chuyển để thực hiện quy định không được bố trí người địa phương và để thực hiện quy định không được giữ quá hai nhiệm kỳ liên tiếp ở một địa phương, cơ quan, tổ chức, đơn vị thì phải còn đủ thời gian công tác ít nhất ?",
+            "dapan": {
+                "a": "nữa nhiệm kỳ",
+                "b": "một nhiệm kỳ",
+                "c": "hai nhiệm kỳ"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Công chức luân chuyển đến vị trí công tác khác mà phụ cấp chức vụ mới thấp hơn phụ cấp chức vụ đảm nhiệm trước khi luân chuyển thì?",
+            "dapan": {
+                "a": "được bảo lưu phụ cấp chức vụ hiện hưởng trong thời gian 06 tháng",
+                "b": "được bảo lưu phụ cấp chức vụ hiện hưởng trong thời 12 tháng",
+                "c": "được bảo lưu phụ cấp chức vụ hiện hưởng trong thời gian luân chuyển"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Công chức giữ chức vụ lãnh đạo, quản lý không được từ chức nếu thuộc một trong các trường hợp nào dưới đây?",
+            "dapan": {
+                "a": "Đang đảm nhận nhiệm vụ quốc phòng, an ninh quốc gia; đang đảm nhận nhiệm vụ trọng yếu, cơ mật; phòng chống thiên tai, dịch bệnh; nếu từ chức ngay sẽ ảnh hưởng nghiêm trọng đến lợi ích chung của Đảng và Nhà nước;",
+                "b": "Đang trong thời gian chịu sự thanh tra, kiểm tra, điều tra của cơ quan chức năng có thẩm quyền theo quy định của Đảng và pháp luật.",
+                "c": "Tất cả trường hợp trên"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Việc xem xét miễn nhiệm đối với công chức lãnh đạo, quản lý được thực hiện trong các trường hợp nào dưới đây?",
+            "dapan": {
+                "a": "Có hai năm liên tiếp được xếp loại chất lượng ở mức không hoàn thành nhiệm vụ;",
+                "b": "Bị xử lý kỷ luật chưa đến mức cách chức nhưng do yêu cầu nhiệm vụ công tác cần phải thay thế; Bị xử lý kỷ luật khiển trách hoặc cảnh cáo hai lần trong cùng một thời hạn bổ nhiệm; Bị cơ quan có thẩm quyền kết luận vi phạm quy định của Đảng về bảo vệ chính trị nội bộ;",
+                "c": "Các lý do miễn nhiệm khác theo quy định của Đảng và pháp luật.",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Công chức lãnh đạo, quản lý Có hai năm liên tiếp được xếp loại chất lượng ở mức không hoàn thành nhiệm vụ thì?",
+            "dapan": {
+                "a": "Miễn nhiệm",
+                "b": "Bãi nhiệm",
+                "c": "Cách chức"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Công chức lãnh đạo, quản lý  Bị xử lý kỷ luật chưa đến mức cách chức nhưng do yêu cầu nhiệm vụ công tác cần phải thay thế; Bị xử lý kỷ luật khiển trách hoặc cảnh cáo hai lần trong cùng một thời hạn bổ nhiệm thì?",
+            "dapan": {
+                "a": "Miễn nhiệm",
+                "b": "Bãi nhiệm",
+                "c": "Cách chức"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Nghị định 138/2020/NĐ-CP có hiệu lực thi hành kể từ?",
+            "dapan": {
+                "a": "ngày 01 tháng 12 năm 2020.",
+                "b": "ngày 15 tháng 12 năm 2020.",
+                "c": "ngày 01 tháng 01 năm 2021."
+            },
+            "dapandung": "A"
+        }
+    ]
+}
