@@ -261,11 +261,56 @@
                 "d": "Đại hội đại biểu và đại hội đảng viên"
             },
             "dapandung": "C"
-        }
-                                
-        
-        
-                
-                        
+        },
+        {
+            "noidung": "Điều lệ Đảng hiện hành quy định về sinh hoạt định kỳ đối với đảng bộ cơ sở như thế nào?",
+            "dapan": {
+                "a": "Mỗi tháng 1 lần.",
+                "b": "Mỗi quý 1 lần.",
+                "c": "Mỗi năm 1 lần.",
+                "d": "Mỗi năm 2 lần."
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Điều lệ Đảng hiện hành quy định cơ quan lãnh đạo cao nhất của Đảng bộ tỉnh là?",
+            "dapan": {
+                "a": "Đại hội đại biểu Đảng bộ tỉnh",
+                "b": "Thường trực Tỉnh ủy",
+                "c": "Ban Thường vụ Tỉnh ủy",
+                "d": "Ban Chấp hành Đảng bộ tỉnh"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Điều lệ Đảng hiện hành quy định giữa 2 kỳ đại hội, cơ quan lãnh đạo của Đảng bộ tỉnh là?",
+            "dapan": {
+                "a": "Đại hội đại biểu Đảng bộ tỉnh",
+                "b": "Thường trực Tỉnh ủy",
+                "c": "Ban Thường vụ Tỉnh ủy",
+                "d": "Ban Chấp hành Đảng bộ tỉnh"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Tổ chức cơ sở Đảng theo Điều lệ Đảng hiện hành bao gồm:",
+            "dapan": {
+                "a": "Chi bộ cơ sở, đảng bộ cơ sở.",
+                "b": "Chi bộ cơ sở, đảng bộ cơ sở, các Ban Cán sự Đảng.",
+                "c": "Chi bộ cơ sở, đảng bộ cơ sở, các Đảng đoàn.",
+                "d": "Chi bộ cơ sở, đảng bộ cơ sở, các Ban Cán sự Đảng, các Đảng đoàn."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Mục đích của Đảng Cộng sản Việt Nam là xây dựng nước Việt Nam như thế nào?",
+            "dapan": {
+                "a": "Xây dựng nước Việt Nam trở thành nước XHCN và cuối cùng là cộng sản chủ nghĩa.",
+                "b": "Xây dựng nước Việt Nam độc lập, dân chủ, giàu mạnh, xã hội công bằng, văn minh.",
+                "c": "Xây dựng nước Việt Nam độc lập, dân chủ, giàu mạnh, xã hội công bằng, văn minh, không còn người bóc lột người, thực hiện thành công CNXH và cuối cùng là chủ nghĩa cộng sản.",
+                "d": "Xây dựng nước Việt Nam độc lập và cuối cùng là nước xã hội chủ nghĩa."
+            },
+            "dapandung": "C"
+        }               
     ]
 }

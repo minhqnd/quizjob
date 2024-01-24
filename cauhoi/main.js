@@ -3,13 +3,16 @@ function select(selected) {
     resetColor()
     $("#answer" + selected).addClass("outline")
     $("#answer" + selected).addClass("outline-amber-400")
+    button = ANSWER_BUTTON.replaceAll("NUMBER", i + 1)
     // add the selected answer to the array
     selectedAnswer[currentQuestion] = selected;
     // set the current question awnser to the selected answer
     questions.cauhoi[currentQuestion].dapan.selected = selected;
     //save the selected answer to array to check later
     awnser[currentQuestion] = selected;
-
+    reloadButton()
+    //set the check button to enable
+    $("#check").prop("disabled", false);
 }
 
 var awnser = []
@@ -44,7 +47,11 @@ function submit() {
                 correct++;
             }
         }
-        alert("Bạn đã trả lời đúng " + correct + " câu tren " + result.length + " câu")
+        // alert("Bạn đã trả lời đúng " + correct + " câu tren " + result.length + " câu")
+
+        //set the qna to display none and show the result
+        $("#qna").addClass("hidden")
+        $("#result").removeClass("hidden")
     });
 }
 
@@ -52,32 +59,44 @@ function removeOutline() {
     $("#answerA").removeClass("outline")
     $("#answerB").removeClass("outline")
     $("#answerC").removeClass("outline")
+    $("#answerD").removeClass("outline")
 }
 
-function check() {
+function check(selectedAnswer) {
     //get the correct answer
     var correct = questions.cauhoi[currentQuestion].dapandung;
     // get the selected answer
-    var selected = questions.cauhoi[currentQuestion].dapan.selected;
-    // check if the selected answer is correct
+    if (selectedAnswer == undefined) {
+        selected = questions.cauhoi[currentQuestion].dapan.selected;
+    } else {
+        selected = selectedAnswer;
+    }
     if (selected == correct) {
         // replace outline-amber-400 with outline-green-400
         $("#answer" + selected).removeClass("outline-amber-400")
         $("#answer" + selected).addClass("outline-green-400")
-        console.log('ok');
+        checked[currentQuestion] = true;
+
+        // console.log('ok');
     } else {
         // add the wrong class to the selected answer
+        $("#answer" + selected).removeClass("outline-amber-400")
+
         $("#answer" + selected).addClass("outline-red-400")
         // add the correct class to the correct answer
         $("#answer" + correct).addClass("outline-green-400")
         $("#answer" + correct).addClass("outline")
+        checked[currentQuestion] = false;
+
     }
 
     //show the ex div remove display none
     $("#ex").removeClass("hidden")
-
+    reloadButton()
+    // save the checked answer to the array
 }
 
+checked = []
 
 // load the questions json cauhoi.json
 $.getJSON("cauhoi.json", function (data) {
@@ -106,12 +125,12 @@ function changeQuestion(index) {
         }
         // console.log(correctAnswer);
         resetColor()
-        console.log(questions.cauhoi[index].noidung);
         $("#question").text(questions.cauhoi[index].noidung);
         $("#question-ex").text(questions.cauhoi[index].noidung);
         $("#answer1").text(questions.cauhoi[index].dapan.a);
         $("#answer2").text(questions.cauhoi[index].dapan.b);
         $("#answer3").text(questions.cauhoi[index].dapan.c);
+        $("#answer4").text(questions.cauhoi[index].dapan.d);
 
 
         // change correctawser-ex to the correct answer
@@ -125,21 +144,65 @@ function changeQuestion(index) {
             case "C":
                 $("#correctAnswer-ex").text(questions.cauhoi[index].dapan.c)
                 break;
-        
+            case "D":
+                $("#correctAnswer-ex").text(questions.cauhoi[index].dapan.d)
+                break;
+
             default:
                 break;
         }
-        $("#questions-btn").html("")
-                // change the color the only active question to button
-        for (i = 0; i < questions.cauhoi.length; i++) {
-            if (i == index) {
-                var button = CURRENT_BUTTON.replaceAll("NUMBER", i + 1)
-            } else {
-                var button = TEMPLATE_BUTTON.replaceAll("NUMBER", i + 1)
+
+        reloadButton()
+
+        // check if the question is answered
+        if (selectedAnswer[index] !== undefined) {
+            // add the outline to the selected answer
+            $("#answer" + selectedAnswer[index]).addClass("outline")
+            $("#answer" + selectedAnswer[index]).addClass("outline-amber-400")
+            //if checked, show the ex div
+            if (checked[index] !== undefined) {
+                check(selectedAnswer[index])
+                $("#check").prop("disabled", true);
             }
-            $("#questions-btn").append(button)
-        }  
+        }
+        //change socau to current question index
+        $("#socau").text(index + 1)
+        //set the check button to disable
+        
     });
+}
+
+function reloadButton() {
+    $("#questions-btn").html("")
+    // change the color the only active question to button
+    for (i = 0; i < questions.cauhoi.length; i++) {
+        var button = TEMPLATE_BUTTON.replaceAll("NUMBER", i + 1)
+        // console.log(selectedAnswer[i]);
+        if (checked[i] == true) {
+            button = CORRECRT_BUTTON.replaceAll("NUMBER", i + 1)
+        } else if (checked[i] == false) {
+            button = WRONG_BUTTON.replaceAll("NUMBER", i + 1)
+        } else if (selectedAnswer[i] !== undefined) {
+            button = ANSWER_BUTTON.replaceAll("NUMBER", i + 1)
+        }
+        $("#questions-btn").append(button)
+    }
+    // add the out line to the current button outline outline-offset-2 outline-amber-400
+    $("#questions-btn button:nth-child(" + (currentQuestion + 1) + ")").addClass("outline")
+    $("#questions-btn button:nth-child(" + (currentQuestion + 1) + ")").addClass("outline-offset-2")
+    $("#questions-btn button:nth-child(" + (currentQuestion + 1) + ")").addClass("outline-amber-400")
+    //disable awnser button if the question is checked
+    if (checked[currentQuestion] !== undefined) {
+        $("#answerA").prop("disabled", true);
+        $("#answerB").prop("disabled", true);
+        $("#answerC").prop("disabled", true);
+        $("#answerD").prop("disabled", true);
+    } else {
+        $("#answerA").prop("disabled", false);
+        $("#answerB").prop("disabled", false);
+        $("#answerC").prop("disabled", false);
+        $("#answerD").prop("disabled", false);
+    }
 }
 
 function resetColor() {
@@ -163,14 +226,19 @@ class="inline-flex items-center justify-center whitespace-nowrap text-sm font-me
 NUMBER
 </button>`
 
-var CURRENT_BUTTON = `<button
-class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 hover:text-aselectedent-foreground h-10 border border-gray-500 p-2 text-center bg-green-500 rounded-lg hover:bg-green-300">
+var CORRECRT_BUTTON = `<button onclick="changeQuestion(NUMBER-1)"
+class=" inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 hover:text-aselectedent-foreground h-10 border border-gray-500 p-2 text-center bg-green-400 rounded-lg hover:bg-green-500">
 NUMBER
 </button>`
 
-var ANSWER_BUTTON = `<button
-class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 hover:text-aselectedent-foreground h-10 border border-gray-500 p-2 text-center bg-amber-400 rounded-lg hover:bg-green-300">
-123
+var WRONG_BUTTON = `<button onclick="changeQuestion(NUMBER-1)"
+class=" inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 hover:text-aselectedent-foreground h-10 border border-gray-500 p-2 text-center bg-red-400 rounded-lg hover:bg-red-500">
+NUMBER
+</button>`
+
+var ANSWER_BUTTON = `<button onclick="changeQuestion(NUMBER-1)"
+class="inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 hover:text-aselectedent-foreground h-10 border border-gray-500 p-2 text-center bg-amber-400 rounded-lg hover:bg-amber-500">
+NUMBER
 </button>`
 
 // loadQuestions();
