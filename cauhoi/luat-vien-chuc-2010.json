@@ -1,0 +1,746 @@
+{
+    "cauhoi": [
+        {
+            "noidung": "Viên chức là?",
+            "dapan": {
+                "a": "công dân Việt Nam được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập theo chế độ hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp luật.",
+                "b": "công dân Việt Nam được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập theo chế độ hợp đồng không xác định thời hạn, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp luật.",
+                "c": "công dân Việt Nam được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập theo chế độ hợp đồng xác định thời hạn, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp luật."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Hợp đồng làm việc là?",
+            "dapan": {
+                "a": "sự thỏa thuận giữa viên chức hoặc người được tuyển dụng làm viên chức với người đứng đầu đơn vị sự nghiệp công lập về vị trí việc làm, tiền lương, chế độ đãi ngộ, điều kiện làm việc quyền và nghĩa vụ của mỗi bên.",
+                "b": "sự thỏa thuận bằng văn bản giữa viên chức hoặc người được tuyển dụng làm viên chức với người đứng đầu đơn vị sự nghiệp công lập về vị trí việc làm, tiền lương, chế độ đãi ngộ, điều kiện làm việc quyền và nghĩa vụ của viên chức.",
+                "c": "sự thỏa thuận bằng văn bản giữa viên chức hoặc người được tuyển dụng làm viên chức với người đứng đầu đơn vị sự nghiệp công lập về vị trí việc làm, tiền lương, chế độ đãi ngộ, điều kiện làm việc quyền và nghĩa vụ của mỗi bên."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Nguyên tắc nào dưới đây không nằm trong hoạt động nghề nghiệp của viên chức",
+            "dapan": {
+                "a": "Tuân thủ pháp luật, chịu trách nhiệm trước pháp luật trong quá trình thực hiện hoạt động nghề nghiệp.",
+                "b": "Tận tụy phục vụ nhân dân.",
+                "c": "Tuân thủ quy trình, quy định chuyên môn, nghiệp vụ, đạo đức nghề nghiệp và quy tắc ứng xử.",
+                "d": "Bảo đảm thứ bậc hành chính và sự phối hợp chặt chẽ."
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Nguyên tắc  nào dưới đây không nằm trong nguyên tắc quản lý viên chức",
+            "dapan": {
+                "a": "Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam và sự thống nhất quản lý của Nhà nước.",
+                "b": "Bảo đảm quyền chủ động và đề cao trách nhiệm của người đứng đầu đơn vị sự nghiệp công lập.",
+                "c": "Việc tuyển dụng, sử dụng, quản lý, đánh giá viên chức được thực hiện trên cơ sở tiêu chuẩn chức danh nghề nghiệp, vị trí việc làm và căn cứ vào hợp đồng làm việc.",
+                "d": "Thực hiện nguyên tắc tập trung dân chủ, chế độ trách nhiệm cá nhân và phân công, phân cấp rõ ràng."
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": ". Đơn vị sự nghiệp công lập là",
+            "dapan": {
+                "a": "tổ chức do cơ quan có thẩm quyền của Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội thành lập theo quy định của pháp luật, có tư cách pháp nhân, cung cấp dịch vụ công.",
+                "b": "tổ chức do cơ quan  Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội thành lập theo quy định của pháp luật, có tư cách pháp nhân, cung cấp dịch vụ công, phục vụ quản lý nhà nước",
+                "c": "tổ chức do cơ quan có thẩm quyền của Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội thành lập theo quy định của pháp luật, có tư cách pháp nhân, cung cấp dịch vụ công, phục vụ quản lý nhà nước"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Có mấy loại hình đơn vị sự nghiệp công lập",
+            "dapan": {
+                "a": "2",
+                "b": "3",
+                "c": "4"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Viên chức được ký hợp đồng vụ, việc với cơ quan, tổ chức, đơn vị khác mà pháp luật không cấm",
+            "dapan": {
+                "a": "nhưng phải hoàn thành tốt nhiệm vụ được giao và có sự đồng ý của người đứng đầu đơn vị sự nghiệp công lập.",
+                "b": "nhưng phải hoàn thành nhiệm vụ được giao và có sự đồng ý của người đứng đầu đơn vị sự nghiệp công lập.",
+                "c": "nhưng phải hoàn thành nhiệm vụ được giao và không cần có sự đồng ý của người đứng đầu đơn vị sự nghiệp công lập."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Viên chức có quyền",
+            "dapan": {
+                "a": "Được góp vốn nhưng không tham gia quản lý, điều hành công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh, hợp tác xã, bệnh viện tư, trường học tư và tổ chức nghiên cứu khoa học tư, trừ trường hợp pháp luật chuyên ngành có quy định khác.",
+                "b": "Được góp vốn, tham gia quản lý, điều hành công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh, hợp tác xã, bệnh viện tư, trường học tư và tổ chức nghiên cứu khoa học tư, trừ trường hợp pháp luật chuyên ngành có quy định khác.",
+                "c": "Tham gia quản lý, điều hành công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh, hợp tác xã, bệnh viện tư, trường học tư và tổ chức nghiên cứu khoa học tư, trừ trường hợp pháp luật chuyên ngành có quy định khác."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Quyền nào dưới đây không phải là quyền của viên chức về hoạt động nghề nghiệp",
+            "dapan": {
+                "a": "Được pháp luật bảo vệ trong hoạt động nghề nghiệp.",
+                "b": "Được đào tạo, bồi dưỡng nâng cao trình độ chính trị, chuyên môn, nghiệp vụ.",
+                "c": "Được bảo đảm trang bị, thiết bị và các điều kiện làm việc.",
+                "d": "Được giao quyền tương xứng với nhiệm vụ."
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Quyền nào dưới đây là quyền của viên chức về hoạt động nghề nghiệp",
+            "dapan": {
+                "a": "Được cung cấp thông tin liên quan đến công việc hoặc nhiệm vụ được giao.",
+                "b": "Được quyết định vấn đề mang tính chuyên môn gắn với công việc hoặc nhiệm vụ được giao.",
+                "c": "Được pháp luật bảo vệ khi thi hành công vụ.",
+                "d": "Cả a và b"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Trong trường hợp nào nếu có yêu cầu, viên chức được gộp số ngày nghỉ phép của 02 năm để nghỉ một lần",
+            "dapan": {
+                "a": "Viên chức làm việc ở miền núi, biên giới, hải đảo, vùng sâu, vùng xa hoặc trường hợp đặc biệt khác",
+                "b": "Viên chức làm việc ở miền núi, biên giới, hải đảo, vùng sâu, vùng xa",
+                "c": "Viên chức làm việc ở miền núi, biên giới, hải đảo, vùng sâu, vùng xa hoặc trường hợp đặc biệt khó khăn"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": ". Khi phục vụ nhân dân, viên chức phải tuân thủ các quy định nào",
+            "dapan": {
+                "a": "Có thái độ lịch sự, tôn trọng nhân dân;  Có tinh thần hợp tác, tác phong quan liêu; Không hách dịch, cửa quyền, gây khó khăn, phiền hà đối với nhân dân;  Chấp hành các quy định về đạo đức nghề nghiệp.",
+                "b": "Có thái độ lịch sự, tôn trọng nhân dân;  Có tinh thần hợp tác, tác phong khiêm tốn;  hách dịch, cửa quyền, gây khó khăn, phiền hà đối với nhân dân;  Chấp hành các quy định về đạo đức nghề nghiệp.",
+                "c": "Có thái độ lịch sự, tôn trọng nhân dân;  Có tinh thần hợp tác, tác phong khiêm tốn; Không hách dịch, cửa quyền, gây khó khăn, phiền hà đối với nhân dân;  Chấp hành các quy định về đạo đức nghề nghiệp."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Nghĩa vụ nào dưới đây không phải là Nghĩa vụ của viên chức trong hoạt động nghề nghiệp?",
+            "dapan": {
+                "a": "Thực hiện công việc hoặc nhiệm vụ được giao bảo đảm yêu cầu về thời gian và chất lượng.",
+                "b": "Phối hợp tốt với đồng nghiệp trong thực hiện công việc hoặc nhiệm vụ.",
+                "c": "Chấp hành sự phân công công tác của người có thẩm quyền.",
+                "d": "Chấp hành quyết định của cấp trên. Khi có căn cứ cho rằng quyết định đó là trái pháp luật thì phải kịp thời báo cáo bằng văn bản với người ra quyết định"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Những việc nào dưới đây viên chức  được làm",
+            "dapan": {
+                "a": "Trốn tránh trách nhiệm, thoái thác công việc hoặc nhiệm vụ được giao; gây bè phái, mất đoàn kết; tự ý bỏ việc; tham gia đình công.",
+                "b": "Sử dụng tài sản của cơ quan, tổ chức, đơn vị và của nhân dân đúng với quy định của pháp luật.",
+                "c": "Phân biệt đối xử dân tộc, nam nữ, thành phần xã hội, tín ngưỡng, tôn giáo dưới mọi hình thức.",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Việc tuyển dụng viên chức phải căn cứ vào?",
+            "dapan": {
+                "a": "nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập.",
+                "b": "yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế.",
+                "c": "Cả a và b"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Nguyên tắc tuyển dụng viên chức là",
+            "dapan": {
+                "a": "Bảo đảm công khai, minh bạch, công bằng  và đúng pháp luật;  Bảo đảm tính cạnh tranh; Tuyển chọn đúng người đáp ứng yêu cầu của vị trí việc làm",
+                "b": "Bảo đảm công khai, minh bạch, khách quan và đúng pháp luật;  Bảo đảm tính cạnh tranh;  Tuyển chọn đúng người đáp ứng yêu cầu nhiệm vụ và vị trí việc làm.",
+                "c": "Bảo đảm công khai, minh bạch, công bằng, khách quan và đúng pháp luật;  Bảo đảm tính cạnh tranh; Tuyển chọn đúng người đáp ứng yêu cầu của vị trí việc làm"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Những người nào không được đăng ký dự tuyển viên chức (luật mới)",
+            "dapan": {
+                "a": "Không cư trú tại Việt Nam",
+                "b": "Đang bị truy cứu trách nhiệm hình sự; đang chấp hành bản án, quyết định về hình sự của Tòa án; đang bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở chữa bệnh, cơ sở giáo dục, trường giáo dưỡng.",
+                "c": "Đang bị truy cứu trách nhiệm hình sự; đang chấp hành bản án, quyết định về hình sự của Tòa án; đang bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc, đưa vào cơ sở giáo dục bắt buộc, đưa vào trường giáo dưỡng."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Việc tuyển dụng viên chức được thực hiện thông qua hình thức nào",
+            "dapan": {
+                "a": "thi tuyển hoặc xét tuyển.",
+                "b": "thi tuyển",
+                "c": "xử tuyển"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Hợp đồng làm việc xác định thời hạn là hợp đồng mà trong đó hai bên xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng trong khoảng thời gian từ? (Luật mới)",
+            "dapan": {
+                "a": "đủ 12 tháng đến 24 tháng.",
+                "b": "đủ 12 tháng đến 36  tháng.",
+                "c": "đủ 12 tháng đến 60 tháng."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Có mấy loại hợp đồng làm việc đối với viên chức",
+            "dapan": {
+                "a": "2",
+                "b": "3",
+                "c": "4"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Người trúng tuyển viên chức phải thực hiện chế độ tập sự, trừ trường hợp?",
+            "dapan": {
+                "a": "đã có thời gian từ đủ 12 tháng trở lên thực hiện chuyên môn, nghiệp vụ phù hợp với yêu cầu của vị trí việc làm được tuyển dụng.",
+                "b": "đã có thời gian từ  12 tháng trở lên thực hiện chuyên môn, nghiệp vụ phù hợp với yêu cầu của vị trí việc làm được tuyển dụng.",
+                "c": "đã có thời gian từ đủ 6 tháng trở lên thực hiện chuyên môn, nghiệp vụ phù hợp với yêu cầu của vị trí việc làm được tuyển dụng."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trong quá trình thực hiện hợp đồng làm việc, nếu một bên có yêu cầu thay đổi nội dung hợp đồng làm việc thì phải báo cho bên kia biết trước ít nhất bao ngày làm việc",
+            "dapan": {
+                "a": "02 ngày làm việc",
+                "b": "03 ngày làm việc",
+                "c": "04 ngày làm việc",
+                "d": "05 ngày làm việc"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Đối với hợp đồng làm việc xác định thời hạn, trước khi hết hạn hợp đồng làm việc bao nhiêu ngày, người đứng đầu đơn vị sự nghiệp công lập ký kết tiếp hoặc chấm dứt hợp đồng làm việc với viên chức (luật mới)",
+            "dapan": {
+                "a": "45 ngày",
+                "b": "60 ngày",
+                "c": "90 ngày"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Đơn vị sự nghiệp công lập được đơn phương chấm dứt hợp đồng làm việc với viên chức trong các trường hợp",
+            "dapan": {
+                "a": "Viên chức có 02 năm liên tiếp bị phân loại đánh giá ở mức độ không hoàn thành nhiệm vụ",
+                "b": "Khi đơn vị sự nghiệp công lập chấm dứt hoạt động theo quyết định của cơ quan có thẩm quyền",
+                "c": "Do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác theo quy định của Chính phủ làm cho đơn vị sự nghiệp công lập buộc phải thu hẹp quy mô, khiến vị trí việc làm mà viên chức đang đảm nhận không còn",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Chọn đáp án đúng",
+            "dapan": {
+                "a": "Khi đơn phương chấm dứt hợp đồng làm việc, trừ trường hợp quy định tại điểm b khoản 1 Điều này (bị buộc thôi việc), người đứng đầu đơn vị sự nghiệp công lập phải báo cho viên chức biết trước ít nhất 45 ngày đối với hợp đồng làm việc không xác định thời hạn hoặc ít nhất 30 ngày đối với hợp đồng làm việc xác định thời hạn",
+                "b": "Khi đơn phương chấm dứt hợp đồng làm việc, trừ trường hợp quy định tại điểm b khoản 1 Điều này (bị buộc thôi việc), người đứng đầu đơn vị sự nghiệp công lập phải báo cho viên chức biết trước ít nhất 30 ngày đối với hợp đồng làm việc không xác định thời hạn hoặc ít nhất 45 ngày đối với hợp đồng làm việc xác định thời hạn",
+                "c": "Khi đơn phương chấm dứt hợp đồng làm việc, trừ trường hợp quy định tại điểm b khoản 1 Điều này (bị buộc thôi việc), người đứng đầu đơn vị sự nghiệp công lập phải báo cho viên chức biết trước ít nhất 45 ngày đối với hợp đồng làm việc không xác định thời hạn hoặc ít nhất 45 ngày đối với hợp đồng làm việc xác định thời hạn"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Người đứng đầu đơn vị sự nghiệp công lập không được đơn phương chấm dứt hợp đồng làm việc với viên chức trong các trường hợp nào",
+            "dapan": {
+                "a": "Viên chức đang nghỉ hàng năm, nghỉ về việc riêng và những trường hợp nghỉ khác được người đứng đầu đơn vị sự nghiệp công lập cho phép;",
+                "b": "Viên chức nữ đang trong thời gian có thai, nghỉ thai sản, nuôi con dưới 12 tháng tuổi, trừ trường hợp đơn vị sự nghiệp công lập chấm dứt hoạt động.",
+                "c": "Cả a và b"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Viên chức nữ đang trong thời gian có thai, nghỉ thai sản, nuôi con dưới bao nhiêu tháng tuổi, trừ trường hợp đơn vị sự nghiệp công lập chấm dứt hoạt động thì Người đứng đầu đơn vị sự nghiệp công lập không được đơn phương chấm dứt hợp động?",
+            "dapan": {
+                "a": "12 tháng tuổi",
+                "b": "24 tháng tuổi",
+                "c": "36 tháng tuổi"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Viên chức làm việc theo hợp đồng làm việc không xác định thời hạn có quyền đơn phương chấm dứt hợp đồng nhưng phải thông báo bằng văn bản cho người đứng đầu đơn vị sự nghiệp công lập biết trước ít nhất bao nhiêu ngày",
+            "dapan": {
+                "a": "30 ngày",
+                "b": "45 ngày",
+                "c": "60 ngày"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": ". Viên chức làm việc theo hợp đồng làm việc không xác định thời hạn có quyền đơn phương chấm dứt hợp đồng trong trường hợp viên chức ốm đau hoặc bị tai nạn đã điều trị 06 tháng liên tục thì phải báo trước ít nhất bao nhiêu ngày.",
+            "dapan": {
+                "a": "03 ngày",
+                "b": "05 ngày",
+                "c": "07 ngày"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Viên chức làm việc theo hợp đồng làm việc xác định thời hạn có quyền đơn phương chấm dứt hợp đồng trong các trường hợp",
+            "dapan": {
+                "a": "Không được bố trí theo đúng vị trí việc làm, địa điểm làm việc hoặc không được bảo đảm các điều kiện làm việc đã thỏa thuận trong hợp đồng làm việc;",
+                "b": "Không được trả lương đầy đủ hoặc không được trả lương đúng thời hạn theo hợp đồng làm việc;",
+                "c": "Bị ngược đãi; bị cưỡng bức lao động;  Bản thân hoặc gia đình thật sự có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng;",
+                "d": "Tất cả trường hợp trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Viên chức làm việc theo hợp đồng làm việc xác định thời hạn có quyền đơn phương chấm dứt hợp đồng trong trường hợp",
+            "dapan": {
+                "a": "Viên chức ốm đau hoặc bị tai nạn đã điều trị từ 03 tháng liên tục mà khả năng làm việc chưa hồi phục.",
+                "b": "Viên chức ốm đau hoặc bị tai nạn đã điều trị từ 06 tháng liên tục mà khả năng làm việc chưa hồi phục.",
+                "c": "Viên chức ốm đau hoặc bị tai nạn đã điều trị từ 09 tháng liên tục mà khả năng làm việc chưa hồi phục."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Viên chức phải thông báo bằng văn bản về việc đơn phương chấm dứt hợp đồng làm việc cho người đứng đầu đơn vị sự nghiệp công lập biết trước ít nhất 30 ngày trong trường hợp nào?",
+            "dapan": {
+                "a": "Không được bố trí theo đúng vị trí việc làm, địa điểm làm việc hoặc không được bảo đảm các điều kiện làm việc đã thỏa thuận trong hợp đồng làm việc;",
+                "b": "Không được trả lương đầy đủ hoặc không được trả lương đúng thời hạn theo hợp đồng làm việc;",
+                "c": "Bị ngược đãi; bị cưỡng bức lao động;",
+                "d": "Bản thân hoặc gia đình thật sự có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng;"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Việc đào tạo, bồi dưỡng được thực hiện đối với viên chức trong những trường hợp nào?",
+            "dapan": {
+                "a": "khi bổ nhiệm chức vụ quản lý, thay đổi chức danh nghề nghiệp hoặc nhằm bổ sung, cập nhật kiến thức, kỹ năng phục vụ hoạt động nghề nghiệp.",
+                "b": "trước khi bổ nhiệm chức vụ quản lý, thay đổi chức danh nghề nghiệp hoặc nhằm bổ sung, cập nhật kiến thức, kỹ năng phục vụ hoạt động nghề nghiệp.",
+                "c": "sau khi bổ nhiệm chức vụ quản lý, thay đổi chức danh nghề nghiệp hoặc nhằm bổ sung, cập nhật kiến thức, kỹ năng phục vụ hoạt động nghề nghiệp."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Thời hạn cử biệt phái không quá bao nhiêu năm, trừ một số ngành, lĩnh vực do Chính phủ quy định.",
+            "dapan": {
+                "a": "03 năm",
+                "b": "05 năm",
+                "c": "07 năm"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trong thời gian biệt phái, cơ quan nào có trách nhiệm bảo đảm tiền lương và các quyền lợi khác của viên chức.",
+            "dapan": {
+                "a": "đơn vị sự nghiệp công lập cử viên chức biệt phái",
+                "b": "đơn vị sự nghiệp công lập nơi viên chức biệt phái đến làm việc",
+                "c": "Cả a và b"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Không thực hiện biệt phái viên chức nữ đang mang thai hoặc nuôi con dưới bao nhiêu tháng tuổi.",
+            "dapan": {
+                "a": "12 tháng tuổi",
+                "b": "24 tháng tuổi",
+                "c": "36 tháng tuổi"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Trong thời gian biệt phái, cơ quan nào có trách nhiệm đảm bảo tiền lương và các quyền lợi cho viên chức?",
+            "dapan": {
+                "a": "đơn vị sự nghiệp công lập cử viên chức biệt phái có trách nhiệm bảo đảm tiền lương và các quyền lợi khác của viên chức.",
+                "b": "đơn vị sự nghiệp công lập nơi viên chức biệt phái đến làm việc có trách nhiệm bảo đảm tiền lương và các quyền lợi khác của viên chức.",
+                "c": "đơn vị sự nghiệp công lập cử viên chức biệt phái và đơn vị sự nghiệp nơi viên chức biệt phái tới làm việc có trách nhiệm bảo đảm tiền lương và các quyền lợi khác của viên chức."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Mục đích của đánh giá viên chức là?",
+            "dapan": {
+                "a": "để làm căn cứ tiếp tục bố trí, sử dụng, bổ nhiệm, miễn nhiệm, cách chức, đào tạo, bồi dưỡng, khen thưởng, kỷ luật và thực hiện chế độ, chính sách đối với viên chức.",
+                "b": "để làm căn cứ tiếp tục bố trí, sử dụng, bổ nhiệm, miễn nhiệm, bãi nhiệm, cách chức, đào tạo, bồi dưỡng, khen thưởng, kỷ luật và thực hiện chế độ, chính sách đối với viên chức.",
+                "c": "để làm căn cứ tiếp tục bố trí, sử dụng, bổ nhiệm, miễn nhiệm, đào tạo, bồi dưỡng, khen thưởng, kỷ luật và thực hiện chế độ, chính sách đối với viên chức."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Việc đánh giá viên chức được thực hiện dựa trên các căn cứ nào?",
+            "dapan": {
+                "a": "Các cam kết trong hợp đồng làm việc đã ký kết;  Quy định về đạo đức nghề nghiệp, quy tắc ứng xứ của viên chức.",
+                "b": "Tinh thần trách nhiệm, thái độ phục vụ nhân dân, tinh thần hợp tác với đồng nghiệp và việc thực hiện quy tắc ứng xử của viên chức;",
+                "c": "Việc thực hiện các nghĩa vụ khác của viên chức.",
+                "d": "Tất cả đáp án tren"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Việc đánh giá viên chức được thực hiện khi nào? (Luật mới)",
+            "dapan": {
+                "a": "Đánh giá hàng năm; đánh giá   khi kết thúc thời gian tập sự, ký kết tiếp hợp đồng làm việc, thay đổi vị trí việc làm; đánh giá trước khi xét khen thưởng, kỷ luật, bổ nhiệm, bổ nhiệm lại, quy hoạch;",
+                "b": "Đánh giá sáu tháng, hàng năm; đánh giá trước khi kết thúc thời gian tập sự, ký kết tiếp hợp đồng làm việc, thay đổi vị trí việc làm; đánh giá trước khi xét khen thưởng, kỷ luật, bổ nhiệm, bổ nhiệm lại, quy hoạch;",
+                "c": "Đánh giá hàng năm; đánh giá trước khi kết thúc thời gian tập sự, ký kết tiếp hợp đồng làm việc, thay đổi vị trí việc làm; đánh giá trước khi xét khen thưởng, kỷ luật, bổ nhiệm, bổ nhiệm lại, quy hoạch;"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Căn cứ vào nội dung đánh giá, viên chức được phân loại thành",
+            "dapan": {
+                "a": "Hoàn thành xuất sắc nhiệm vụ;  Hoàn thành tốt nhiệm vụ,. Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ.",
+                "b": "Hoàn thành xuất sắc nhiệm vụ;  Hoàn thành tốt nhiệm vụ,. Hoàn thành nhiệm vụ nhưng còn hạn chế về năng lực; Không hoàn thành nhiệm vụ.",
+                "c": "Hoàn thành xuất sắc nhiệm vụ;  Hoàn thành tốt nhiệm vụ nhưng còn hạn chế về năng lực,. Hoàn thành nhiệm vụ; Không hoàn thành nhiệm vụ."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Viên chức không được hưởng trợ cấp thôi việc  trong trường hợp nào dưới đây?",
+            "dapan": {
+                "a": "Bị buộc thôi việc;",
+                "b": "Đơn phương chấm dứt hợp đồng làm việc mà vi phạm quy định tại các khoản 4, 5 và 6 Điều 29 của Luật này;",
+                "c": "Chấm dứt hợp đồng làm việc theo quy định tại khoản 5 Điều 28 của Luật này.",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Trước bao nhiêu tháng, tính đến ngày viên chức nghỉ hưu, cơ quan, tổ chức, đơn vị quản lý viên chức phải thông báo bằng văn bản về thời điểm nghỉ hưu",
+            "dapan": {
+                "a": "03 tháng",
+                "b": "04 tháng",
+                "c": "05 tháng",
+                "d": "06 tháng"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Ttrước bao nhiêu tháng, tính đến ngày viên chức nghỉ hưu, cơ quan, tổ chức, đơn vị quản lý viên chức ra quyết định nghỉ hưu.",
+            "dapan": {
+                "a": "03 tháng",
+                "b": "04 tháng",
+                "c": "05 tháng",
+                "d": "06 tháng"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Các hình thức xử lý kỷ luật viên chức gồm",
+            "dapan": {
+                "a": "Khiển trách;  Cảnh cáo;  Cách chức; Miễn nhiệm; Buộc thôi việc.",
+                "b": "Khiển trách;  Cảnh cáo;  Cách chức;  Bãi nhiệm; Buộc thôi việc.",
+                "c": "Khiển trách;  Cảnh cáo;  Cách chức;  Buộc thôi việc."
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Viên chức có hành vi vi phạm ít nghiêm trọng đến mức phải kỷ luật bằng hình thức khiển trách thì thời hiệu xử lý kỷ luật là mấy năm  tính từ thời điểm có hành vi vi phạm (Luật mới",
+            "dapan": {
+                "a": "01 năm",
+                "b": "02 năm",
+                "c": "03 năm"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Viên chức có hành vi vi phạm   đến mức phải kỷ luật không bằng hình thức khiển trách thì thời hiệu xử lý kỷ luật là mấy năm  tính từ thời điểm có hành vi vi phạm",
+            "dapan": {
+                "a": "03 năm",
+                "b": "04 năm",
+                "c": "05 năm"
+            },
+            "dapandung": "c"
+        },
+        {
+            "noidung": "Hợp đồng làm việc xác định thời hạn áp dụng đối với người được tuyển dụng làm viên chức kể từ ngày tháng năm nào, trừ trường hợp quy định tại điểm b và điểm c khoản 2 Điều 25 (Luật mới).",
+            "dapan": {
+                "a": "01/5/2020",
+                "b": "01/7/2020",
+                "c": "01/7/2021"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Hợp đồng làm việc không xác định thời hạn áp dụng đối với   trường hợp nào dưới đây? (Luật mới)",
+            "dapan": {
+                "a": "Viên chức được tuyển dụng trước ngày 01 tháng 7 năm 2020",
+                "b": "Người được tuyển dụng làm viên chức làm việc tại vùng có điều kiện kinh tế - xã hội  khó khăn.",
+                "c": "Cả a và b"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Đối với hợp đồng làm việc xác định thời hạn, trước khi hết hạn hợp đồng làm việc bao nhiêu ngày, người đứng đầu đơn vị sự nghiệp công lập ký kết tiếp hoặc chấm dứt hợp đồng làm việc với viên chức? (Luật mới)",
+            "dapan": {
+                "a": "45 ngày",
+                "b": "60 ngày",
+                "c": "90 ngày"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Nội dung nào dưới đây không thuộc nội dung đánh giá viên chức (Luật mới)",
+            "dapan": {
+                "a": "Chấp hành đường lối, chủ trương, chính sách của Đảng và pháp luật của Nhà nước, quy định của cơ quan, tổ chức, đơn vị;",
+                "b": "Kết quả thực hiện công việc hoặc nhiệm vụ theo hợp đồng làm việc đã ký kết, theo kế hoạch đề ra hoặc theo công việc cụ thể được giao; tiến độ, chất lượng thực hiện nhiệm vụ. Việc đánh giá kết quả thực hiện nhiệm vụ phải gắn với vị trí việc làm, thể hiện thông qua công việc, sản phẩm cụ thể;",
+                "c": "Việc thực hiện quy định về đạo đức nghề nghiệp;",
+                "d": "Năng lực, trình độ chuyên môn, nghiệp vụ;"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Đánh giá viên chức được thực hiện trong trường hợp nào? (Luật mới)",
+            "dapan": {
+                "a": "Đánh giá hàng năm; đánh giá trước khi kết thúc thời gian tập sự, ký kết tiếp hợp đồng làm việc, thay đổi vị trí việc làm; đánh giá trước khi xét khen thưởng, kỷ luật, bổ nhiệm, bổ nhiệm lại, quy hoạch",
+                "b": "Đánh giá giữa năm, cuối năm; đánh giá trước khi kết thúc thời gian tập sự, ký kết tiếp hợp đồng làm việc, thay đổi vị trí việc làm; đánh giá trước khi xét khen thưởng, kỷ luật, bổ nhiệm, bổ nhiệm lại, quy hoạch",
+                "c": "Đánh giá hàng năm; đánh giá  khi kết thúc thời gian tập sự, ký kết tiếp hợp đồng làm việc, thay đổi vị trí việc làm; đánh giá trước khi xét khen thưởng, kỷ luật, bổ nhiệm, bổ nhiệm lại, quy hoạch"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thời hiệu xử lý kỷ luật được tính từ thời điểm nào? (Luật mới)",
+            "dapan": {
+                "a": "Thời điểm phát hiện hành vi vi phạm",
+                "b": "Thời điểm có hành vi vi phạm.",
+                "c": "Thời điểm kết thúc hành vi vi phạm"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Thời hiệu xử lý kỷ luật viên chức là bao lâu (Trừ trường hợp không áp dụng thời hiệu xử lý kỷ luật) (Luật mới)",
+            "dapan": {
+                "a": "24 tháng, kể từ thời điểm có hành vi vi phạm.",
+                "b": "02 năm đối với hành vi vi phạm ít nghiêm trọng đến mức phải kỷ luật bằng hình thức khiển trách;  04 năm đối với hành vi vi phạm không thuộc trường hợp vi phạm ít nghiêm trọng đến mức phải kỷ luật bằng hình thức khiển trách"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Thời hiệu xử lý kỷ luật 02 năm được áp dụng với hành vi nào? (Luật mới)",
+            "dapan": {
+                "a": "hành vi vi phạm ít nghiêm trọng đến mức phải kỷ luật bằng hình thức khiển trách",
+                "b": "hành vi vi phạm ít nghiêm trọng đến mức phải kỷ luật bằng hình thức cảnh cáo",
+                "c": "hành vi vi phạm  nghiêm trọng đến mức phải kỷ luật bằng hình thức cảnh cáo"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thời hiệu xử lý kỷ luật 05 năm được áp dụng với hành vi nào? (Luật mới)",
+            "dapan": {
+                "a": "hành vi vi phạm không thuộc trường hợp vi phạm ít nghiêm trọng đến mức phải kỷ luật bằng hình thức cảnh cáo",
+                "b": "hành vi vi phạm không thuộc trường hợp vi phạm ít nghiêm trọng đến mức phải kỷ luật bằng hình thức khiển trách",
+                "c": "Cả a và b"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Không áp dụng thời hiệu xử lý kỷ luật đối với viên chức trong trường hợp nào dưới đây?  (Luật mới)",
+            "dapan": {
+                "a": "Có hành vi vi phạm quy định về công tác bảo vệ chính trị nội bộ;",
+                "b": "Có hành vi xâm hại đến lợi ích quốc gia trong lĩnh vực quốc phòng, an ninh, đối ngoại;",
+                "c": "Sử dụng văn bằng, chứng chỉ, giấy chứng nhận, xác nhận giả hoặc không hợp pháp.",
+                "d": "Tất cả trường hợp trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Viên chức là đảng viên có hành vi vi phạm đến mức phải kỷ luật bằng hình thức khai trừ thì thời hiệu xử lý kỷ luật là bao lâu? (Luật mới)",
+            "dapan": {
+                "a": "02 năm",
+                "b": "05 năm",
+                "c": "Không áp dụng thời hiệu"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Thời hạn xử lý kỷ luật đối với viên chức trong trường hợp vụ việc không phức tạp là bao nhiêu ngày? (Luật mới)",
+            "dapan": {
+                "a": "không quá 90 ngày",
+                "b": "không quá 120 ngày",
+                "c": "không quá 150 ngày"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thời hạn xử lý kỷ luật đối với viên chức trong trường hợp vụ việc có tình tiết phức tạp cần có thời gian thanh tra, kiểm tra để xác minh làm rõ thêm thì thời hạn xử lý kỷ luật có thể kéo dài nhưng không quá bao nhiêu  ngày. (Luật mới)",
+            "dapan": {
+                "a": "không quá 90 ngày",
+                "b": "không quá 120 ngày",
+                "c": "không quá 150 ngày"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Trường hợp viên chức bị kỷ luật bằng hình thức khiển trách hoặc cảnh cáo thì không thực hiện việc quy hoạch, đào tạo, bồi dưỡng, bổ nhiệm vào chức vụ cao hơn trong thời hạn bao nhiêu tháng, kể từ ngày quyết định kỷ luật có hiệu lực? . (Luật mới)",
+            "dapan": {
+                "a": "12 tháng",
+                "b": "18 tháng",
+                "c": "24 tháng"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Trường hợp viên chức bị kỷ luật bằng hình thức cách chức thì không thực hiện việc quy hoạch, đào tạo, bồi dưỡng, bổ nhiệm trong thời hạn bao nhiêu tháng, kể từ ngày quyết định kỷ luật có hiệu lực. . (Luật mới)",
+            "dapan": {
+                "a": "12 tháng",
+                "b": "18 tháng",
+                "c": "24 tháng"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Viên chức đang trong thời hạn xử lý kỷ luật, đang bị điều tra, truy tố, xét xử thì? . (Luật mới)",
+            "dapan": {
+                "a": "không được bổ nhiệm, biệt phái, đào tạo, bồi dưỡng hoặc nghỉ việc",
+                "b": "không được quy hoạch bổ nhiệm, biệt phái, đào tạo, bồi dưỡng hoặc thôi việc",
+                "c": "không được bổ nhiệm, biệt phái, đào tạo, bồi dưỡng hoặc thôi việc"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Viên chức được tuyển dụng trước ngày 01 tháng 7 năm 2020 nhưng chưa ký kết hợp đồng làm việc không xác định thời hạn thì?",
+            "dapan": {
+                "a": "tiếp tục thực hiện hợp đồng làm việc đã ký kết; sau khi kết thúc thời hạn của hợp đồng làm việc đã ký kết thì được ký kết hợp đồng làm việc không xác định thời hạn nếu đáp ứng đầy đủ các yêu cầu theo quy định của pháp luật",
+                "b": "chấm dứt hợp đồng   nếu không đáp ứng đầy đủ các yêu cầu theo quy định của pháp luật",
+                "c": "tiếp tục thực hiện hợp đồng làm việc đã ký kết; sau khi kết thúc thời hạn của hợp đồng làm việc đã ký kết thì được ký kết hợp đồng làm việc  xác định thời hạn nếu đáp ứng đầy đủ các yêu cầu theo quy định của pháp luật"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Khi được giao công việc hoặc nhiệm vụ trái với quy định của pháp luật thì viên chức có quyền?",
+            "dapan": {
+                "a": "Được quyền từ chối thực hiện",
+                "b": "Đưọc quyền có ý kiến nhưng vẫn phải thực hiện và không chịu trách nhiệm",
+                "c": "Được quyền từ chối thực hiện sau khi có ý kiến của cấp trên"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Khi phục vụ nhân dân, viên chức phải tuân thủ các quy định nào dưới đây?",
+            "dapan": {
+                "a": "Có thái độ lịch sự, tôn trọng nhân dân;  Có tinh thần hợp tác, tác phong khiêm tốn;",
+                "b": "Không hách dịch, cửa quyền, gây khó khăn, phiền hà đối với nhân dân;",
+                "c": "Chấp hành các quy định về đạo đức nghề nghiệp.",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Nghĩa vụ nào dưới đây là nghĩa vụ của viên chức trong hoạt động nghề nghiệp?",
+            "dapan": {
+                "a": "Thực hiện công việc hoặc nhiệm vụ được giao bảo đảm yêu cầu về thời gian và chất lượng.",
+                "b": "Phối hợp tốt với đồng nghiệp trong thực hiện công việc hoặc nhiệm vụ; Chịu trách nhiệm về việc thực hiện hoạt động nghề nghiệp.",
+                "c": "Chấp hành sự phân công công tác của người có thẩm quyền;  Thường xuyên học tập nâng cao trình độ, kỹ năng chuyên môn, nghiệp vụ.",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Đạo đức nghề nghiệp là?",
+            "dapan": {
+                "a": "các chuẩn mực về nhận thức và hành vi phù hợp với đặc thù của từng lĩnh vực hoạt động nghề nghiệp do cơ quan, tổ chức có thẩm quyền quy định",
+                "b": "các chuẩn mực về nhận thức và hành vi phù hợp với   từng lĩnh vực hoạt động nghề nghiệp do cơ quan, tổ chức có thẩm quyền quy định",
+                "c": "các chuẩn mực về nhận thức hoặc hành vi phù hợp với đặc thù của từng lĩnh vực hoạt động nghề nghiệp do cơ quan, tổ chức có thẩm quyền quy định"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Quy tắc ứng xử là?",
+            "dapan": {
+                "a": "các chuẩn mực xử sự của viên chức trong thi hành nhiệm vụ và trong quan hệ xã hội do cơ quan nhà nước   ban hành, phù hợp với đặc thù công việc trong từng lĩnh vực hoạt động và được công khai để nhân dân giám sát việc chấp hành.",
+                "b": "các chuẩn mực xử sự của viên chức trong thi hành nhiệm vụ và trong quan hệ xã hội do cơ quan nhà nước có thẩm quyền ban hành, phù hợp với đặc thù công việc trong từng lĩnh vực hoạt động và được công khai để nhân dân giám sát việc chấp hành.",
+                "c": "các chuẩn mực xử sự của viên chức trong thi hành nhiệm vụ   do cơ quan nhà nước có thẩm quyền ban hành, phù hợp với đặc thù công việc trong từng lĩnh vực hoạt động và được công khai để nhân dân giám sát việc chấp hành."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Tuyển dụng là việc",
+            "dapan": {
+                "a": "lựa chọn người có phẩm chất, trình độ   vào làm viên chức trong đơn vị sự nghiệp công lập",
+                "b": "bố trí người có phẩm chất, trình độ và năng lực vào làm viên chức trong đơn vị sự nghiệp công lập",
+                "c": "lựa chọn người có phẩm chất, trình độ và năng lực vào làm viên chức trong đơn vị sự nghiệp công lập"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Việc đánh giá viên chức được xem xét theo các nội dung sau đây (Luật mới)",
+            "dapan": {
+                "a": "Chấp hành đường lối, chủ trương, chính sách của Đảng và pháp luật của Nhà nước, quy định của cơ quan, tổ chức, đơn vị;",
+                "b": "Kết quả thực hiện công việc hoặc nhiệm vụ theo hợp đồng làm việc đã ký kết, theo kế hoạch đề ra hoặc theo công việc cụ thể được giao; tiến độ, chất lượng thực hiện nhiệm vụ. Việc đánh giá kết quả thực hiện nhiệm vụ phải gắn với vị trí việc làm, thể hiện thông qua công việc, sản phẩm cụ thể;",
+                "c": "Việc thực hiện quy định về đạo đức nghề nghiệp",
+                "d": "Tất cả nội dung trên"
+            },
+            "dapandung": "D"
+        },
+        {
+            "noidung": "Đâu không phải là nội dung đánh giá viên chức (Luật mới)",
+            "dapan": {
+                "a": "Chấp hành đường lối, chủ trương, chính sách của Đảng và pháp luật của Nhà nước, quy định của cơ quan, tổ chức, đơn vị;",
+                "b": "Kết quả thực hiện công việc hoặc nhiệm vụ theo hợp đồng làm việc đã ký kết, theo kế hoạch đề ra hoặc theo công việc cụ thể được giao; tiến độ, chất lượng thực hiện nhiệm vụ. Việc đánh giá kết quả thực hiện nhiệm vụ phải gắn với vị trí việc làm, thể hiện thông qua công việc, sản phẩm cụ thể;",
+                "c": "Thái độ phục vụ nhân dân, doanh nghiệp đối với những vị trí tiếp xúc trực tiếp hoặc trực tiếp giải quyết công việc của người dân và doanh nghiệp",
+                "d": "Tinh thần trách nhiệm, thái độ phục vụ nhân dân, tinh thần hợp tác với đồng nghiệp và việc thực hiện quy tắc ứng xử của viên chứ"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Việc bổ nhiệm chức danh nghề nghiệp đối với viên chức được thực hiện theo nguyên tắc nào dưới đây?",
+            "dapan": {
+                "a": "Làm việc ở vị trí việc làm nào thì bổ nhiệm vào chức danh nghề nghiệp tương ứng với vị trí việc làm đó;",
+                "b": "Người được bổ nhiệm chức danh nghề nghiệp nào thì phải có đủ tiêu chuẩn của chức danh nghề nghiệp đó.",
+                "c": "Tất cả nguyên tắc trên"
+            },
+            "dapandung": "C"
+        },
+        {
+            "noidung": "Việc thay đổi chức danh nghề nghiệp đối với viên chức được thực hiện thông qua thi hoặc xét theo nguyên tắc nào?",
+            "dapan": {
+                "a": "công khai, bình đẳng,  minh bạch, khách quan và đúng pháp luật.",
+                "b": "bình đẳng, công khai, minh bạch, khách quan và đúng pháp luật.",
+                "c": "bình đẳng, minh bạch, công khai, , khách quan và đúng pháp luật."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Hình thức đào tạo, bồi dưỡng viên chức gồm?",
+            "dapan": {
+                "a": "Đào tạo, bồi dưỡng theo tiêu chuẩn chức vụ quản lý;  Bồi dưỡng theo tiêu chuẩn chức danh nghề nghiệp; Bồi dưỡng nhằm bổ sung, cập nhật kiến thức, kỹ năng phục vụ hoạt động nghề nghiệp.",
+                "b": "Đào tạo, bồi dưỡng theo tiêu chuẩn chức vụ quản lý;  Bồi dưỡng theo tiêu chuẩn chức danh nghề nghiệp;",
+                "c": "Đào tạo, bồi dưỡng theo tiêu chuẩn chức vụ quản lý;  Bồi dưỡng theo tiêu chuẩn chức danh nghề nghiệp; Bồi dưỡng kiến thức, kỹ năng phục vụ hoạt động nghề nghiệp."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Thời gian đào tạo, bồi dưỡng viên chức được tính như thế nào?",
+            "dapan": {
+                "a": "không được tính là thời gian công tác liên tục nhưng được xét nâng lương.",
+                "b": "được tính là thời gian công tác liên tục, được xét nâng lương.",
+                "c": "được tính là thời gian công tác liên tục, nhưng không được xét nâng lương."
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Viên chức được đơn vị sự nghiệp công lập cử đi đào tạo phải đền bù chi phí đào tạo trong trường hợp nào?",
+            "dapan": {
+                "a": "đơn phương chấm dứt hợp đồng làm việc hoặc tự ý bỏ việc",
+                "b": "đơn phương chấm dứt hợp đồng làm việc và tự ý bỏ việc",
+                "c": "bị đơn phương chấm dứt hợp đồng làm việc",
+                "d": "bị sa thải"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Viên chức được cử biệt phái phải chịu sự phân công công tác và quản lý của cơ quan, tổ chức, nào?",
+            "dapan": {
+                "a": "đơn vị nơi được cử đến",
+                "b": "đơn vị nơi cử đi",
+                "c": "đơn vị nơi cử đi và đơn vị nơi cử đến",
+                "d": "đơn vị nơi cử đi hoặc đơn vị nơi cử đến"
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Viên chức giữ chức vụ quản lý được bổ nhiệm có thời hạn không quá bao nhiêu năm?",
+            "dapan": {
+                "a": "03 năm",
+                "b": "05 năm",
+                "c": "07 năm"
+            },
+            "dapandung": "B"
+        },
+        {
+            "noidung": "Nội dung   đánh giá viên chức bao gồm?",
+            "dapan": {
+                "a": "Chấp hành đường lối, chủ trương, chính sách của Đảng và pháp luật của Nhà nước, quy định của cơ quan, tổ chức, đơn vị;",
+                "b": "Kết quả thực hiện công việc hoặc nhiệm vụ theo hợp đồng làm việc đã ký kết, theo kế hoạch đề ra hoặc theo công việc cụ thể được giao; tiến độ, chất lượng thực hiện nhiệm vụ. Việc đánh giá kết quả thực hiện nhiệm vụ phải gắn với vị trí việc làm, thể hiện thông qua công việc, sản phẩm cụ thể;",
+                "c": "Việc thực hiện quy định về đạo đức nghề nghiệp; Tinh thần trách nhiệm, thái độ phục vụ nhân dân, tinh thần hợp tác với đồng nghiệp và việc thực hiện quy tắc ứng xử của viên chức; Việc thực hiện các nghĩa vụ khác của viên chức",
+                "d": "Tất cả đáp án trên"
+            },
+            "dapandung": "D"
+        }
+    ]
+}

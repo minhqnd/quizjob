@@ -166,6 +166,14 @@ function changeQuestion(index) {
         $("#answer1").text(questions.cauhoi[index].dapan.a);
         $("#answer2").text(questions.cauhoi[index].dapan.b);
         $("#answer3").text(questions.cauhoi[index].dapan.c);
+        // if answer d is empty, hide it
+        $("#answer4box").removeClass("hidden")
+        $("#answerD").removeClass("hidden")
+        if (questions.cauhoi[index].dapan.d == undefined) {
+            $("#answer4box").addClass("hidden")
+            $("#answerD").addClass("hidden")
+        }
+
         $("#answer4").text(questions.cauhoi[index].dapan.d);
 
 
