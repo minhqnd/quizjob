@@ -70,16 +70,6 @@
             "dapandung": "B"
         },
         {
-            "noidung": "Văn bản trình bày các cách thức hành động tối ưu để thực hiện nhiệm vụ công tác nhất định của cơ quan, tổ chức thuộc thể loại văn bản nào dưới đây ?",
-            "dapan": {
-                "a": "Phương án",
-                "b": "Đề án",
-                "c": "Dự án",
-                "d": "Chương trình"
-            },
-            "dapandung": "B"
-        },
-        {
             "noidung": "Văn bản trình bày có hệ thống về dự kiến cách thức thực hiện các mục tiêu riêng biệt trong giới hạn về nguồn lực, ngân sách, thời gian đã được xác định trước để triển khai chương trình, đề án, kế hoạch công tác đã đề ra thuộc thể loại văn bản nào dưới đây ?",
             "dapan": {
                 "a": "Phương án",
