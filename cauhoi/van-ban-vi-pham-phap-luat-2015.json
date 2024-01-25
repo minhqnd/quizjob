@@ -508,6 +508,15 @@
             "dapandung": "A"
         },
         {
+            "noidung": "Văn bản quy phạm pháp luật được áp dụng trong trường hợp nào dưới đây?",
+            "dapan": {
+                "a": "đối với hành vi xảy ra tại thời điểm mà văn bản đó được thông qua.Trong trường hợp quy định của văn bản quy phạm pháp luật có hiệu lực trở về trước thì áp dụng theo quy định đó.",
+                "b": "đối với hành vi xảy ra tại thời điểm mà văn bản đó được ban hành.Trong trường hợp quy định của văn bản quy phạm pháp luật có hiệu lực trở về trước thì áp dụng theo quy định đó.",
+                "c": "đối với hành vi xảy ra tại thời điểm mà văn bản đó đang có hiệu lực.Trong trường hợp quy định của văn bản quy phạm pháp luật có hiệu lực trở về trước thì áp dụng theo quy định đó."
+            },
+            "dapandung": "C"
+        },
+        {
             "noidung": "Trong trường hợp các văn bản quy phạm pháp luật có quy định khác nhau về cùng một vấn đề thì áp dụng văn bản nào?",
             "dapan": {
                 "a": "Văn bản ban hành sau",
