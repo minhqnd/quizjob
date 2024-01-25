@@ -22,9 +22,9 @@
         {
             "noidung": "Cán bộ là công dân Việt Nam?",
             "dapan": {
-                "a": "được bầu cử, phê chuẩn, bổ nhiệm giữ chức vụ, chức danh theo nhiệm kỳ trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, tổ chức chính trị - xã hội ở trung ương, ở tỉnh, thành phố trực thuộc trung  , ở huyện, quận, thị xã, thành phố thuộc tỉnh  , trong biên chế và hưởng lương từ ngân sách nhà nước)",
-                "b": "được bầu cử, phê chuẩn, bổ nhiệm giữ chức vụ  theo nhiệm kỳ trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, tổ chức chính trị - xã hội ở trung ương, ở tỉnh, thành phố trực thuộc trung  , ở huyện, quận, thị xã, thành phố thuộc tỉnh  , trong biên chế và hưởng lương từ ngân sách nhà nước)",
-                "c": "được bầu cử, phê chuẩn, bổ nhiệm giữ   chức danh theo nhiệm kỳ trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, tổ chức chính trị - xã hội ở trung ương, ở tỉnh, thành phố trực thuộc trung  , ở huyện, quận, thị xã, thành phố thuộc tỉnh  , trong biên chế và hưởng lương từ ngân sách nhà nước)"
+                "a": "được bầu cử, phê chuẩn, bổ nhiệm giữ chức vụ, chức danh theo nhiệm kỳ trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, tổ chức chính trị - xã hội ở trung ương, ở tỉnh, thành phố trực thuộc trung  , ở huyện, quận, thị xã, thành phố thuộc tỉnh  , trong biên chế và hưởng lương từ ngân sách nhà nước.",
+                "b": "được bầu cử, phê chuẩn, bổ nhiệm giữ chức vụ  theo nhiệm kỳ trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, tổ chức chính trị - xã hội ở trung ương, ở tỉnh, thành phố trực thuộc trung  , ở huyện, quận, thị xã, thành phố thuộc tỉnh  , trong biên chế và hưởng lương từ ngân sách nhà nước.",
+                "c": "được bầu cử, phê chuẩn, bổ nhiệm giữ   chức danh theo nhiệm kỳ trong cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, tổ chức chính trị - xã hội ở trung ương, ở tỉnh, thành phố trực thuộc trung  , ở huyện, quận, thị xã, thành phố thuộc tỉnh  , trong biên chế và hưởng lương từ ngân sách nhà nước."
             },
             "dapandung": "A"
         },
@@ -40,16 +40,16 @@
         {
             "noidung": "công chức cấp xã là?",
             "dapan": {
-                "a": "công dân Việt Nam được tuyển dụng giữ một chức danh chuyên môn, nghiệp vụ thuộc Ủy ban nhân dân cấp xã, trong biên chế và hưởng lương từ ngân sách nhà nước)",
-                "b": "công dân Việt Nam được tuyển dụng, bổ nhiệm giữ một chức danh chuyên môn, nghiệp vụ thuộc Ủy ban nhân dân cấp xã, trong biên chế và hưởng lương từ ngân sách nhà nước)",
-                "c": "công dân Việt Nam được tuyển dụng giữ một chức vụ, chức danh chuyên môn, nghiệp vụ thuộc Ủy ban nhân dân cấp xã, trong biên chế và hưởng lương từ ngân sách nhà nước)"
+                "a": "công dân Việt Nam được tuyển dụng giữ một chức danh chuyên môn, nghiệp vụ thuộc Ủy ban nhân dân cấp xã, trong biên chế và hưởng lương từ ngân sách nhà nước.",
+                "b": "công dân Việt Nam được tuyển dụng, bổ nhiệm giữ một chức danh chuyên môn, nghiệp vụ thuộc Ủy ban nhân dân cấp xã, trong biên chế và hưởng lương từ ngân sách nhà nước.",
+                "c": "công dân Việt Nam được tuyển dụng giữ một chức vụ, chức danh chuyên môn, nghiệp vụ thuộc Ủy ban nhân dân cấp xã, trong biên chế và hưởng lương từ ngân sách nhà nước."
             },
             "dapandung": "A"
         },
         {
             "noidung": "Đâu không phải là nguyên tắc trong quản lý cán bộ, công chức",
             "dapan": {
-                "a": "Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước)",
+                "a": "Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước.",
                 "b": "Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế.",
                 "c": "Thực hiện nguyên tắc tập trung dân chủ, chế độ trách nhiệm cá nhân và phân công, phân cấp rõ ràng.",
                 "d": "Bảo đảm thứ bậc hành chính và sự phối hợp chặt chẽ."
@@ -79,7 +79,7 @@
             "dapan": {
                 "a": "Tôn trọng nhân dân, tận tụy phục vụ nhân dân.",
                 "b": "Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân.",
-                "c": ". Chấp hành nghiêm chỉnh đường lối, chủ trương, chính sách của Đảng và pháp luật của Nhà nước)",
+                "c": ". Chấp hành nghiêm chỉnh đường lối, chủ trương, chính sách của Đảng và pháp luật của Nhà nước.",
                 "d": "Thực hiện đúng, đầy đủ và chịu trách nhiệm về kết quả thực hiện nhiệm vụ, quyền hạn được giao."
             },
             "dapandung": "D"
@@ -98,7 +98,7 @@
             "dapan": {
                 "a": "Tôn trọng nhân dân, tận tụy phục vụ nhân dân.",
                 "b": "Thực hiện đúng, đầy đủ và chịu trách nhiệm về kết quả thực hiện nhiệm vụ, quyền hạn được giao.",
-                "c": "Có ý thức tổ chức kỷ luật; nghiêm chỉnh chấp hành nội quy, quy chế của cơ quan, tổ chức, đơn vị; báo cáo người có thẩm quyền khi phát hiện hành vi vi phạm pháp luật trong cơ quan, tổ chức, đơn vị; bảo vệ bí mật nhà nước)"
+                "c": "Có ý thức tổ chức kỷ luật; nghiêm chỉnh chấp hành nội quy, quy chế của cơ quan, tổ chức, đơn vị; báo cáo người có thẩm quyền khi phát hiện hành vi vi phạm pháp luật trong cơ quan, tổ chức, đơn vị; bảo vệ bí mật nhà nước."
             },
             "dapandung": "A"
         },
@@ -181,7 +181,7 @@
             "dapan": {
                 "a": "3 loại",
                 "b": "4 loại",
-                "c": "5 loại ( Loại A gồm những người được bổ nhiệm vào ngạch chuyên viên cao cấp hoặc tương đương; Loại B gồm những người được bổ nhiệm vào ngạch chuyên viên chính hoặc tương đương; Loại C gồm những người được bổ nhiệm vào ngạch chuyên viên hoặc tương đương; Loại D gồm những người được bổ nhiệm vào ngạch cán sự hoặc tương đương và ngạch nhân viên; Loại đối với ngạch công chức quy định tại điểm e khoản 1 Điều 42 của Luật này theo quy định của Chính phủ)"
+                "c": "5 loại ( Loại A gồm những người được bổ nhiệm vào ngạch chuyên viên cao cấp hoặc tương đương; Loại B gồm những người được bổ nhiệm vào ngạch chuyên viên chính hoặc tương đương; Loại C gồm những người được bổ nhiệm vào ngạch chuyên viên hoặc tương đương; Loại D gồm những người được bổ nhiệm vào ngạch cán sự hoặc tương đương và ngạch nhân viên; Loại đối với ngạch công chức quy định tại điểm e khoản 1 Điều 42 của Luật này theo quy định của Chính phủ."
             },
             "dapandung": "C"
         },
@@ -237,7 +237,7 @@
             "dapan": {
                 "a": "4 ngạch",
                 "b": "5 ngạch",
-                "c": "6 ngạch ( a) Chuyên viên cao cấp và tương đương;b) Chuyên viên chính và tương đương;c) Chuyên viên và tương đương;d) Cán sự và tương đương;đ) Nhân viên; e) Ngạch khác theo quy định của Chính phủ)"
+                "c": "6 ngạch ( a) Chuyên viên cao cấp và tương đương;b) Chuyên viên chính và tương đương;c) Chuyên viên và tương đương;d) Cán sự và tương đương;đ) Nhân viên; e) Ngạch khác theo quy định của Chính phủ."
             },
             "dapandung": "C"
         },
@@ -337,7 +337,7 @@
                 "a": "Miễn nhiệm",
                 "b": "Cho thôi làm nhiệm vụ",
                 "c": "Cả a và b",
-                "d": "bố trí công tác khác)"
+                "d": "bố trí công tác khác."
             },
             "dapandung": "D"
         },
@@ -383,7 +383,7 @@
             "noidung": "Những người nào không được đăng ký dự tuyển công chức",
             "dapan": {
                 "a": "Cư trú tại Việt Nam;  Có năng lực hành vi dân sự; đang bị xử phạt vi phạm hành chính",
-                "b": "Không cư trú tại Việt Nam;  Mất hoặc bị hạn chế năng lực hành vi dân sự; Đang bị truy cứu trách nhiệm hình sự; đang chấp hành hoặc đã chấp hành xong bản án, quyết định về hình sự của Tòa án mà chưa được xóa án tích; đang bị áp dụng biện pháp xử lý hành chính   đưa vào cơ sở cai nghiện bắt buộc, đưa vào cơ sở giáo dục bắt buộc)",
+                "b": "Không cư trú tại Việt Nam;  Mất hoặc bị hạn chế năng lực hành vi dân sự; Đang bị truy cứu trách nhiệm hình sự; đang chấp hành hoặc đã chấp hành xong bản án, quyết định về hình sự của Tòa án mà chưa được xóa án tích; đang bị áp dụng biện pháp xử lý hành chính   đưa vào cơ sở cai nghiện bắt buộc, đưa vào cơ sở giáo dục bắt buộc.",
                 "c": "Có văn bằng, chứng chỉ phù hợp;  Có phẩm chất chính trị, đạo đức tốt;  Đủ sức khoẻ để thực hiện nhiệm vụ;"
             },
             "dapandung": "B"
@@ -503,7 +503,7 @@
                 "a": "Miễn nhiệm",
                 "b": "Cho thôi làm nhiệm vụ",
                 "c": "Cả a và b",
-                "d": "bố trí công tác khác)"
+                "d": "bố trí công tác khác."
             },
             "dapandung": "D"
         },
@@ -629,7 +629,7 @@
         {
             "noidung": "Đâu là nguyên tắc quản lý cán bộ, công chức quy định tại Luật cán bộ, công chức năm 2008?",
             "dapan": {
-                "a": "Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước)",
+                "a": "Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước.",
                 "b": "Đảm bảo sự kết hợp giữa con người và chức danh, vị trí việc làm.",
                 "c": "Đảm bảo sự công bằng, dân chủ.",
                 "d": "Đảm bảo nguyên tắc tập trung dân chủ."
@@ -662,14 +662,14 @@
                 "a": "Tiết lộ thông tin liên quan đến bí mật nhà nước dưới mọi hình thức",
                 "b": "Tiết lộ thông tin liên quan đến bí mật nhà nước khi chưa được phép của cơ quan có thẩm quyền.",
                 "c": "Tiết lộ thông tin liên quan đến bí mật nhà nước theo quy định.",
-                "d": "Tiết lộ thông tin liên quan đến bí mật nhà nước trong cơ quan, đơn vị công tác)"
+                "d": "Tiết lộ thông tin liên quan đến bí mật nhà nước trong cơ quan, đơn vị công tác."
             },
             "dapandung": "A"
         },
         {
             "noidung": "Đâu là những việc cán bộ, công chức không được làm liên quan đến đạo đức công vụ quy định tại Luật cán bộ, công chức năm 2008?",
             "dapan": {
-                "a": "Phân biệt, đối xử dân tộc, nam nữ, thành phần xã hội, tín ngưỡng, tôn giáo dưới mọi hình thức)",
+                "a": "Phân biệt, đối xử dân tộc, nam nữ, thành phần xã hội, tín ngưỡng, tôn giáo dưới mọi hình thức.",
                 "b": "Có tác phong lịch sự",
                 "c": "Giữ gìn uy tín, danh dự cho cơ quan, tổ chức, đơn vị và đồng nghiệp.",
                 "d": "Cán bộ, công chức phải gần gũi với nhân dân."
@@ -679,9 +679,9 @@
         {
             "noidung": "Công chức 02 năm liên tiếp không hoàn thành nhiệm vụ thì cơ quan, tổ chức, đơn vị có thẩm quyền xử lý như thế nào?",
             "dapan": {
-                "a": "Giải quyết thôi việc)",
-                "b": "Bố trí công tác khác)",
-                "c": "Giáng chức)",
+                "a": "Giải quyết thôi việc.",
+                "b": "Bố trí công tác khác.",
+                "c": "Giáng chức.",
                 "d": "Hạ bậc lương."
             },
             "dapandung": "A"
@@ -769,17 +769,17 @@
         {
             "noidung": "Theo Luật cán bộ, công chức năm 2008, từ \"ngạch\" được hiểu là:",
             "dapan": {
-                "a": "Tên gọi thể hiện trình độ học vấn của công chức)",
+                "a": "Tên gọi thể hiện trình độ học vấn của công chức.",
                 "B": "Tên gọi thể hiện thứ bậc về năng lực và trình độ chuyên môn, nghiệp vụ của công chức",
-                "c": "Tên gọi thể hiện trình độ chuyên môn của công chức)",
-                "d": "Tên gọi thể hiện trình độ  và khả năng của công chức)"
+                "c": "Tên gọi thể hiện trình độ chuyên môn của công chức.",
+                "d": "Tên gọi thể hiện trình độ  và khả năng của công chức."
             },
             "dapandung": "B"
         },
         {
             "noidung": "Theo Luật Cán bộ, công chức năm 2008, đâu không phải là nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và nhân dân?",
             "dapan": {
-                "a": "Trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia)",
+                "a": "Trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; bảo vệ danh dự Tổ quốc và lợi ích quốc gia.",
                 "b": "Tôn trọng nhân dân, tận tụy phục vụ nhân dân.",
                 "c": "Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân.",
                 "d": "Đại diện quyền và lợi ích hợp pháp của nhân dân."
@@ -789,9 +789,9 @@
         {
             "noidung": "Nội dung nào không thuộc nội dung đánh giá cán bộ theo Luật Cán bộ, công chức năm 2008?",
             "dapan": {
-                "a": "Phẩm chất chính trị, đạo đức, lối sống, tác phong và lề lối làm việc)",
+                "a": "Phẩm chất chính trị, đạo đức, lối sống, tác phong và lề lối làm việc.",
                 "b": "Tham gia các hoạt động đoàn thể.",
-                "c": "Tinh thần trách nhiệm trong công tác)",
+                "c": "Tinh thần trách nhiệm trong công tác.",
                 "d": "Kết quả thực hiện nhiệm vụ được giao."
             },
             "dapandung": "B"
@@ -840,7 +840,7 @@
             "noidung": "Công chức được cử đi đào tạo, bồi dưỡng trong nước không được hưởng quyền lợi nào sau đây?",
             "dapan": {
                 "a": "Được cơ quan quản lý, sử dụng bố trí thời gian và kinh phí theo quy định.",
-                "b": "Được tính thời gian đào tạo, bồi dưỡng vào thời gian công tác liên tục)",
+                "b": "Được tính thời gian đào tạo, bồi dưỡng vào thời gian công tác liên tục.",
                 "c": "Được hưởng nguyên lương, phụ cấp trong thời gian đào tạo, bồi dưỡng; được biểu dương, khen thưởng về kết quả xuất sắc trong đào tạo, bồi dưỡng.",
                 "d": "Sau đào tạo, bồi dưỡng được nâng lương sớm 1 năm."
             },
@@ -871,7 +871,7 @@
             "dapan": {
                 "a": "Bảo vệ lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, công dân.",
                 "b": "Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế.",
-                "c": "Bảo đảm sự lãnh đạo của Đảng, sự quản lý của nhà nước)",
+                "c": "Bảo đảm sự lãnh đạo của Đảng, sự quản lý của nhà nước.",
                 "d": "Thực hiện bình đẳng giới."
             },
             "dapandung": "A"
@@ -879,10 +879,10 @@
         {
             "noidung": "Nhiệm vụ nào sau đây không thuộc thẩm quyền của cơ quan sử dụng công chức?",
             "dapan": {
-                "a": "Bố trí, phân công nhiệm vụ và kiểm tra việc thực hiện nhiệm vụ của công chức)",
+                "a": "Bố trí, phân công nhiệm vụ và kiểm tra việc thực hiện nhiệm vụ của công chức.",
                 "b": "Thanh tra, kiểm tra việc thi hành các quy định của pháp luật đối với công chức thuộc phạm vi quản lý.",
                 "c": "Đánh giá công chức theo quy định.",
-                "d": "Tổ chức thực hiện các chế độ, chính sách của Nhà nước đối với công chức)"
+                "d": "Tổ chức thực hiện các chế độ, chính sách của Nhà nước đối với công chức."
             },
             "dapandung": "B"
         },
@@ -930,7 +930,7 @@
             "noidung": "Cơ quan sử dụng cán bộ, công chức là?",
             "dapan": {
                 "a": "cơ quan, tổ chức, đơn vị được giao thẩm quyền quản lý, phân công, bố trí, kiểm tra việc thực hiện nhiệm vụ, quyền hạn của cán bộ, công chức",
-                "b": "cơ quan, tổ chức, đơn vị được giao thẩm quyền tuyển dụng, bổ nhiệm, nâng ngạch, nâng lương, cho thôi việc, nghỉ hưu, giải quyết chế độ, chính sách và khen thưởng, kỷ luật đối với cán bộ, công chức)",
+                "b": "cơ quan, tổ chức, đơn vị được giao thẩm quyền tuyển dụng, bổ nhiệm, nâng ngạch, nâng lương, cho thôi việc, nghỉ hưu, giải quyết chế độ, chính sách và khen thưởng, kỷ luật đối với cán bộ, công chức.",
                 "c": "Tất cả đáp án trên"
             },
             "dapandung": "A"
@@ -939,7 +939,7 @@
             "noidung": "Cơ quan quản lý cán bộ, công chức là?",
             "dapan": {
                 "a": "cơ quan, tổ chức, đơn vị được giao thẩm quyền quản lý, phân công, bố trí, kiểm tra việc thực hiện nhiệm vụ, quyền hạn của cán bộ, công chức",
-                "b": "cơ quan, tổ chức, đơn vị được giao thẩm quyền tuyển dụng, bổ nhiệm, nâng ngạch, nâng lương, cho thôi việc, nghỉ hưu, giải quyết chế độ, chính sách và khen thưởng, kỷ luật đối với cán bộ, công chức)",
+                "b": "cơ quan, tổ chức, đơn vị được giao thẩm quyền tuyển dụng, bổ nhiệm, nâng ngạch, nâng lương, cho thôi việc, nghỉ hưu, giải quyết chế độ, chính sách và khen thưởng, kỷ luật đối với cán bộ, công chức.",
                 "c": "Tất cả đáp án trên"
             },
             "dapandung": "B"
@@ -983,7 +983,7 @@
         {
             "noidung": "Điều động là?",
             "dapan": {
-                "a": "việc cán bộ, công chức được cơ quan có thẩm quyền quyết định chuyển từ cơ quan, tổ chức, đơn vị này đến làm việc ở cơ quan, tổ chức, đơn vị khác)",
+                "a": "việc cán bộ, công chức được cơ quan có thẩm quyền quyết định chuyển từ cơ quan, tổ chức, đơn vị này đến làm việc ở cơ quan, tổ chức, đơn vị khác.",
                 "b": "việc cán bộ, công chức lãnh đạo, quản lý được cử hoặc bổ nhiệm giữ một chức danh lãnh đạo, quản lý khác trong một thời hạn nhất định để tiếp tục được đào tạo, bồi dưỡng và rèn luyện theo yêu cầu nhiệm vụ",
                 "c": "việc công chức của cơ quan, tổ chức, đơn vị này được cử đến làm việc tại cơ quan, tổ chức, đơn vị khác theo yêu cầu nhiệm vụ"
             },
@@ -992,7 +992,7 @@
         {
             "noidung": "Luân chuyển là?",
             "dapan": {
-                "a": "việc cán bộ, công chức được cơ quan có thẩm quyền quyết định chuyển từ cơ quan, tổ chức, đơn vị này đến làm việc ở cơ quan, tổ chức, đơn vị khác)",
+                "a": "việc cán bộ, công chức được cơ quan có thẩm quyền quyết định chuyển từ cơ quan, tổ chức, đơn vị này đến làm việc ở cơ quan, tổ chức, đơn vị khác.",
                 "b": "việc cán bộ, công chức lãnh đạo, quản lý được cử hoặc bổ nhiệm giữ một chức danh lãnh đạo, quản lý khác trong một thời hạn nhất định để tiếp tục được đào tạo, bồi dưỡng và rèn luyện theo yêu cầu nhiệm vụ",
                 "c": "việc công chức của cơ quan, tổ chức, đơn vị này được cử đến làm việc tại cơ quan, tổ chức, đơn vị khác theo yêu cầu nhiệm vụ"
             },
@@ -1001,7 +1001,7 @@
         {
             "noidung": "Biệt phái là?",
             "dapan": {
-                "a": "việc cán bộ, công chức được cơ quan có thẩm quyền quyết định chuyển từ cơ quan, tổ chức, đơn vị này đến làm việc ở cơ quan, tổ chức, đơn vị khác)",
+                "a": "việc cán bộ, công chức được cơ quan có thẩm quyền quyết định chuyển từ cơ quan, tổ chức, đơn vị này đến làm việc ở cơ quan, tổ chức, đơn vị khác.",
                 "b": "việc cán bộ, công chức lãnh đạo, quản lý được cử hoặc bổ nhiệm giữ một chức danh lãnh đạo, quản lý khác trong một thời hạn nhất định để tiếp tục được đào tạo, bồi dưỡng và rèn luyện theo yêu cầu nhiệm vụ",
                 "c": "việc công chức của cơ quan, tổ chức, đơn vị này được cử đến làm việc tại cơ quan, tổ chức, đơn vị khác theo yêu cầu nhiệm vụ"
             },
