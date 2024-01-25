@@ -161,7 +161,6 @@ function changeQuestion(index) {
         resetColor()
         $("#question").text(questions.cauhoi[index].noidung);
         $("#selected-ex").text(questions.cauhoi[index].dapandung);
-        console.log(questions.cauhoi[index].dapandung);
         $("#question-ex").text(questions.cauhoi[index].noidung);
         $("#answer1").text(questions.cauhoi[index].dapan.a);
         $("#answer2").text(questions.cauhoi[index].dapan.b);
@@ -203,6 +202,7 @@ function changeQuestion(index) {
             // add the outline to the selected answer
             $("#answer" + selectedAnswer[index]).addClass("outline")
             $("#answer" + selectedAnswer[index]).addClass("outline-amber-400")
+            $("#check").prop("disabled", false);
             //if checked, show the ex div
             if (checked[index] !== undefined) {
                 check(selectedAnswer[index])
