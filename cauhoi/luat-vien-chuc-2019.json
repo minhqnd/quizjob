@@ -195,7 +195,16 @@
             "dapandung": "A"
         },
         {
-            "noidung": "Căn cứ tuyển dụng công chức (NĐ 24)",
+            "noidung": "Căn cứ tuyển dụng công chức (NĐ 24) yêu cầu theo Luật CBCC 2008 ",
+            "dapan": {
+                "a": "Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế",
+                "b": "Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế của cơ quan quản lý công chức.",
+                "c": "Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế của cơ quan sử dụng công chức."
+            },
+            "dapandung": "A"
+        },
+        {
+            "noidung": "Căn cứ tuyển dụng công chức (NĐ 24) theo văn bản hướng dẫn thi hành",
             "dapan": {
                 "a": "Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế",
                 "b": "Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế của cơ quan quản lý công chức.",
