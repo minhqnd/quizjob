@@ -260,6 +260,8 @@ function resetColor() {
     $("#answerB").removeClass("outline-red-400")
     $("#answerC").removeClass("outline-green-400")
     $("#answerC").removeClass("outline-red-400")
+    $("#answerD").removeClass("outline-green-400")
+    $("#answerD").removeClass("outline-red-400")
     //remove ex div
     $("#ex").addClass("hidden")
 }
