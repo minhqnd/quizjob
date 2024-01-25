@@ -667,6 +667,16 @@
             "dapandung": "A"
         },
         {
+            "noidung": "Theo Luật cán bộ, công chức  , những người được bổ nhiệm vào ngạch chuyên viên chính và tương đương thì được xếp vào công chức loại nào ?",
+            "dapan": {
+                "a": "Loại A",
+                "b": "Loại B",
+                "c": "Loại C",
+                "d": "Loại D"
+            },
+            "dapandung": "B"
+        },
+        {
             "noidung": "Đâu là những việc cán bộ, công chức không được làm liên quan đến đạo đức công vụ quy định tại Luật cán bộ, công chức năm 2008?",
             "dapan": {
                 "a": "Phân biệt, đối xử dân tộc, nam nữ, thành phần xã hội, tín ngưỡng, tôn giáo dưới mọi hình thức.",
