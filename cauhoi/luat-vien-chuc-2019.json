@@ -278,6 +278,15 @@
             "dapandung": "B"
         },
         {
+            "noidung": "Chọn đáp án đúng",
+            "dapan": {
+                "a": "Thời hạn biệt phái không quá 03 năm, trừ một số ngành, lĩnh vực do Chính phủ quy định",
+                "b": "Thời hạn biệt phái không quá 04 năm, trừ một số ngành, lĩnh vực do Chính phủ quy định",
+                "c": "Thời hạn biệt phái không quá 05 năm, trừ một số ngành, lĩnh vực do Chính phủ quy định"
+            },
+            "dapandung": "B"
+        },
+        {
             "noidung": "Không thực hiện biệt phái công chức nữ trường hợp nào?",
             "dapan": {
                 "a": "đang mang thai hoặc nuôi con dưới 12 tháng tuổi.",
